@@ -1,0 +1,4598 @@
+The Project Gutenberg EBook of Rosmersholma, by Henrik Ibsen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Rosmersholma
+       Nelinäytöksinen näytelmä
+
+Author: Henrik Ibsen
+
+Translator: Hilda Asp
+
+Release Date: October 7, 2005 [EBook #16806]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ROSMERSHOLMA ***
+
+
+
+
+Produced by Matti Järvinen and Tuija Lindholm.
+
+
+
+
+
+
+
+
+ROSMERSHOLMA.
+
+NELINÄYTÖKSINEN NÄYTELMÄ.
+
+
+Kirjoittanut
+Henrik Ibsen.
+
+
+Suomentanut
+Hilda Asp.
+
+
+Ensimmäisen kerran julkaissut
+Hj. Hagelberg 1887.
+
+
+
+
+HENKILÖT:
+
+
+*Johannes Rosmer*, Rosmersholman omistaja, entinen kirkkoherra.
+*Rebekka West*, asuva Rosmerin luona.
+*Rehtori Kroll*, Rosmerin lanko,
+*Ulrik Brendel*.
+*Peder Mortensgård*.
+*Matami Helseth*, Rosmersholman taloudenhoitaja.
+
+
+(Tapahtuma Rosmersholman vanhassa herraskartanossa, lähellä erästä
+vuonokaupunkia länsi-Norjassa.)
+
+
+
+
+ENSIMMÄINEN NÄYTÖS.
+
+
+(Arkihuone Rosmersholmassa; avara vanhan-aikuinen ja hauska. Alhaalla
+oikealla puolen tuoreilla koivun-oksilla ja metsäkukilla koristettu
+muuri. Ylempänä ovi. Perällä kaksois-ovet eteiseen. Vasemmalla seinällä
+akkuna, sen edessä kasvia ja kukkia. Muurin luona pöytä, sen ympärillä
+nojatuolia ja sohva. Seinällä riippuu pappien, upseerien ja
+juhlapukuisten virkamiesten kuvia, toiset vanhoja toiset uudempia.
+Akkuna on auki. Samoin eteisen-ovi ja ulko-ovi. Ovesta näkyy suuria,
+vanhoja puita kartanoon vievissä puistokäytävissä. Kesä-ilta. Aurinko on
+laskenut.)
+
+(*Rebekka West* istuu akkunan vieressä nojatuolissa ja virkkaa suurta
+valkeata, melkein valmista villahuivia. Tuontuostakin hän katsahtaa ulos
+kasvien välistä. Vähän ajan perästä tulee *matami Helseth* oikealta.)
+
+*Matami Helseth*. Parasta kait on, että vähitellen alan panna illallista
+pöytään, neiti?
+
+*Rebekka West*. Niin, tehkää se. Luultavasti pastori pian palaakin.
+
+*Matami Helseth*. Eikö siinä käy kova viima, neiti, missä istutte?
+
+*Rebekka*. Käy vähän. Ehkä panette ovet kiinni.
+
+(*Matami Helseth* sulkee eteisen oven, menee sitten akkunan luo.)
+
+*Matami Helseth* (aikoo panna akkunan kiinni, katsoo ulos). Eikös tuo
+ole pastori, joka tuolla kävelee?
+
+*Rebekka* (pikaisesti). Missä? (nousee.) On, hän se on. (Akkunan
+takana.) Menkää syrjään. Hän ei saa huomata meitä.
+
+*Matami Helseth* (keskellä lattiaa). Ei, mutta neiti -- hän lähtee taas
+myllytietä.
+
+*Rebekka*. Myllytietä hän toissa päivänäkin kulki. (Kurkistaa
+akkunaverhon ja pielen välistä.) Nyt saamme nähdä --
+
+*Matami Helseth*. Uskaltaako hän mennä sulun yli?
+
+*Rebekka*. Niin, sitä tahtoisin nähdä. (vähän ajan kuluttua.) Ei. Hän
+palaa takaisin. Menee tänäänkin ylempää, (menee akkunan luota.) Pitkän
+kierroksen.
+
+*Matami Helseth*. Herranen aika, niin. Mahtaa pastorista tuntua
+vaikealta kulkea tuon sulun yli. Siellä missä sellaista on tapahtunut --
+
+*Rebekka* (panee työnsä kokoon). Täällä ei hevin unohdeta kuolleita,
+täällä Rosmersholmassa.
+
+*Matami Helseth*. Minä nyt puolestani luulen niin, neiti, että kuolleet
+eivät unohda Rosmersholmassa.
+
+*Rebekka* (katsoo häneen). Kuolleet?
+
+*Matami Helseth*. Niin, melkein voi sanoa, ett'eivät ne voi
+täydellisesti erota jälkeenjääneistä.
+
+*Rebekka*. Kuinka niin luulette?
+
+*Matami Helseth*. No, eihän se valkea hevonen muuten täällä kävisi,
+tiedän mä.
+
+*Rebekka*. Niin, mitenkä sen valkean, hevosen, laita oikein on, matami?
+
+*Matami Helseth*. Oh, siitä ei kannata puhua. Ettehän te semmoisia
+uskokkaan.
+
+*Rebekka*. Uskotteko te sitten semmoisia?
+
+*Matami Helseth* (menee ja sulkee akkunan). Tässä minä nyt rupean teidän
+narriksenne. (katsoo ulos.) Ei -- mutta johan se pastori taas on tuolla
+myllytiellä --!
+
+*Rebekka* (katsoo ulos). Tuo mieskö tuolla? (menee akkunan luo.) Sehän
+on rehtori.
+
+*Matami Helseth*. Niin oikein, rehtori se onkin.
+
+*Rebekka*. No, sepä hauskaa! Saattepa nähdä, hän on tulossa meille.
+
+*Matami Helseth*. Hän menee ihka suoraan sulun yli, hän. Ja kuitenkin
+oli vainaja hänen sisarensa. -- No, minä lähden sitte laittamaan
+illallista, neiti. (Menee oikealle.)
+
+(Rebekka seisoo hetkisen akkunan luona; tervehtii sitte hymyilee ja
+nyökkää.)
+
+(Alkaa hämärtää.)
+
+*Rebekka* (menee oikealle ovelle ja puhuu ovesta huoneesen). Hyvä matami
+Helseth, ehkä hankitte jotain erikoisherkkua pöytään. Itse kyllä
+tiedätte, mikä rehtorista on parasta.
+
+*Matami Helseth* (huoneesta). Kyllä niin, neiti. Sen minä teen.
+
+*Rebekka* (avaa oven eteiseen). No, vihdoinkin --! Sydämmellisesti
+tervetullut, rakas rehtori!
+
+*Rehtori Kroll* (eteisessä, laskien kepin kädestään). Kiitos. En siis
+tule häiritsemään?
+
+*Rebekka*. Tekö? Hyi, hävetkää toki --!
+
+*Kroll* (tulee sisään). Aina yhtä herttainen. (katsoo ympärilleen.) Onko
+Rosmer ylhäällä huoneessaan?
+
+*Rebekka*. Ei, ulkona kävelemässä. Hän on viipynyt tavallista kauvemmin.
+Mutta kyllä kait hän tuossa paikassa tulee. (näyttää sohvaa.) Olkaa hyvä
+ja istukaa niin kauvaksi.
+
+*Kroll* (laskee hatun kädestään). Kiitoksia paljon, (istuu ja katselee
+ympärilleen.) Kas, kuinka somaksi te olette saanut tämän vanhan suojan.
+Kukkia joka sopessa.
+
+*Rebekka*. Rosmer pitää niin mielellään raittiita, eläviä kasvia
+läheisyydessään.
+
+*Kroll*Matami Helseth* Pidätte kait tekin, luulen minä.
+
+*Rebekka*. Niin teen. Minusta ne huumaavat niin suloisesti. Ennen olemme
+saaneet kaivata sitä huvia.
+
+*Kroll* (nyökäyttää raskaasti päätään). Beate-raukka ei kärsinyt niiden
+tuoksua.
+
+*Rebekka*. Eikä niiden väriäkään. Hän meni ihan puolipyörryksiin --
+
+*Kroll*. Sen kyllä muistan. (keveämmällä äänellä.) No, kuinka täällä
+voidaan?
+
+*Rebekka*. Kiitos, kaikki täällä kulkee tasaista, totuttua uraansa.
+Toinen päivä toisensa tapaan. -- Entä teillä? Vaimonne --?
+
+*Kroll*. Oi, hyvä neiti West, jättäkäämme minun asiani. Perhe-elämässä
+sattuu aina pieniä selkkauksia, etenkin tällaisina aikoina.
+
+*Rebekka* (vähän ajan kuluttua, istuu nojatuoliin sohvan luona). Minkä
+tähden ette ole kertaakaan käynyt meitä tervehtimässä kesäloman aikana?
+
+*Kroll*. No, ei nyt aina pidä olla ihmisten kimpussa --
+
+*Rebekka*. Tietäisitte vaan kuinka me olemme kaivanneet teitä --
+
+*Kroll*. -- ja olenhan sitä paitsi ollut matkoilla --
+
+*Rebekka*. Niin, parin viikon ajan. Tehän matkustitte kansankokouksissa
+maaseuduilla?
+
+*Kroll* (nyökkää). Niin, mitä te, neiti, siitä sanotte? Oletteko
+ajatellut, että minusta vanhoina päivinäni tulisi valtiollinen
+yllyttäjä? Häh?
+
+*Rebekka* (hymyilee). Aina teissä on ollut vähän yllyttäjää, rehtori
+Kroll.
+
+*Kroll*. On niin, noin yksityishuviksi. Mutta vast'edes siitä tulee
+täyttä totta. Luetteko te koskaan noita radikaalisia lehtiä?
+
+*Rebekka*. Niin, rakas rehtori, en tahdo kieltää, että -- --
+
+*Kroll*. Hyvä neiti, ei siinä ole mitään moitittavaa. Ei, mitä teihin
+tulee.
+
+*Rebekka*. Ei niin, samaa minäkin. Pitäähän minun seurata aikaani.
+Tuntea -- -- --
+
+*Kroll*. Ja oli miten oli, enhän minä teiltä, joka olette nainen, voi
+vaatia, että varmasti liitytte jompaankumpaan puolueesen tässä
+kansalais-kiistassa -- voisin kyllä sanoa kansalais-sodassa, joka täällä
+raivoaa. -- Mutta te olette siis lukenut, kuinka nuo «kansan» miehet
+ovat suvainneet syytää minulle herjauksia? Mitä ilkeitä raakuuksia he
+ovat luulleet saavansa käyttää.
+
+*Rebekka*. Niin, mutta minusta te olette kuitannut ne sangen sattuvasti.
+
+*Kroll*. Niin olen. Sen uskallan itse sanoa. Sillä nyt olen minä saanut
+vettä myllyyni. Ja he saavat nähdä että meikäläinen mies ei itse
+paljasta selkäänsä -- -- Ei, kuulkaapas, elkäämme kajotko noihin
+ikäviin, ärsyttäviin asioihin tänä iltana.
+
+*Rebekka*. Niin, jättäkäämme ne, rakas rehtori.
+
+*Kroll*. Sanokaa minulle kernaammin, kuinka oikein viihdytte täällä
+Rosmersholmassa nyt, yksin jäätyänne? Sitte kun Beate-raukka -- --
+
+*Rebekka*. Kiitos, viihdynhän minä täällä hyvinkin. Kovin tyhjältä
+täällä tuntuu hänen jälkeensä monessa suhteessa. Ja suru ja kaipuu
+tuntuu myös -- tietysti. Mutta muuten --
+
+*Kroll*. Aijotteko jäädä tänne? Noin ainaiseksi, minä tarkoitan.
+
+*Rebekka*. Oi, rakas rehtori, enhän minä aijo sitä enkä tätä. Minä olen
+nyt jo niin kotiutunut, että mielestäni olen taloon kuuluva, minäkin.
+
+*Kroll*. Niin te. Kuka sitten.
+
+*Rebekka*. Ja niin kauvan kun herra Rosmer arvelee, että minä voin olla
+hänelle joksikin hyödyksi ja huviksi, -- niin kai minä täällä sitte
+pysyn, luullakseni.
+
+*Kroll* (katselee häntä liikutettuna). Tiedättekö mitä, -- tuossa on
+jotain suurta naiselle, kun noin kuluttaa koko nuoruutensa, uhraamalla
+sen muiden hyväksi.
+
+*Rebekka*. Minkä hyväksi muuten olisin elänyt?
+
+*Kroll*. Ensin saitte herkeämättä hoidella rampaa, äreätä
+kasvatus-isäänne --
+
+*Rebekka*. Elkää luulko että tohtori West oli niin äreä siellä Lapissa.
+Ne kauheat merimatkat hänet murtivat. Vasta tänne muutettuamme, -- niin
+olihan minulla sitten pari vaikeata vuotta, ennen kun hänen kärsimisensä
+loppuivat.
+
+*Kroll*. Eikö ne seuraavat vuodet tuntuneet teistä vieläkin
+vaikeammilta?
+
+*Rebekka*. Ei, kuinka voitte noin sanoa! Minä kun niin paljon pidin
+Beatesta --. Ja niin hartaasti kun hän, vaivanen, kaipasi hoitoa ja
+sääliväistä kohtelua.
+
+*Kroll*. Kiitos ja kunnia teille siitä, että muistelette häntä
+suopeudella.
+
+*Rebekka* (siirtyy vähän lähemmäksi häntä). Rakas rehtori, tuon te
+sanotte niin kauniisti ja sydämmellisesti, ett'en ollenkaan epäile
+sanoissanne olevan mitään kaksimielisyyttä.
+
+*Kroll*. Kaksimielisyyttä? Mitä sillä tarkoitatte?
+
+*Rebekka*. No, eihän se olisi lainkaan kummallista, jos teistä tuntuisi
+vähän katkeralta, nähdessänne minun, vieraan ihmisen, hallitsevan ja
+vallitsevan täällä Rosmersholmassa.
+
+*Kroll*. Ei, mitä kummaa te --!
+
+*Rebekka*. Mutta siltä teistä ei tunnu. (ojentaa hänelle kätensä.)
+Kiitos, rakas rehtori! Kiitos, kiitos siitä.
+
+*Kroll*. Mutta mistä ihmeestä te olette saanut tuon päähänne?
+
+*Rebekka*. Minä rupesin vähän pelkäämään, kun te tulitte niin harvoin
+tänne, luoksemme.
+
+*Kroll*. Nytpä olette kelpo lailla erehtynyt, neiti West. Ja sitä paitsi
+-- eihän täällä oikeastaan ole tapahtunut mitään muutosta. Tehän täällä
+silloinkin -- Beate-raukan viimeisinä onnettomina elinvuosina piditte
+huolen kaikesta -- te yksin-omaan.
+
+*Rebekka*. Oikeimmin minä silloin hoidin jonkinlaista sijaishallitusta
+emännän nimessä.
+
+*Kroll*. Samahan tuo lie --. Tiedättekö mitä, neiti West, -- minä
+puolestani en suinkaan pahastuisi, jos te --. Mutta ehk'ei ole
+soveliasta puhua sellaista.
+
+*Rebekka*. Mitä niin, tarkoitatte?
+
+*Kroll*. Jos voisi käydä niin, että te täyttäisitte tuon tyhjän paikan
+--
+
+*Rebekka*. Minulla on se paikka, jonka tahdon, herra rehtori.
+
+*Kroll*. Niin kyllä töiden puolesta, mutta ei --
+
+*Rebekka* (keskeyttää hänet, vakavasti). Hävetkäähän toki rehtori Kroll.
+Kuinka voitte laskea leikkiä sellaisista asioista?
+
+*Kroll*. No niin, Johannes Rosmer näyttää tosin saaneen kyllänsä
+avioliitosta. Mutta kuitenkin --
+
+*Rebekka*. Tiedättekö -- minun täytyy melkein nauraa teille.
+
+*Kroll*. Kuitenkin --. Sanokaappa minulle, neiti West --. Jos on lupa
+kysyä --. Kuinka vanha te oikeastaan olette?
+
+*Rebekka*. Häpeä tunnustaa, mutta minä olen tosiaan jo täyttänyt
+yhdeksänkolmatta, herra rehtori. Minä käyn nyt kolmatta kymmentä.
+
+*Rebekka* Niin -- niin. Ja Rosmer -- kuinka vanha hän on? Annas olla.
+Hän on minua viittä vuotta nuorempi. No, hän on siis ainakin
+kolmenviidettä. Minusta se sopisi hyvin.
+
+*Rebekka* (nousten). Niin, niin, niin. Se sopisi mainiosti. -- Juotteko
+teetä kanssamme tän'iltana.
+
+*Kroll*. Kiitos, juon kyllä. Olen aikonut viipyä täällä. Minun täytyy,
+näet, keskustella Rosmerin kanssa eräästä asiasta. Ja sitte, neiti West,
+-- ett'ette taas rupee päättömiä pelkäämään, pistäyn minä täällä tuon
+tuostakin, -- niin kuin ennen muinoin.
+
+*Rebekka*. Niin juuri, tehkää se. (pudistaa hänen käsiään.) Kiitos,
+kiitos. Te olette sentään oikein hyvä.
+
+*Kroll* (mutisee). Vai niin? Samaa en juuri saa kuulla kotona.
+
+(*Johannes Rosmer* tulee oikeanpuolisesta ovesta.)
+
+*Rebekka*. Herra Rosmer, -- näettekö kuka täällä istuu?
+
+*Johannes Rosmer*. Matami Helseth ilmoitti sen minulle jo.
+
+(Rehtori Kroll on noussut.)
+
+*Rosmer* (lempeästi ja vienosti, pudistaa hänen kättänsä). Tervetullut
+taloon taas, rakas Kroll. (panee kätensä hänen olkapäilleen ja katsoo
+häntä silmiin.) Sinä, rakas, vanha ystäväni! Sen minä kyllä tiesin, että
+välimme taas kerran oli tuleva entiselleen.
+
+*Kroll*. Mutta, hyvä ihminen, -- oletko sinäkin hautonut sitä mieletöntä
+luuloa, että jotain on tullut väliimme!
+
+*Rebekka* (Rosmerille). Niin, ajatelkaas; -- kuinka hauskaa, että se oli
+vaan harhaluulo.
+
+*Rosmer*. Oliko se todellakin harhaluulo, Kroll? Mutta miksi sinä sitten
+vetäydyit kokonaan pois meistä?
+
+*Kroll* (vakavasti ja puoliääneen). Siksi ett'en tahtonut elävällä
+itselläni tulla muistuttamaan sinua onnettomuutesi ajoista -- ja
+hänestä, -- jonka päivät päättyivät myllykoskessa.
+
+*Rosmer*. Siinä ajattelet kauniisti. Olethan sinä aina niin
+hienotunteinen. Mutta siitä syystä sinun oli tarpeetonta pysyä poissa.
+-- Tule, istukaamme sohvaan. (istuvat.) Ei, Beaten muisto ei suinkaan
+kiusaa minua. Me puhumme hänestä joka päivä. Hän on mielestämme vielä
+ikään kuin taloon kuuluva.
+
+*Kroll*. Niinkö todellakin?
+
+*Rebekka* (sytyttää lamppua). Niin, siltä meistä todellakin tuntuu.
+
+*Rosmer*. Onhan se ihan luonnollista. Pidimmehän me kumpikin niin paljo
+hänestä. Ja sekä Rebek -- -- sekä neiti West että minä tiedämme, että
+tunnollisesti teimme, mitä suinkin voimme, hänen, raukan, hyväkseen.
+Meidän ei tarvitse syyttää itseämme mistään. -- Siksi minusta tuntuu
+vaan lempeältä ja vienolta muistellessani Beatea.
+
+*Kroll*. Te rakkaat, kunnon ystävät! Vast'edes tulen joka päivä
+luoksenne.
+
+*Rebekka* (istuu nojatuoliin). Niin, muistakaa nyt vaan pitää sananne.
+
+*Rosmer* (vähän empien). Kuule, Kroll, -- minä olisin hartaasti suonut,
+ett'ei kanssakäymisemme olisi koskaan keskeytynyt. Olethan sinä ollut
+aivan kuin luonnollinen neuvon-antaja minulle koko tuttavuutemme ajan.
+Aina ylioppilasvuosistani alkaen.
+
+*Kroll*. No niin, ja sitä oikeuttani minä pidän suuressa arvossa. Onko
+nyt ehkä jotain erityistä --?
+
+*Rosmer*. Minulla on paljon asioita, joista tahtoisin keskustella
+kanssasi oikein suoraan. Oikein avosydämmisesti.
+
+*Rebekka*. Niin, eikö totta, herra Rosmer? Minusta se mahtaa tuntua
+hyvältä -- vanhojen ystävien kesken --
+
+*Kroll*. Oh, usko pois, minulla on vielä paljoa enemmän sinulle
+kerrottavaa. Nyt minä, näet, olen ruvennut toimivaksi valtiomieheksi,
+niin kuin kyllä tiedät.
+
+*Rosmer*. Niin, niinhän sinä olet. Miten se oikein kävi?
+
+*Kroll*. Minun täytyi, näetkös. Täytyi, niin vastahakoista kuin se
+olikin. Nyt ei kukaan saa seisoa velttona puustakatsojana. -- Nyt, kun
+radikaalit niin surkeasti ovat saaneet vallan käsiinsä, -- nyt on kiire
+tarpeen --. Siksi olen saanutkin pienen ystäväpiirimme kaupungissa
+liittymään lujemmin yhteen. Kiire on tarpeen, sanon minä!
+
+*Rebekka* (hieman hymyillen). Eikö nyt ole jo melkein liian myöhäistä?
+
+*Kroll*. Kieltämättä olisi ollut parempi ehkäistä tulva jo aikaisemmalla
+asteella. Mutta kuka osasi aavistaa mitä siitä tuli syntymään? En minä
+ainakaan. (nousee ja kävelee edestakaisin lattialla.) Niin, nyt ovat
+vihdoinkin silmäni auvenneet. Sillä nyt on kapinanhenki tunkeutunut
+kouluunkin.
+
+*Rosmer*. Kouluun? Eihän toki sinun kouluusi?
+
+*Kroll*. On niin, kun onkin: Minun omaan kouluuni. Mitäs siihen sanot!
+Minä olen saanut ilmi, että korkeimman luokan pojat, -- se on, muutamat
+pojista -- yli puolen vuotta keskuudessaan ovat pitäneet salaista
+yhdistystä, ja siinä he lukevat Mortensgårdin sanomalehteä.
+
+*Rebekka*. «Välkyttäjää» --!
+
+*Kroll*. Niin, eikö se mielestänne ole terveellistä ravintoa tuleville
+virkamiehille? Mutta ikävin puoli asiassa on se, että kaikki luokan
+lahjakkaat pojat ovat lyöttäytyneet yhteen ja kutoneet tämän
+vehkeilyksen minua vastaan. Vaan nahjukset ja toisvuotiset ovat pysyneet
+erillään.
+
+*Rebekka*. Koskeeko se teihin sitte niin kipeästi, rehtori?
+
+*Kroll*. Koskeeko se! Nähdessäni koko elämäni työtä noin ehkäistävän ja
+vastustettavan. (hiljemmin.) Sekin saisi, olla sinänsä, -- olin melkein
+sentään sanoa. Mutta nyt tulee kaikista pahin. (katsahtaa ympärilleen.)
+Eihän täällä vaan kukaan kuuntele ovissa?
+
+*Rebekka*. Ei, ei kukaan.
+
+*Kroll*. Tietäkää siis, että eripuraisuus ja kapina on tunkeutunut minun
+oman kattoni alle. Minun omaan rauhalliseen kotiini. Turmelleet minulta
+perhe-elämän levon.
+
+*Rosmer* (nousten). Mitä sanot? Omaan kotiisi --?
+
+*Rebekka* (menee rehtorin luo). Mutta hyvä ystävä, mitä sitte on
+tapahtunut?
+
+*Kroll*. Voitteko ajatella, että minun omat lapseni --. Suoraan sanoen,
+-- Laurits on tuon kouluvehkeilyksen esimies. Ja Hilda on ommellut
+punaisen kotelon «Välkyttäjän» kätköpaikaksi.
+
+*Rosmer*. Sitä en olisi koskaan unissanikaan osannut ajatella, -- että
+sinun luonasi, -- omassa kodissasi --
+
+*Kroll*. Et niin, kuka sellaista voisi uneksiakkaan? Minun kodissani,
+jossa aina on vallinnut kuuliaisuus ja järjestys, -- jossa vaan yksi
+ainoa yhteinen tahto on määrrännyt --
+
+*Rebekka*. Mitä vaimonne tästä arvelee?
+
+*Kroll*. Niin, nähkääs, se nyt on kaikista uskomattominta. Hän, joka
+aina -- sekä suurissa että pienissä -- ollut samaa mieltä kuin minäkin,
+aina hyväksynyt kaikki minun tuumani hän on tosiaan melkein lasten
+puolella monessa asiassa. Ja sitte hän syyttää minua siitä, mitä on
+tapahtunut. Sanoo, että minä vaikutan masentavaisesti nuorisoon. Aivan
+kuin se ei olisi välttämätöintä --. No niin, nyt on erimielisyys
+vallallaan kodissani. Mutta minä tietysti puhun siitä niin vähän kuin
+mahdollista. Parastahan on vaikenemalla tukehuttaa sellaiset asiat,
+(menee lattian poikki.) Oho -- ja jaa -- niin niin. (seisoo kädet seljan
+takana akkunan edessä ja katselee ulos.)
+
+*Rebekka* (on lähestynyt Rosmeria ja sanoo hiljaa, pontevasti ja
+rehtorin huomaamatta). Puhu nyt!
+
+*Rosmer* (samoin). Ei tänä iltana.
+
+*Rebekka* (kuin ennen). Juuri nyt. (menee lampun luo ja korjaa sitä.)
+
+*Kroll* (tulee lattian poikki). Niin, rakas Rosmer, nyt tiedät, kuinka
+ajanhenki on heittänyt varjonsa sekä kotielämääni että virkatoimeeni.
+Enkö sitten vastustaisi tuota, turmiollista, kumoavaa, raastavaa
+ajanhenkeä joka aseella, minkä käsiini saan? Niin, niin, sen minä kyllä
+teen. Sekä kynälläni että kielelläni.
+
+*Rosmer*. Toivotko sitte sillä tavalla saavasi jotain toimeen?
+
+*Kroll*. Minä tahdon ainakin suorittaa asevelvollisuuteni kansalaisena.
+Ja minusta on jokaisen isänmaan-ystävän, jokaisen tosihyvää harrastavan
+miehen velvollisuus tehdä samoin. Näetkös -- siksi oikeimmin olen
+tullutkin tän' iltana luoksesi.
+
+*Rosmer*. Hyvä ystävä, mitä sinä tarkoitat --? Mitä minun pitää --?
+
+*Kroll*. Sinun pitää auttaa vanhoja ystäviäsi. Tehdä samoin kuin me
+muutkin. Käydä käsiksi asioihin niin hyvin kuin voit.
+
+*Rebekka*. Mutta, rehtori Kroll, tunnette te herra Rosmerin
+vastahakoisuuden tuollaisissa asioissa.
+
+*Kroll*. Se vastahakoisuus hänen täytyy voittaa nyt. -- Sinä et seuraa
+kylliksi ajan kysymyksiä, Rosmer. Täällä vaan homehdut historiallisten
+kokoelmiesi keskellä. Hyvänen aika -- olkoot arvossaan sukutaulut ja
+muut muistiinpanot. Mutta aikamme ei sovellu sellaisille toimille --
+paha kyllä. Sinä et voi ajatella, millä kannalla asiat ovat joka
+puolella maatamme. Melkein joka ainoa käsite on mullistettu
+ylös-alaisin. Urostöitä tarvitaan, ennen kun kaikki hairahdukset saadaan
+taas pois raivatuiksi.
+
+*Rosmer*. Samaa minäkin luulen. Mutta sellainen työ ei ollenkaan onnistu
+minulta.
+
+*Rebekka*. Ja muuten minä luulen, että herra Rosmer on ruvennut
+katselemaan elämän oloja enemmän avosilmin kuin ennen.
+
+*Kroll* (säpsähtäen). Enemmän avosilmin?
+
+*Rebekka*. Niin, noin vapaammin sitte. Ilman ennakkoluuloja.
+
+*Kroll*. Mitä tämä tarkoittaa? Rosmer, -- ethän sinä toki ole niin
+heikko, että hurmaannut tuollaisesta satunnaisuudesta, että laumojen
+villitsijät ovat saaneet yhden väliaikaisen voiton?
+
+*Rosmer*. Hyvä ystävä, tiedäthän sinä kuinka vähän minä käsitän
+politiikkia Mutta minusta näyttää kuitenkin siltä, kuin olisivat ihmiset
+viime vuosilla saaneet vähän enemmän itsenäisyyttä ajatustapaansa.
+
+*Kroll*. No -- ja sitä sinä ilman muita mutkia pidät hyvänä! -- Muuten
+olet suuresti erehtynyt, ystäväiseni. Tiedusteleppas vaan, mitkä
+mielipiteet radikaaleissa vallitsevat, sekä täällä pitäjällä että siellä
+kaupungissa. Et löydä rahtuakaan muuta kuin samaa viisautta, jota
+«Wälkyttäjä» saarnaa.
+
+*Rebekka*. Niin kyllä, Mortensgård vaikuttaa paljon moneen näillä
+seuduin.
+
+*Kroll*. Niin, sanokaas muuta! Mies, jolla on niin tahrainen entisyys.
+Sellainen ihminen, epäsiveellisen elämän tähden erotettiin
+opettajatoimestaan --! Sellainen tässä kansanjohtajaksi! Ja se käy
+laatuun! Käy kun käykin! Nyt hän aikoo laventaa lehteään, kuulin. Sain
+varmalta taholta tietää, että hän hakee taitavaa apulaista.
+
+*Rebekka*. Se minua kummastuttaa, että te ja teidän ystävänne ette tee
+mitään häntä vastaan.
+
+*Kroll*. Niinpä me nyt juuri aijomme tehdä. Tänään olemme ostaneet
+«Isänmaan». Raha-asioissa ei tullut mitään vaikeuksia. Mutta -- (kääntyy
+Rosmeriin.) Niin, nyt tulemme asiaan. Johdossa, -- sen lehden johdossa,
+siinä se pulma on, näetkös. -- Sanoppa, Rosmer -- etkö sinä hyvän asian
+vuoksi tunne itsessäsi halua siihen?
+
+*Rosmer* (melkein säikähtyneenä). Minä!
+
+*Rebekka*. Ei, mutta kuinka tuo on juolahtanut mieleennekään!
+
+*Kroll*. Että sinä kammoat kansankokouksia, ja pelkäät joutuvasi
+tauluksi niille sukkeluuksille joita *niissä* satelee, -- se on hyvinkin
+luonnollista. Mutta sanomalehtimiehen enemmän yksityinen toimi tai
+oikeammin sanoen --
+
+*Rosmer*. Ei, ei, rakas ystävä, elä pyydä sitä minulta.
+
+*Kroll*. Itse minä niin kovin mielelläni koettaisin voimiani silläkin
+alalla. Mutta minulle se on ihan mahdotonta. Minulla on jo ennaltaan
+niin viljalta työtä. -- Sinä sitä vastoin, jota ei enää mikään
+virkavelvollisuus paina --. Me muut auttaisimme sinua tietysti kaikin
+voimin.
+
+*Rosmer*. Minä en voi, Kroll. Minä en kelpaa siihen.
+
+*Kroll*. Et kelpaa? Samaa sanoit, kun isäsi hankki sinulle virkasi --
+
+*Rosmer*. Minä olin oikeassa. Siksi sen jätinkin.
+
+*Kroll*. Nooh, jos sinusta vaan tulee yhtä hyvä sanomalehdentoimittaja,
+kuin olit pappi, niin me olemme hyvin tyytyväiset.
+
+*Rosmer*. Rakas. Kroll; -- nyt sanon sinulle kerrassaan, -- minä en
+siksi rupea.
+
+*Kroll*. No, sitte lainaat meille ainakin nimesi.
+
+*Rosmer*. Nimeni?
+
+*Kroll*. Niin, jo nimikin, Johannes Rosmer, on voitoksi lehdelle.
+Pidetäänhän meitä muita jyrkkinä puoluemiehinä. Minua kuulutaan sen
+lisäksi kuvattavan oikein hurjaksi kiihkoilijaksi. Siksi emme voi
+toivoa, että lehti meidän nimessämme voittaa suurta suosiota villityissä
+ihmislaumoissa. Sinä sitä vastoin -- sinä olet aina pysynyt poissa
+kahakoista. Kaikki täällä ympäristössä tuntevat sinun ja kunnioittavat
+sinun suoraa luonnettasi, -- sinun hienoa ajatustapaasi -- sinun
+moitteetonta rehellisyyttäsi. Ja sitte se arvo ja mahti, jolla entinen
+papillinen virkasi sinua ympäröi. Entä sitte vielä sukunimesi kaiku!
+
+*Rosmer*. No, sukunimeni --.
+
+*Kroll* (näyttää kuvia seinillä). Rosmersholman Rosmerit, -- pappeja ja
+upseereja. Korkea-arvoisia virkamiehiä. Moitteettomia kunnon miehiä
+jok'ainoa, -- suku joka pian kaksisataa vuotta on ollut täällä
+kihlakunnan ensimmäisenä. (laskee kätensä Rosmerin olalle.) Rosmer, --
+oma asemasi ja sukusi perityt muistot velvoittavat sinua puolustamaan
+kaikkea, mitä yhteiskuntamme tähän asti on hyväksynyt. (kääntyy.) Vai
+mitä *te* sanotte, neiti West.
+
+*Rebekka* (naurahtaa hiljaa). Rakas rehtori, -- minusta tämä on
+naurettavaa kuunnella.
+
+*Kroll*. Mitä sanotte? Naurettavaa?
+
+*Rebekka*. Niin, sillä nyt sanon teille ihan suoraan --
+
+*Rosmer* (pikaisesti). Ei, ei, -- toiste! Ei nyt!
+
+*Kroll* (katselee heitä vuoroon kumpaakin). Mutta mitä kummia te, hyvät
+ystävät -- (keskeyttää.) Hm!
+
+(Matami Helseth tulee oikeanpuolisesta ovesta).
+
+*Matami Helseth*. Tuolla on muuan mies, tuolla kyökkikäytävässä. Hän
+sanoo, että hän tahtoo tulla tervehtimään pastoria.
+
+*Rosmer* (keventynein mielin). Vai niin. No pyytäkää hänen tulemaan
+tänne sisään.
+
+*Matami Helseth*. Tänne sisään?
+
+*Rosmer*. Niin juuri.
+
+*Matami Helseth*. Mutta ei hän juuri sellaiselta näytä, että häntä voisi
+päästää tänne sisään.
+
+*Rebekka*. Miltä hän sitte näyttää, matami Helseth?
+
+*Matami Helseth*. Ei siinä juuri ole paljon kehumista, neiti.
+
+*Rosmer*. Eikö hän sanonut nimeänsä?
+
+*Matami Helseth*. Sanoi, muistaakseni hän sanoi olevansa Hekman, tai
+jotain semmoista.
+
+*Rosmer*. En minä tunne ketään sen nimellistä.
+
+*Matami Helseth*, Ja sitte hän sanoi, että hän on Uldrik kanssa.
+
+*Rosmer* (säpsähtää). Ulrik Hetman! Niinkö?
+
+*Matami Helseth*. Niin, Hetman se olikin.
+
+*Kroll*. Sen nimen olen varmaan kuullut joskus --
+
+*Rebekka*. Sitähän nimeä hän käytti, hän, tuo omituinen --
+
+*Rosmer* (Krollille). Se on Ulrik Brendelin kirjailijanimi.
+
+*Kroll*. Turmiolle joutunut Ulrik Brendel. Aivan oikein.
+
+*Rebekka*. Hän on siis vielä elossa?
+
+*Rosmer*. Luullakseni hän matkusteli ympäri maata jonkun
+teaatteriseurueen mukana.
+
+*Kroll*. Viimeksi, kun hänestä kuulin, oli hän kuritushuoneessa.
+
+*Rosmer*. Pyytäkää häntä sisään, matami Helseth.
+
+*Matami Helseth*. Kyllä, kyllä. (menee.)
+
+*Kroll*. Aijotko todellakin suvaita sitä ihmistä huoneessasi?
+
+*Rosmer*. Tiedäthän, että hän jonkun aikaa oli minun opettajani.
+
+*Kroll*. Niin, minä tiedän, että hän täällä mätti sinun pääsi täyteen
+kapinallisia mielipiteitä ja että isäsi ajoi hänet pois ratsuraipallaan.
+
+*Rosmer* (vähä katkerasti). Isä oli majori täällä kodissaankin.
+
+*Kroll*. Kiitä sinä häntä siitä vielä haudassaankin, rakas Rosmer. No!
+
+(Matami Helseth avaa oikeanpuolisen oven *Ulrik Brendelille* ja menee
+sitte, sulkien oven jälkeensä. Brendel on komea, vähän kuihtunut, mutta
+ripeä ja vilkas, tukka ja parta harmaat. Muuten tavallisen maankiertäjän
+puvussa. Kulunut takki: huonot jalkineet; paitaa ei näy. Käsissä vanhat,
+mustat hansikkaat, pehmeä, likainen hattu kainalossa ja kävelykeppi
+kädessä.)
+
+*Ulrik Brendel* (ensin epävarmana, astuu sitte rivakasti rehtorin luo ja
+tarjoo hänelle kättä). Hyvää iltaa, Johannes!
+
+*Kroll*. Anteeksi --
+
+*Brendel*. Oletko odottanut taas saavasi nähdä minua? Vieläpä näiden
+vihattujen seinien sisäpuolella.
+
+*Kroll*. Anteeksi --. (näyttää.) Tuossa --
+
+*Brendel* (kääntyy). Oikein. Tuossa hän on. Johannes, -- poikani, sinä,
+jota olen enin rakastanut --!
+
+*Rosmer* (antaa hänelle kättä). Vanha opettajani.
+
+*Brendel*. Muutamista muistoista huolimatta en tahtonut kulkea
+Rosmersholman ohi, pikimältäni käymättä sinua tervehtimässä.
+
+*Rosmer*. Täällä olette nyt sydämmellisesti tervetullut. Olkaa varma
+siitä.
+
+*Brendel*. Ah, tämä viehättävä rouva --? (kumartaa.) Rouva rovastinna
+luonnollisesti.
+
+*Rosmer*. Neiti West.
+
+*Brendel*. Luultavasti joku hyvin likeinen. Ja tämä tuntematoin --?
+Virkaveli, huomatakseni.
+
+*Rosmer*. Rehtori Kroll.
+
+*Brendel*. Kroll? Kroll? Odotappas. Oletteko lukenut filosofiiaa
+nuoruutenne päivinä?
+
+*Kroll*. Olen, tietysti.
+
+*Brendel*. No, Donnenvetter, sittehän minä olen tuntenut sinut!
+
+*Kroll*. Anteeksi --
+
+*Brendel*. Etkö sinä ollut --
+
+*Kroll*. Anteeksi --
+
+*Brendel*. -- yksi noista siveyden sankareista, jotka hankkivat minulle
+eron keskustelu-yhdistyksestä?
+
+*Kroll*. Voi olla. Mutta minä kiellän kokonaan kaiken lähemmän
+tuttavuuden.
+
+*Brendel*. No -- no! Nach Belieben, herra tohtori. Sama tuo minulle on.
+Ulrik Brendel pysyy kuitenkin sinä miehenä, mikä on.
+
+*Rebekka*. Olette varmaan matkalla kaupunkiin, herra Brendel?
+
+*Brendel*. Te olette arvannut oikein, rouva pastorska. Toisinaan olen
+pakotettu lähtemään kiertomatkalle toimeentulon vuoksi. En minä sitä
+mielelläni tee; mutta -- enfin -- täytymyksen pakko --
+
+*Rosmer*. Rakas, herra Brendel, enkö minä saa jollain auttaa teitä? Minä
+tarkoitan, jollain tavalla --
+
+*Brendel*. Haa, mikä ehdotus! Tahtoisitko sinä saastuttaa siteen, joka
+meitä yhdistää? Ei koskaan, Johannes -- ei koskaan!
+
+*Rosmer*. Mutta mihin te sitte aijotte ryhtyä kaupungissa? Uskokaa
+minua, että teidän ei ole niin helppo siellä --
+
+*Brendel*. Jätä se minun huolekseni, poikani. Arpa on heitetty.
+Tällaisena, kun nyt seison tässä edessäsi, olen minä lähtenyt pitkälle
+matkalle. Pitemmälle kuin kaikki edelliset kiertelyni yhteensä. (rehtori
+Krollille.) Uskaltaisinko kysyä herra professorilta -- unter uns --,
+onko teidän kunnioitettavassa kaupungissanne mitään jotenkin hyväksi
+tunnettua, arvokasta ja tilavaa kokoussalia?
+
+*Kroll*. Tilavin on työväen-yhdistyksen sali.
+
+*Brendel*. Onko herra dosentilla mitään lajiteltua vaikutusvoimaa siinä,
+varmaankin hyvin hyödyllisessä, yhdistyksessä?
+
+*Kroll*. Minulla ei ole siinä mitään tekemistä.
+
+*Rebekka* (Brendelille.) Teidän on kääntyminen Peder Mortensgårdiin.
+
+*Brendel*. Pardon, madame, -- mikä idiootti se on?
+
+*Rosmer*. Minkä tähden häntä juuri idiootiksi luulette?
+
+*Brendel*. Enkö sitä paikalla nimestä kuule, että sen omistaja on
+plebeiji?
+
+*Kroll*. Sitä vastausta en olisi odottanut.
+
+*Brendel*. Mutta minä tahdon voittaa luontoni. Muuta keinoa ei ole. --
+Kun mies -- minun tavallani -- on elämänsä käännekohdalla --. Se on
+päätetty. Minä rupean tekemisiin tuon henkilön kanssa -- koen saada
+sopimuksia toimeen --
+
+*Rosmer*. Oletteko te täyttä totta käännekohdalla?
+
+*Brendel*. Eikö minun oma poikani tiedä, että missä Ulrik Brendel on,
+siellä on hän aina täyttä totta? -- Niin, niin, nyt minä aijon pukea
+päälleni uuden ihmisen. Jättää sen varovan itseenivetäytymisen, jota
+tähän asti olen pitänyt parhaana.
+
+*Rosmer*. Kuinka?
+
+*Brendel*. Minä aijon tarttua elämään toimekkaalla kädellä. Nousta
+näkyville. Nousta ylös. Myrskyjen mylleröimä päiväntasauksen aika meitä
+ympäröi. -- Nyt tahdon laskea roponi vapauden alttarille.
+
+*Kroll*. Vai tahdotte *tekin* --?
+
+*Brendel* (kaikille). Tuntevatko ihmiset täällä tarkemmin minun laajalle
+levinneitä kirjoituksiani?
+
+*Kroll*. Ei, minun täytyy rehellisesti tunnustaa, että --
+
+*Rebekka*. Minä olen lukenut useimmat. Kasvatus-isälläni oli ne.
+
+*Brendel*. Ihana emäntäinen, -- sitte olette tuhlannut aikaanne turhaan.
+Sillä se on jotenkin mitätöintä, sen voin sanoa.
+
+*Rebekka*. Vai niin?
+
+*Brendel*. Se mitä olette lukenut, tarkoitan. Minun arvokkaimpia
+teoksiani ei yksikään mies tai vaimo tunne. Ei kukaan -- paitsi minua
+itseäni.
+
+*Rebekka*. Kuinka *se* on mahdollista?
+
+*Brendel*. Niitä ei ole vielä kirjoitettu.
+
+*Rosmer*. Mutta hyvä herra Brendel --
+
+*Brendel*. Tiedäthän, Johannekseni, että minä olen luonnoltani
+sybariitti. Herkkusuu. Olen aina ollut sellainen. Minä nautin kernaimmin
+yksinäisyydessä. Sillä siten nautin kaksinkertaisesti. Kymmenesti
+kaksinkertaisesti. Näetkös, -- kun hehkuvat unelmat vyöryvät ympärilläni
+-- sulkevat minut helmaansa, -- kun uusia, huimaavia, äärettömyyttä
+tavoittavia aatteita syntyy sielussani, kohottaen minut mahtaville
+siivillensä, -- silloin niistä luon runoja, näkyjä, kuvia. Vaan suurin
+piirtein, ymmärräthän?
+
+*Rosmer*. Kyllä, kyllä.
+
+*Brendel*. Oi, tietäisit kuinka minä olen eläessäni nauttinut! Nauttinut
+luomisen salaperäistä autuutta, -- noin suurin piirtein, niin kuin jo
+sanoin, -- hyväksymistä, kiitosta, ihailua, laakeriseppeleitä, --
+kaikkia minä olen koonnut, ilosta vavisten, -- täysin käsin. --
+Hurmannut itseäni salaisessa aatemaailmassani sellaisella ilolla, -- oi,
+niin pyörryttävällä ilolla --!
+
+*Kroll*. Hm --.
+
+*Rosmer*. Mutta ette koskaan kirjoittanut niitä paperille?
+
+*Brendel*. En sanaakaan. Tuo mitätön kynäntöherrys on aina herättänyt
+minussa vastenmielistä inhoa. Ja miksi minä saastuttaisinkaan omia
+ihanteitani, kun voin pitää niitä puhtaana, nauttien niistä ihan yksin.
+Mutta nyt ne ovat uhrattavat. Minusta tuntuu tosiaan, kuin olisin äiti,
+joka laskee nuoret tyttärensä aviomiesten käsiin. Mutta minä uhraan ne
+sittekin, -- uhraan ne vapauden alttarille. Sarja hienosti luotuja
+esitelmiä -- ympäri koko maan --!
+
+*Rebekka* (vilkkaasti). Siinä teette suurenmoisesti, herra Brendel! Te
+annatte kalliimpanne, mitä teillä on.
+
+*Rosmer*. Ainoanne.
+
+*Rebekka* (katsoo tarkoittavaisesti Rosmeriin). Kuinka moni tekisi
+samoin? Uskaltaisi tehdä?
+
+*Rosmer* (katsoo samoin takaisin). Kuka tietää?
+
+*Brendel*. Kuulijani ovat liikutetut. Se hiveltää sydäntäni -- ja
+vahvistaa tahtoani. Ja minä siis ryhdyn toimeen. Yksi asia kuitenkin
+vielä --. (rehtorille.) Voitteko sanoa minulle, herra preseptori, --
+onko kaupungissa raittiusseuraa? Ehdotonta raittiusseuraa? On tietysti.
+
+*Kroll*. On, palvelukseksenne. Minä olen itse sen esimies.
+
+*Brendel*. Enkö sitä nähnyt päältännekin! No sitte on kai luultava, että
+tulen kotianne luoksenne ja kirjoitan itseni viikon ajaksi jäseneksi.
+
+*Kroll*. Anteeksi, -- me emme ota jäseniä viikoksi.
+
+*Brendel*. A la bonheur, herra pedagoogi. Ulrik Brendel ei ole koskaan
+tupannut sellaisiin seuroihin. (kääntyy.) Mutta minä en uskalla pitentää
+viipymistäni tässä rikasmuistoisessa talossa. Minun täytyy lähteä
+kaupunkiin valitsemaan itselleni sopivaa asuntoa. Toivottavasti siellä
+edes on joku kelpo ravintola.
+
+*Rebekka*. Ettekö tahdo juoda jotain lämmintä, ennen kun lähdette?
+
+*Brendel*. Mitä lajia lämmintä, armon rouva?
+
+*Rebekka*. Kupillinen teetä tai --
+
+*Brendel*. Minä kiitän talon runsaskätistä emäntää. Mutta minä en juuri
+mielelläni vaivaa yksityistä vieras-varaisuutta. (tervehtii kädellänsä.)
+Voikaa hyvin, kunnioitettava herrasväki! (menee ovelle päin, mutta palaa
+takaisin.) Ah niin, se on totta --. Johannes, -- pastori Rosmer, --
+tahdotko tehdä entiselle opettajallesi palveluksen monivuotisen
+ystävyyden tähden?
+
+*Rosmer*. Tahdon niin mielelläni.
+
+*Brendel*. Hyvä. Niin lainaa sitte minulle -- päiväksi tai pariksi --
+silitetty kauluspaita.
+
+*Rosmer*. Eikö sen enempää!
+
+*Brendel*. Niin, näetkös, minä matkustan jalan -- tällä kertaa. Kirstuni
+lähetetään perästä päin.
+
+*Rosmer*. Niin, niin. Mutta ettekö tarvitse mitään muuta?
+
+*Brendel*. Kyllä, -- annappas olla -- ehkä sinulla on joku
+vanhanpuolinen, käytetty kesätakki, jota et niin tarvitse.
+
+*Rosmer*. On, on, varmaankin minulla on.
+
+*Brendel*. Ja jos siihen takkiin kuuluisi pari kunnon saappaita --
+
+*Rosmer*. Kyllä siihen keino keksitään. Heti, kun saamme tietää
+osotteen, lähetämme tavarat teille.
+
+*Brendel*. Ei millään muotoa. Ei mitään vaivoja minun tähteni! Minä otan
+nuo pikkukapineet mukaani.
+
+*Rosmer*. Hyvä, hyvä. Tahdotteko vaan tulla minun kanssani yläkertaan.
+
+*Rebekka*. Jätä se kernaammin minun huolekseni. Minä ja matami Helseth
+pidämme kyllä siitä huolen.
+
+*Brendel*. En suinkaan minä salli, että tämä arvoisa rouva --!
+
+*Rebekka*. Mitä vielä! Tulkaa te vaan, herra Brendel.
+
+(Menee oikealle.)
+
+*Rosmer* (pidättää Brendeliä). Sanokaa -- eikö ole mitään muuta, jolla
+voisin teitä auttaa?
+
+*Brendel*. Minä en tosiaankaan tiedä, mitä se olisi. No, istu ja pala --
+kun oikein ajattelen --! Johannes, -- sattuuko sinulla olemaan kahdeksaa
+kruunua käsillä?
+
+*Rosmer*. No saamme nähdä. (avaa kukkaronsa.) Täällä minulla on kaksi
+kymmenen kruunun seteliä.
+
+*Brendel*. No -- niin, samahan tuo on. Minä voin ottaa ne. Saahan ne
+aina kaupungissa rikotuksi. Kiitos siksi. Muista nyt, että minä sain
+kaksi kymmenistä. Hyvää yötä, oma rakas poikani! Hyvää yötä, arvoisa
+herra!
+
+(Menee oikealle, jossa Rosmer sanoo hänelle hyvästi ja sulkee oven hänen
+mentyään.)
+
+*Kroll*. Armias taivas -- *tuo* siis oli Ulrik Brendel, josta ihmiset
+kerran luulivat tulevan jotain suurta.
+
+*Rosmer* (hiljaa). Hänellä on ollut ainakin rohkeutta elää elämäänsä
+oman päänsä mukaan. Minusta *se* ei ole niinkään vähäpätöistä.
+
+*Kroll*. Mitä sanot? Sellainen elämä, kuin hänen On ollut! Luulenpa
+melkein, että hänessä oli miestä vielä kerran panemaan pääsi pyörälle.
+
+*Rosmer*. Ei suinkaan. Nyt olen itse jo päässyt selville joka asiassa.
+
+*Kroll*. Suokoon Jumala, että niin olisi, rakas Rosmer. Sillä sinä olet
+niin kovin herkkä ulkoapäin tuleville laikutuksille.
+
+*Rosmer*. Istukaamme. Ja nyt tahdon puhella kanssasi.
+
+*Kroll*. Niin, tehkäämme niin. (istuvat sohvaan.)
+
+*Rosmer* (vähän ajan kuluttua). Eikö sinusta meillä täällä ole hyvä ja
+hauska olla?
+
+*Kroll*. On, nyt täällä on hyvä ja hauska olla -- ja rauhallista. Niin,
+sinä olet saanut itsellesi kodin, sinä, Rosmer. Ja minä olen menettänyt
+kotini.
+
+*Rosmer*. Elä sano niin, ystäväni. Se mikä nyt on särkynyt, paranee
+kyllä kerran.
+
+*Kroll*. Ei koskaan. Ei koskaan. Itu jää pohjalle. Ei koskaan enää olot
+tule entiselleen.
+
+*Rosmer*. Kuuleppas nyt, Kroll. Me kaksi olemme olleet hartaat toverit
+niin monta, monta vuotta. Voisitko sinä ajatella, että meidän
+ystävyytemme loppuisi.
+
+*Kroll*. Minä en tiedä mitään maailmassa, joka voisi sen lopettaa.
+Kuinka se johtuu mieleesikään?
+
+*Rosmer*. Panethan sinä niin ratkaisevan merkityksen mielipiteiden ja
+katsantotavan yhtäläisyydelle.
+
+*Kroll*. No niin; mutta me kaksi olemme täysin yksimieliset. Ainakin
+suurissa peruskysymyksissä.
+
+*Rosmer* (hiljaa). Emme ole. Emme enää.
+
+*Kroll* (hypähtämäisillään ylös). Mitä tämä on!
+
+*Rosmer* (pidättää häntä). Ei, pysy istumassa. Minä pyydän sinua, Kroll.
+
+*Kroll*. Mitä sillä tarkoitat. Minä en ymmärrä sinua. Puhu toki suoraan!
+
+*Rosmer*. Sielussani on herännyt uusi kesä. Uusi nuoruuden unelma. Ja
+siksi olen minä nyt samalla puolella --.
+
+*Kroll*. Millä -- millä puolella olet?
+
+*Rosmer*. Sillä, millä sinun lapsesikin ovat.
+
+*Kroll*. Sinä? Sinä? Sehän on mahdotonta! Millä puolella sinä olet,
+sanoit.
+
+*Rosmer*. Samalla puolen kuin Laurits ja Hilda.
+
+*Kroll* (antaa päänsä vaipua). Luopunut meistä. Johannes Rosmer
+luopunut.
+
+*Rosmer*. Minä olisin ollut niin iloinen -- niin sydämmestäni onnellinen
+siitä, mitä sinä kutsut luopumiseksi. Mutta kuitenkin tuntui niin
+tuskalliselta. Tiesinhän minä vallan hyvin, että tämä tuottaisi sinulle
+katkeraa surua.
+
+*Kroll*. Rosmer, -- Rosmer! Tämä oli ankarin isku! (katsoo häneen
+painuneesti.) Oi, että sinäkin tahdot liittää voimasi hävityksen ja
+turmeluksen työhön tässä onnettomassa maassa.
+
+*Rosmer*. Vapauden työhön minä tahdon liittyä.
+
+*Kroll*. Niin, sen kyllä tiedän. Niin sitä kutsuvat sekä villityt että
+villitsijät. Mutta uskotko sitte sen hengen, joka nykyään on
+myrkyttämäisillään koko yhteiskunnallisen elämämme, voivan vapauttaa
+meitä.
+
+*Rosmer*. En minä liity vallalla olevaan henkeen. En kumpaankaan
+taistelupuolueesen. Minä koetan koota ihmiset joka puolelta. Yhdistää
+heistä niin monta ja niin hartaasti kuin suinkin voin. Minä tahdon elää
+ja uhrata kaikki elinvoimani yhtä ainoata tarkoitusta varten --
+luodakseni todellista kansallisuutta maahan.
+
+*Kroll*. Vai ei sinusta *meillä* ole kylliksi kansallisuutta! Minä
+puolestani arvelen, että me jok'ainoa olemme soljumaisillamme alas
+sellaiseen liejuun, jossa muuten vaan rahvaan on tapana viihtyä.
+
+*Rosmer*. Juuri sen vuoksi minä olen ajatellut kansallisuudelle
+todellisen tehtävän.
+
+*Kroll*. Minkä tehtävän?
+
+*Rosmer*. Jalostaa kaikki ihmiset maassamme aatelisiksi.
+
+*Kroll*. Kaikki ihmiset --!
+
+*Rosmer*. Ainakin niin monta kuin mahdollista.
+
+*Kroll*. Millä keinoin?
+
+*Rosmer*. Vapauttamalla mielet ja puhdistamalla tahdot, niin ajattelen.
+
+*Kroll*. Sinä olet uneksija, Rosmer. *Sinäkö* ne valutat? *Sinäkö* ne
+puhdistat?
+
+*Rosmer*. En, ystäväni, -- minä koetan vaan herättää, ihmisiä siihen.
+Itse heidän täytyy se tehdä.
+
+*Kroll*. Ja luuletko sinä heidän kykenevän siihen?
+
+*Rosmer*. Luulen.
+
+*Kroll*. Omin voimin siis?
+
+*Rosmer*. Niin, ihan omin voimin. Muuta voimaa ei ole.
+
+*Kroll* (nousee). Onko tuo puhe soveliasta papille?
+
+*Rosmer*. Minä en ole enää pappi.
+
+*Kroll*. Niin, mutta -- lapsuutesi usko sitte --?
+
+*Rosmer*. Sitä minulla ei enää ole.
+
+*Kroll*. Sinulla ei ole --!
+
+*Rosmer* (nousten). Sen olen hyljännyt. Minun täytyi hyljätä se, Kroll.
+
+*Kroll* (liikutettuna, mutta maltillisena). Vai niin. -- Niin, niin,
+niin. Toinen johtuu toisesta. Siksi sinä ehkä erositkin kirkon
+palveluksesta?
+
+*Rosmer*. Niin tein. Kun pääsin selville itsestäni, -- sain täyden
+varmuuden siitä, että se ei ollut mikään ohimenevä kiusaus, vaan jotain,
+josta en koskaan enää voinut enkä tahtonut päästä vapaaksi, -- silloin
+erosin.
+
+*Kroll*. Niin kauvan se siis jo on kuohunut sinussa. Emmekä me, -- sinun
+ystäväsi, ole saaneet siitä, mitään tietää. Rosmer, Rosmer, -- kuinka
+sinä voit meiltä salata niin surullista totuutta!
+
+*Rosmer*. Minusta se oli asia, joka koski vaan minua itseäni. Enkä minä
+myöskään tahtonut tuottaa sinulle ja muille ystävilleni tarpeetonta
+surua. Ajattelin, että vast'edeskin voin oleskella täällä, niin kuin
+tähän asti, hiljaisuudessa, iloisena ja onnellisena. Päätin lukea ja
+tunkeutua kaikkiin noihin teoksiin, jotka ennen olivat olleet minulle
+lukittuja kirjoja. Koko sielullani antautua totuuden ja vapauden avaraan
+maailmaan, joka nyt on auvennut minulle.
+
+*Kroll*. Luopunut. Joka sana sitä todistaa. Mutta minkä tähden sitte
+kuitenkin tunnustat tuon kavalan luopumisesi? Ja miksi juuri nyt?
+
+*Rosmer*. Siihen olet itse minut pakottanut, Kroll.
+
+*Kroll*. Minä? Olenko minä pakottanut sinut, --!
+
+*Rosmer*. Kuullessani sinun rajusta menettelystäsi kokouksissa, --
+lukiessani niitä puheita, joita niissä pidit, -- kaikkia sinun vihan
+puuskauksiasi niitä vastaan, jotka kuuluvat toiseen puolueesen, -- sinun
+ivallisen turmion-tuomiosi vastustajillesi --. Oi, Kroll, -- että sinä,
+sinä voit tulla sellaiseksi! Silloin selveni minulle järkähtämätöin
+velvollisuuteni. Ihmiset tulevat ilkeiksi nykyisen taistelun kestäessä.
+Täällä tarvitaan rauhaa ja iloa ja sovintoa mieliin. Sen vuoksi minä nyt
+julkisesti tunnustan itseni siksi mikä olen. Ja sitte minä tahdon
+koetella voimiani, minäkin. Etkö sinäkin -- puolestasi -- voisi yhtyä
+samaan, Kroll?
+
+*Kroll*. En ikinä minä solmi liittoa yhteiskuntaa kumoavien voimien
+kanssa.
+
+*Rosmer*. Niin, taistelkaamme sitte ainakin henkisillä aseilla, -- koska
+taistelu on välttämätöin.
+
+*Kroll*. Joka ei ole minun kanssani ratkaisevissa peruskysymyksissä,
+häntä minä en enää tunne. Enkä ole velkapää mihinkään sääliin.
+
+*Rosmer*. Koskeeko tuo minuakin?
+
+*Kroll*. Itse sinä olet rikkonut välimme, Rosmer.
+
+*Rosmer*. Mutta *onko* tämä sitte rikkomista!
+
+*Kroll*. Tämä! Tällä olet rikkonut välisi kaikkien niiden kanssa, jotka
+ennen olivat ystäviäsi. Nyt saat tyytyä seurauksiin.
+
+(*Rebekka West* tulee oikealta, ja jättää oven ihan auki.)
+
+*Rebekka*. Kas niin, nyt hän on matkalla suureen uhrijuhlaansa. Ja nyt
+voimme mennä illalliselle. Tehkää hyvin, herra rehtori.
+
+*Kroll* (ottaa hattunsa). Hyvää yötä, neiti West. Täällä ei minulla enää
+ole mitään tekemistä.
+
+*Rebekka* (jännityksellä). Mitä se on? (panee oven kiinni ja menee
+lähemmäksi.) Oletteko te puhuneet --?
+
+*Rosmer*. Nyt hän tietää sen.
+
+*Kroll*. Me emme päästä sinua käsistämme, Rosmer. Me pakotamme sinut
+takaisin luoksemme.
+
+*Rosmer*. Sinne en enää koskaan palaa.
+
+*Kroll*. Saammepa nähdä. Sinussa ei ole miestä kestämään yksin.
+
+*Rosmer*. En minä jääkkään ihan yksin. -- Meitä on kaksi täällä
+kestämässä yksinäisyyttä.
+
+*Kroll*. Ah --! (epäluulo herää hänessä.) Sekin vielä. Beaten sanat --!
+
+*Rosmer*. Beaten --?
+
+*Kroll* (tarkoittaa sen ajatuksen). Ei, ei, -- se oli ilkeätä --.
+Antakaa minulle anteeksi. --
+
+*Rosmer*. Mitä? Mistä?
+
+*Kroll*. Elkäämme puhuko siitä enää. Hyi! Antakaa minulle anteeksi.
+Hyvästi! (Menee eteisen ovea kohti.)
+
+*Rosmer* (seuraa häntä). Kroll! Näin ei ystävyytemme saa loppua.
+Huomenna tulen luoksesi.
+
+*Kroll* (eteisessä, kääntyen). Elä astu jalallasikaan minun kynnykseni
+yli! (ottaa keppinsä ja lähtee.)
+
+(Rosmer seisoo hetkisen ovessa; sulkee sen ja menee pöydän luo.)
+
+*Rosmer*. Vähät siitä, Rebekka. Me kaksi kestämme kyllä. Me kaksi
+uskollista ystävää. Sinä ja minä.
+
+*Rebekka*. Mitä luulet hänen tarkoittaneen, sanoessaan: hyi?
+
+*Rosmer*. Elä siitä välitä, ystäväni. Ei hän itsekään uskonut sitä mitä
+sillä tarkoitti. Mutta huomenna menen hänen luoksensa. Hyvää yötä!
+
+*Rebekka*. Menetkö tänä iltanakin niin varhain huoneeseesi? Tämän
+jälkeen?
+
+*Rosmer*. Tänään niin, kuin muulloinkin. Mieleni tuntuu niin keveältä,
+nyt kun se on ohi. Näethän, -- minä olen aivan tyyni, rakas Rebekka. Ole
+sinäkin ihan levollinen. Hyvää yötä!
+
+*Rebekka*. Hyvää yötä, rakas ystävä! Ja nuku hyvin.
+
+(Rosmer menee ulos eteisen ovesta, heti sen jälkeen kuuluu hän nousevan
+toiseen kerrokseen.)
+
+(Rebekka menee ja vetää kakluunin vieressä riippuvaa kellonnauhaa. Vähän
+ajan perästä tulee matami Helseth oikealta.)
+
+*Rebekka*. Voitte korjata ruoat pöydältä, matami Helseth. Sillä pastori
+ei huoli illallisesta, -- ja rehtori lähti kotiinsa.
+
+*Matami Helseth*. Onko rehtori mennyt? Mikä sitä rehtoria sitte vaivasi?
+
+*Rebekka* (ottaa käsityönsä). Hän luuli kohta saatavan aika myrskyn.
+
+*Matami Helseth*. Sepä kummallista. Sillä eihän siellä näy
+pilvenhattaraakaan taivaalla.
+
+*Rebekka*. Kun hän ei vaan kohtaisi valkeata hevosta. Minä pelkään, että
+nyt pian saamme kuulla moisista kummituksista.
+
+*Matami Helseth*. Jumal' armahda, neiti. Älkää puhuko niin
+ajattelemattomia.
+
+*Rebekka*. No, no, no --.
+
+*Matami Helseth* (hiljemmin). Uskotteko te sitte, neiti, että täällä on
+joku, jonka pian on lähteminen?
+
+*Rebekka*. En, johan minä nyt sellaisia uskoisin. Mutta tässä maailmassa
+on niin monenlaisia valkeita hevosia, matami Helseth. -- Niin, hyvää
+yötä sitte. Nyt menen huoneeseeni.
+
+*Matami Helseth*. Hyvää yötä, neiti.
+
+(Rebekka menee käsitöineen oikealle.)
+
+*Matami Helseth* (vääntää lampun liekin alas, pudistaa päätään, ja
+mutisee itsekseen:) 'sus siunatkoon. Sitä neiti Westiä. Mitä se väliin
+puhuukaan.
+
+
+
+
+TOINEN NÄYTÖS.
+
+
+(Johannes Rosmerin työhuone. Vasemmalla seinällä on sisäänkäytävä.
+Perällä oviaukko, josta esiriippu on työnnetty syrjään; ovi vie
+makuuhuoneesen. Oikealla akkuna, sen edessä kirjoituspöytä kirjoineen ja
+paperineen. Kirjahyllyjä ja kaappia pitkin seiniä. Huonekalut
+yksinkertaiset. Vanhan-aikuinen sohva pöytineen vasemmalla.)
+
+(*Johannes Rosmer*, aamutakissa, istuu korkeaselkäisessä tuolissa
+kirjoituspöydän ääressä. Leikkaa auki erästä aikakauskirjaa ja lukee
+sitä sieltä täältä.)
+
+(Vasemmalle ovelle kolkutetaan.)
+
+*Rosmer* (kääntymättä). Tule vaan sisään.
+
+(Rebekka West tulee sisään aamupuvussa.)
+
+*Rebekka*. Hyvää huomenta.
+
+*Rosmer* (selailee kirjaa). Hyvää huomenta, ystäväni. Tahdotko jotain?
+
+*Rebekka*. En muuta kuin kysyä oletko nukkunut hyvin?
+
+*Rosmer*. Oo, minä olen nukkunut niin rauhallisesti ja suloisesti. Ihan
+uneksimatta --. (kääntyy.) Entä sinä?
+
+*Rebekka*. Hyvin, kiitos. Nukuin kappaleen aamuakin.
+
+*Rosmer*. En tiedä milloin sydämmessäni viimeksi on tuntunut niin
+keveältä kuin nyt. Hyvä se oli todellakin, että sain sen sanotuksi.
+
+*Rebekka*. Niin, sinun ei olisi pitänyt vaijeta niin kauvan, Rosmer.
+
+*Rosmer*. En itsekkään käsitä, kuinka voin olla niin raukkamainen.
+
+*Rebekka*. Sitä uljaampaa sitte, että jyrkästi Matkasit entisyytesi --.
+(istuu lähelle häntä, tuolille pöydän viereen.) Mutta nyt kerron sinulle
+jotain, mitä olen tehnyt -- ja josta et saa suuttua minuun.
+
+*Rosmer*. Suuttua? Rakas ystäväni, kuinka voit luulla --?
+
+*Rebekka*. Niin, sillä minä tein ehkä vähä omavaltaisesti, mutta --.
+
+*Rosmer*. No, annappas kuulua sitte.
+
+*Rebekka*. Eilen illalla, kun tuo Ulrik Brendel oli lähdössä, -- annoin
+minä hänen mukaansa pari -- kolme riviä Mortensgårdille.
+
+*Rosmer* (vähän arvellen). Mutta hyvä Rebekka --. No, mitä sinä sitte
+kirjoitit?
+
+*Rebekka*. Minä kirjoitin, että hän tekisi sinulle hyvän palveluksen,
+jos pitäisi vähä huolta tuosta onnettomasta ihmisestä ja auttaisi häntä,
+minkä voi.
+
+*Rosmer*. Sitä sinun ei olisi pitänyt tehdä, Rebekka. Sillä olet vaan
+vahingoittanut Brendeliä. Ja Mortensgård on mies, josta kernaimmin
+tahtoisin pysyä erilläni. Tunnethan sinä sen rettelön, joka minulla
+kerran on ollut hänen kanssansa.
+
+*Rebekka*. Mutta etkö luule, että sinun nyt olisi sangen hyvä taas
+päästä sovinnon kannalle hänen kanssaan?
+
+*Rosmer*. Minä? Mortensgårdin kanssa? Minkä vuoksi, tarkoitat?
+
+*Rebekka*. Ihan huoletoin et sinä nyt voi olla, sitte, kun tämä on
+tullut sinun ja ystäviesi välille.
+
+*Rosmer* (katsoo häneen ja pudistaa päätään). Oletko todellakin voinut
+uskoa, että Kroll tahi joku niistä toisista tahtoisi kostaa --? Voisi
+ruveta --?
+
+*Rebekka*. Ensi kiivaudessa, ystäväni --. Kuka sen voi niin varmaan
+tietää. Minusta -- rehtorin käytöksestä päättäen --.
+
+*Rosmer*. Pitäisi sinun toki tuntea hänet paremmin. Kroll on kiireestä
+kantapäähän kunnon mies. Tänään menen iltapuolella kaupunkiin, hänen
+puheilleen. Minä aijon puhutella heitä kaikkia. Ooh, saatpa nähdä,
+kuinka helposti heidät saa --.
+
+(*Matami Helseth* tulee vasemmanpuolisesta ovesta.)
+
+*Rebekka* (nousee). Mitä nyt, matami Helseth?
+
+*Matami Helseth*. Rehtori Kroll on alhaalla eteisessä.
+
+*Rosmer* (nousee reippaasti). Kroll!
+
+*Rebekka*. Rehtori! Ei mutta --!
+
+*Matami Helseth*. Hän kysyy, saako tulla tänne pastorin puheille.
+
+*Rosmer* (Rebekalle). Tiesinhän minä sen! -- Saa niin hän, saa. (menee
+ovelle ja huutaa alakertaan.) Tule ylös vaan rakas ystävä!
+Sydämmellisesti tervetullut olet!
+
+(*Rosmer* seisoo pitelemässä ovea auki. -- *Matami Helseth* menee. --
+Rebekka vetää uutimet perällä oven eteen. Asettelee sitte siellä täällä
+jotain järjestykseen.)
+
+(*Rehtori Kroll* tulee sisään hattu kädessä.)
+
+*Rosmer* (hiljaa, liikutettuna). Tiesinhän min’, ett'ei se ollut
+viimeinen kerta --.
+
+*Kroll*. Tänään katselen asioita ihan toiselta kannalta.
+
+*Rosmer*. Niin, eikö totta, Kroll? Teethän sen nyt? Nyt, mietittyäsi --.
+
+*Kroll*. Sinä käsität tarkoitukseni ihan väärin, (laskee hattunsa sohvan
+edessä olevalle pöydälle.) Minun täytyy ehdottomasti saada puhua
+kanssasi kahden kesken.
+
+*Rosmer*. Miksi ei neiti West voisi --?
+
+*Rebekka*. Ei, ei, herra Rosmer. Minä menen.
+
+*Kroll* (mittelee häntä silmillään ylhäältä alas.) Ja sitte minun on
+pyytäminen anteeksi teiltä, neiti, että tulin tänne näin varhain.
+Hämmästyttäen teitä ennen kun olette ehtinyt --.
+
+*Rebekka* (säpsähtäen). Kuinka niin? Onko teistä sopimatonta, että
+täällä kotona liikun aamupuvussa?
+
+*Kroll*. Hyvänen aika! Enhän minä ollenkaan tiedä, mikä on tullut
+tavaksi Rosmersholmassa.
+
+*Rosmer*. Mutta Kroll, -- olethan sinä ihan suunniltasi tänään!
+
+*Rebekka*. Sulkeun suosioonne, herra rehtori. (menee vasemmalle).
+
+*Kroll*. Sinun luvallasi --. (istuu sohvaan.)
+
+*Rosmer*. Niin, ystäväni, istukaamme tähän hauskasti puhelemaan. (istuu
+tuolille vastapäätä rehtoria.)
+
+*Kroll*. Minä en ole koko yönä saanut rahtustakaan unta. Olen vaan
+maannut ja ajatellut ajattelemistani koko yön.
+
+*Rosmer*. No mitä nyt sanot tänään?
+
+*Kroll*. Minulla on paljon sanottavaa, Rosmer. Salli minun alkaa
+jonkinlaisella johdatuksella. Voin kertoa sinulle jotain Ulrik
+Brendelistä.
+
+*Rosmer*. Onko hän käynyt sinun luonasi?
+
+*Kroll*. Ei. Hän asettui erääsen hylkykapakkaan. Tietysti mitä
+heittiömäisimpään seuraan. Joi ja tarjosi niin kauvan kun rahoja riitti.
+Haukkui sitte koko liutaa roistoiksi ja rahjuksiksi. Siinä hän muuten
+oli oikeassa. Lopuksi hän sai selkäänsä ja heitettiin kadulle.
+
+*Rosmer*. Sitte hän mahtaa olla parantumatoin.
+
+*Kroll*. Takinkin hän jo oli pannut panttiin. Mutta joku kuuluu
+lunastaneen sen hänelle takaisin. Arvaappas kuka se oli?
+
+*Rosmer*. Sinä itse, ehkä?
+
+*Kroll*. En. Tuo hieno herra Mortensgård.
+
+*Rosmer*. Vai hän.
+
+*Kroll*. Minulle on kerrottu, että herra Brendel kävi ensimmäiseksi
+idiootin ja plebeijin luona.
+
+*Rosmer*. Sehän oli hänelle onneksi --.
+
+*Kroll*. Niin, olihan se. (nojautuu pöydän yli, vähän likemmäksi
+Rosmeria.) Mutta nyt tulemme erääsen asiaan, josta vanhan -- entisen
+ystävyytemme vuoksi olen velvoitettu huomauttamaan sinua.
+
+*Rosmer*. Mikä *se* on?
+
+*Kroll*. Se vaan, että täällä tehdään temppuja sinun selkäsi takana.
+
+*Rosmer*. Kuinka niin luulet? Tarkoitatko Reb --. Tarkoitatko neiti
+Westiä?
+
+*Kroll*. Niin, häntä juuri. Hyvin minä ymmärrän hänen syynsä siihen. Hän
+on niin kauvan tottunut olemaan valtijaana täällä. Mutta kuitenkin --.
+
+*Rosmer*. Rakas Kroll, siinä sinä ihan erehdyt. Hän ja minä, -- me emme
+pidä salaisuuksia toisiltamme pienimmässäkään asiassa.
+
+*Kroll*. Onko hän sitte tunnustanut sinulle ruvenneensa kirjevaihtoon
+«Välkyttäjän» toimittajan kanssa?
+
+*Rosmer*. Oh, sinä tarkoitat niitä paria riviä, jotka hän antoi Ulrik
+Brendelin mukaan.
+
+*Kroll*. Sinulla on siis vihiä asiasta. Ja hyväksytkö sinä sen, että hän
+rupee tekemisiin tuon herjausten kyhääjän kanssa, joka joka viikko
+koettaa saada minut häpeäpenkkiin sekä koulutoimeni että yleisen
+esiintymiseni takia?
+
+*Rosmer*. Sitä puolta asiasta ei hän varmaan ole tullut
+ajatelleeksikaan. Ja sitä paitsi on hänellä, niin kuin minullakin
+tietysti täydellinen toimintavapaus.
+
+*Kroll*. Vai niin? No, se mahtaa kuulua siihen uuteen suuntaan, jota nyt
+kuljet. Sillä neiti West on kait päässyt yhtä pitkälle kuin sinäkin?
+
+*Rosmer*. Niin on. Me kaksi olemme uskollisesti yhdessä pyrkineet
+eteenpäin.
+
+*Kroll* (katsoo häneen ja pudistaa päätään). Voi sinua, sokeata,
+pauloihin pantua miestä!
+
+*Rosmer*. Minä? Mistä sellaisia mieleesi tulee?
+
+*Kroll*. Kun en uskalla -- en *tahdo* ajatella pahinta. Ei, ei, salli
+minun puhua loppuun. -- Panethan sinä todellakin arvoa minun
+ystävyydelleni, Rosmer? Ja minun kunnioitukselleni myös? Teethän sen?
+
+*Rosmer*. Siihen kysymykseen ei minun tarvitse vastatakkaan.
+
+*Kroll*. No, mutta meillä on muita asioita, jotka vaativat vastausta, --
+täydellistä selitystä sinulta. Suostutko siihen, että pidän jonkinlaista
+kuulustelemista --?
+
+*Rosmer*. Kuulustelemista?
+
+*Kroll*. Niin, että kyselen sinulta yhtä ja toista, jota sinusta ehkä
+tuntuu tuskalliselta muistella. Näetkös, -- tämä sinun luopumisesi, --
+no, sinun vapautuksesi, niinhän sitä kutsut, -- se on yhteydessä monen
+muun asian kanssa, joista sinun itsesi takia täytyy tehdä minulle
+selkoa.
+
+*Rosmer*. Hyvä ystävä, kysy sinä vaan, mitä mielit. Minulla ei ole
+mitään peiteltävää.
+
+*Kroll*. Sano sitte -- minkä luulet oikeammin olleen syvimmän syyn
+siihen, että Beate lopetti itsensä?
+
+*Rosmer*. Voitko epäillä sitä? Tai, oikeammin, voitko kysellä syitä,
+onnettoman, sairaan, heikkomielisen ihmisen töihin?
+
+*Kroll*. Oletko varma siitä, että Beate oli niinkään heikkomielinen?
+Ainakin arvelivat lääkärit, ett'ei se ollut niin varma asia.
+
+*Rosmer*. Jos lääkärit joskus olisivat nähneet hänet sellaisena, kuin
+minä usein näin hänet öin päivin, eivät he olisi epäilleet.
+
+*Kroll*. En minäkään epäillyt silloin.
+
+*Rosmer*. Et, sinun oli, paha kyllä, mahdotonta epäillä. Olenhan minä
+kertonut sinulle hänen hillittömästä, hurjasta intohimoisuudestaan, --
+jota hän vaati minun vastaamaan. Oo, sitä kammoa, jota hän minussa
+herätti. Ja sitte hänen perättömät, kalvavat itsesyytöksensä viime
+vuosina.
+
+*Kroll*. Niin, saatuansa tietää jäävänsä iäkseen lapsettomaksi.
+
+*Rosmer*. No, ajattele siis itsekkin --. Sellainen vaivaava, kammottava
+tuska asiasta, johon on aivan syytöin --! Ja hän olisi ollut
+täysimielinen? --
+
+*Kroll*. Hm --. Voitko muistaa, oliko sinulla siihen aikaan kodissasi
+kirjoja, joissa puhuttiin avioliiton tarkoituksesta -- aikamme
+edistyneen käsityskannan mukaan?
+
+*Rosmer*. Muistaakseni neiti West lainasi minulle yhden sellaisen
+teoksen. Mutta, rakas Kroll, ethän toki luule meitä niin varomattomiksi,
+että olisimme puhuneet sellaiselle sairas-raukalle moisista asioista?
+Minä vakuutan pyhästi ja vakavasti, että meissä ei ole syytä. Hänen
+omat, turmeltuneet aivohermonsa hänet syöksivät mielettömyyden
+harhateille.
+
+*Kroll*. Yhden seikan voin sinulle kuitenkin nyt kertoa. Tuo kiusattu ja
+kiihoittunut Beate-raukka lopetti elämänsä siksi, että sinä saisit elää
+onnellisena -- elää vapaana ja -- mielesi mukaan.
+
+*Rosmer* (on puoleksi kohonnut tuoliltaan). Mitä sillä tarkoitat?
+
+*Kroll*. Kuule nyt minua tyynesti, Rosmer. Sillä nyt voin puhua siitä.
+Viimeisenä elinvuotenaan oli Beate kaksi kertaa minun luonani
+valittamassa tuskaansa ja epätoivoansa.
+
+*Rosmer*. Samasta syystäkö?
+
+*Kroll*. Ei. Ensi kerralla hän tuli luokseni ja väitti sinun olevan
+lankeemuksen tiellä. Sanoi sinun aikovan hyljätä isiesi uskon.
+
+*Rosmer* (innokkaana). Se on mahdotointa, mitä nyt sanot, Kroll! Ihan
+mahdotointa! Sinä olet varmaankin erehtynyt.
+
+*Kroll*. Miksi niin?
+
+*Rosmer*. Siksi, että niin kauvan kuin Beate eli, minä vielä, epäilin ja
+taistelin sielussani. Ja sen taistelun minä taistelin yksin, ihan
+hiljaisuudessa. En usko, että edes Rebekka --
+
+*Kroll*. Rebekka?
+
+*Rosmer*. No niin, -- neiti West. Minä kutsun häntä Rebekaksi,
+mukavuuden vuoksi.
+
+*Kroll*. Sen olen huomannut.
+
+*Rosmer*. Siksi on minusta käsittämätöintä, kuinka se on juolahtanut
+Beaten päähän. Ja miksi ei hän puhunut minulle itselleni siitä? Sitä hän
+ei koskaan tehnyt. Ei ainoallakaan sanalla.
+
+*Kroll*. Hän, raukka, pyysi ja rukoili minua, puhuttelemaan sinua.
+
+*Rosmer*. Ja miksi et sitä sitte tehnyt?
+
+*Kroll*. Eihän tullut mieleenikään silloin, pitää häntä muuna kuin
+heikkomielisenä. Sellaisen syytöksen, kun hän teki sinunlaistasi miestä
+vastaan! -- Ja sitte hän tuli uudestaan, -- noin kuukautta myöhemmin.
+Silloin hän oli päältä nähden tyynempi. Mutta lähteissään lausui hän:
+Nyt saavat kohta odottaa valkeata hevosta Rosmersholmaan.
+
+*Rosmer*. Niin, niin. Valkeasta hevosesta -- siitä hän usein puhui.
+
+*Kroll*. Ja kun koettelin saada häntä noista surullisista mietteistä,
+vastasi hän vaan: Minulla ei ole enää pitkältä elettävää. Sillä nyt
+täytyy Johanneksen heti naida Rebekka.
+
+*Rosmer* (melkein sanattomana). Mitä sinä sanot --! Minun naida --!
+
+*Kroll*. Se tapahtui torstaina iltapäivällä. -- Lauvantai-iltana hän
+heittäytyi sululta myllykoskeen.
+
+*Rosmer*. Etkä sinä varoittanut meitä --!
+
+*Kroll*. Tiedäthän itsekkin, kuinka usein hän arveli, että nyt hän
+varmaankin pian kuolee.
+
+*Rosmer*. Sen kyllä tiedän. Mutta kuitenkin; -- sinun olisi pitänyt
+varoittaa meitä!
+
+*Kroll*. Vähä sitä itsekkin ajattelin. Mutta silloin se jo oli liian
+myöhään.
+
+*Rosmer*. Mutta miksi et sen jälkeen ole --? Minkä tähden olet pitänyt
+tämän kaikki salassa?
+
+*Kroll*. Mistä syystä olisin tullut tänne lisäämään sinulle surua ja
+katkeruutta? Pidinhän niitä vaan tyhjinä mielikuvituksen houreina. --
+Aina eilis-iltaan asti.
+
+*Rosmer*. Siis et nyt enää?
+
+*Kroll*. Eikö Beate nähnyt oikein, sanoessaan sinun tahtovan luopua
+lapsuutesi uskosta?
+
+*Rosmer* (tuijottelee eteensä). Niin, sitä minä en ymmärrä. Se on
+minusta kaikista käsittämättömintä.
+
+*Kroll*. Käsität tai olet käsittämättä, --, niin vaan asia on. Ja nyt
+kysyn sinulta Rosmer, -- kuinka paljo on hänen toisessa syytöksessään
+perää? Siinä viimeisessä, tarkoitan.
+
+*Rosmer*. Syytöksessään? Oliko *se* sitte syytös?
+
+*Kroll*. Ehk'et huomannut, mitkä hänen sanansa olivat: -- Hän tahtoi
+mennä pois -- sanoi. Minkä tähden? No?
+
+*Rosmer*. Siksi, että minä saisin mennä naimisiin Rebekan kanssa --.
+
+*Kroll*. Sanat eivät sattuneet ihan niin. Beate lausui vähän toisin. Hän
+sanoi: Minulla ei ole pitkältä elettävää. Sillä nyt *täytyy* Johanneksen
+*heti* naida Rebekka.
+
+*Rosmer* (katsoo häneen hetkisen, nousee sitte). Nyt ymmärrän
+tarkoituksesi, Kroll.
+
+*Kroll*. Entä sitte? Mitä vastaat?
+
+*Rosmer* (yhä hiljaisesti, maltilla). Niin suunnattomaan --? Ainoa oikea
+vastaus olisi, näyttää sinulle ovea.
+
+*Kroll* (nousee). Hyvä.
+
+*Rosmer* (asettuu hänen tiellensä). Kuule nyt minua. Yli vuoden päivät,
+-- aina Beaten kuolemasta asti -- olemme me, Rebekka West ja minä,
+asuneet yksin täällä Rosmersholmassa. Kaiken aikaa olet sinä tiennyt
+Beaten syytöksen meitä vastaan. Mutta minä en ole koskaan huomannut
+sinun paheksuvan sitä, että Rebekka ja minä elimme täällä yhdessä.
+
+*Kroll*. Ennen eilistä iltaa en tiennyt, että uskostaan luopunut mies ja
+-- vapautettu nainen elivät täällä yhdessä.
+
+*Rosmer*. Ah --! Sinä et siis luule että uskosta luopuneissa ja
+vapautetuissa ihmisissä on puhtaudentunnetta? Et usko heissä voivan olla
+siveellisyyden vaatimusta luonnossaan!
+
+*Kroll*. Minä en paljoa luota sellaiseen siveellisyyteen, jonka juuret
+eivät lähde kirkon uskosta.
+
+*Rosmer*. Ja samaa sanot Rebekasta ja minustakin? Rebekan ja minun
+suhteestani --?
+
+*Kroll*. Minä en voi teidän hyväksenne luopua siitä luulostani, ett'ei
+se mahda olla kovinkaan syvä, se juova, joka eroittaa vapaan ajatuksen
+ja -- hm!
+
+*Rosmer*. Ja minkä --?
+
+*Kroll*. Ja vapaan rakkauden, -- jos sen ehdottomasti tahdot tietää.
+
+*Rosmer* (hiljaa). Ja sitä sinä et häpeä sanoa minulle! Sinä, joka olet
+tuntenut minut varhaisimmasta nuoruudestani alkaen.
+
+*Kroll*. Juuri sen vuoksi. Minä tiedän, kuinka helposti sinä annat
+niiden ihmisten vaikuttaa itseesi, joiden kanssa seurustelet. Ja tuota
+sinun Rebekkaasi --. No, tuota neiti Westiä --, emmehän me juuri tunne
+häntä tarkemmin. Suoraan sanoen, Rosmer, -- minä en päästä sinua
+käsistäni. Ja sinä itse, -- koeta pelastaa itsesi ajoissa.
+
+*Rosmer*. Pelastaa itseni? Mistä?
+
+(*Matami Helseth* tirkistää ovesta sisään.)
+
+*Rosmer*. Mitä tahdotte?
+
+*Matami Helseth*. Pyytäisin neitiä tulemaan alas.
+
+*Rosmer*. Neiti ei ole täällä ylhäällä.
+
+*Matami Helseth*. Eikö ole? (katselee ympärillensä). Sepä kummallista.
+(menee.)
+
+*Rosmer*. Sinä sanoit --?
+
+*Kroll*. Kuule nyt. Mitä täällä on salaisuudessa tapahtunut Beaten
+eläessä, -- ja mitä täällä edeskinpäin tapahtuu, -- sitä en tahdo
+tarkemmin tutkia. Olithan sinä niin kovin onnetoin avioliitossasi. Ja se
+saa kai tavallansa olla sinulle puolustukseksi --.
+
+*Rosmer*. Voi, kuinka vähä sinä oikeimmin tunnet minua --!
+
+*Kroll*. Elä minua, häiritse. Sen sanon vaan, -- että jos aijot jatkaa
+tätä yhteis-elämääsi neiti Westin kanssa, niin on ihan välttämätöintä,
+että pidät salassa sitä käännöstä -- sitä surkeata luopumista, -- johon
+hän on sinut vietellyt. Anna minun puhua! Anna minun puhua! Minä sanon,
+että jos tätä hullutusta on suvaittava, niin ajattele, luule ja usko,
+Herran nimessä, mitä vaan tahdot -- sekä sinne että tänne. Mutta pidä
+uskosi itselläsi. Onhan se ihan yksityinen asia. Eihän sellaisia asioita
+välttämättömästi tarvitse huhuilla ympäri koko maan.
+
+*Rosmer*. Minun täytyy välttämättömästi päästä väärästä ja epäselvästä
+asemastani.
+
+*Kroll*. Mutta sinulla on velvollisuuksia sukusi muistoille, Rosmer!
+Pidä se mielessäsi! Rosmersholma on ammoisista ajoista ollut
+säädyllisyyden ja järjestyksen lietenä, täällä on aina pidetty kunniassa
+ja arvossa sitä, mitä yhteiskunnan etevimmät ovat hyväksyneet ja
+tunnustaneet parhaaksi. Koko seutuun on Rosmersholma painanut leimansa.
+Onnetoin, parantumatoin häiriö syntyisi, jos se tieto pääsisi leviämään,
+että sinä itse olet hyljännyt niin sanoakseni Rosmerien sukuaatteen.
+
+*Rosmer*. Rakas Kroll, -- minä en katsele asiaa samalta kannalta.
+Mielestäni on minun välttämätöin velvollisuuteni hankkia vähä iloa ja
+valoa tänne, johon Rosmerien suku aikojen halki on koonnut vaan yötä ja
+synkkyyttä.
+
+*Kroll* (katsoo häneen ankarasti). Se olisi tosiaankin arvokas tehtävä
+sille miehelle, jonka kanssa suku kuolee. Ei, jätä sinä sellaiset
+hommat. Se ei ole sinulle soveliasta työtä. Sinä olet luotu hiljaiseksi
+tiedemieheksi.
+
+*Rosmer*. Niin, voi niinkin olla. Mutta minäkin tahdon kerran olla
+mukana elämän taistelussa, minä myös.
+
+*Kroll* Tiedätkö, mitä se elämän taistelu tulee olemaan sinulle? Se
+tulee olemaan ottelu elämästä ja kuolemasta kaikkien ystäviesi kanssa.
+
+*Rosmer* (hiljaa). Ei suinkaan ne kaikki ole yhtä kiihkomielisiä kuin
+sinä.
+
+*Kroll*. Sinä olet herkkäuskoinen ihminen. Ihan kokematoin ihminen. Sinä
+et aavista kuinka äkkiä myrsky karkaa kimppuusi.
+
+(*Matami Helseth* raottaa ovea.)
+
+*Matami Helseth*. Neiti lähetti kysymään --.
+
+*Rosmer*. Mikä on?
+
+*Matami Helseth*. Siellä on alhaalla joku, joka mielellään tahtoisi
+vähän puhutella pastoria.
+
+*Rosmer*. Onko se kenties sama joka oli eilen illalla?
+
+*Matami Helseth*. Ei, se on se Mortensgård.
+
+*Rosmer*. Mortensgård.
+
+*Kroll*. Ahaa! Niin pitkälle siis on päästy! Nyt jo niin pitkälle!
+
+*Rosmer*. Mitä hän minusta tahtoo? Miksi ette antanut hänen mennä
+tiehensä?
+
+*Matami Helseth*. Neiti sanoi, että tulisin kysymään, saako mies tulla
+ylös.
+
+*Rosmer*. Sanokaa hänelle, että täällä on vieras --
+
+*Kroll* (matamille). Antakaa hänen vaan tulla, matami.
+
+(*Matami Helseth* menee.)
+
+*Kroll* (tarttuu hattuunsa). Minä pakenen -- aluksi. Mutta pääottelu ei
+ole vielä suoritettu.
+
+*Rosmer*. Niin totta kuin elän, Kroll, -- minä en ole missään
+tekemisissä Mortensgårdin kanssa.
+
+*Kroll*. Minä en usko sinua enää. En yhdessäkään asiassa. En missään
+minä enää usko sinua. Nyt alkaa taistelu hengen kaupalla. Saadaanpa
+nähdä, emmekö saa sinua vahingoittamattomaksi.
+
+*Rosmer*. Oi, Kroll, -- kuinka alhaiselle, -- kuinka halvalle kannalle
+sinä olet joutunut!
+
+*Kroll*. Minä? Ja noin minulle sanoo sinun kaltaisesi mies! Muista
+Beatea!
+
+*Rosmer*. Palaatko taas *siihen*!
+
+*Kroll*. En. Muistakkin selvittää myllykosken arvoitus omantuntosi
+mukaan, jos sinulla enää on siitä rahtuakaan jäljellä.
+
+(*Peder Mortensgård* tulee hiljaa ja äänettömästi sisään vasemmasta
+ovesta. Hän on pieni, heikko mies, tukka ja parta punertavat.)
+
+*Kroll* (vihaisella silmäyksellä). No, vai «Välkyttäjä» --. Loimottaen
+Rosmersholmassa. (panee takkinsa napit kiinni.) Niin, tiedänhän minä
+sitte, mitä suuntaa on purjehtiminen.
+
+*Mortensgård* (tasaisesti). «Välkyttäjä» on aina oleva vireillä,
+valaistakseen rehtoria kotiin.
+
+*Kroll*. Niin, te olette jo kauvan osoittanut hyvää tahtoanne. On tosin
+olemassa käsky, joka kieltää meitä tekemästä väärää todistusta
+lähimmäistänsä vastaan --.
+
+*Mortensgård*. Ei rehtorin tarvitse opettaa minulle käskyjä.
+
+*Kroll*. Eikö kuudettakaan?
+
+*Rosmer*. Kroll --!
+
+*Mortensgård*. Jos tarvitaan, niin on kait pastori lähin siihen toimeen.
+
+*Kroll* (kätketyllä ivalla). Pastori! Niin, pastori Rosmer on
+kieltämättä lähin mies siinä suhteessa. -- Hauskaa keskustelua, hyvät
+herrat. (menee ja lyö oven lukkoon jälkeensä.)
+
+*Rosmer* (seisoo hetkisen katsellen oveen, ja sanoo itsekseen). Niin
+niin, olkoon sitte niin. (kääntyy.) Sanokaa minulle, herra Mortensgård,
+mistä syystä te tulette tänne minun luokseni.
+
+*Mortensgård*. Oikeimmin minä haen neiti Westiä. Mielestäni minun piti
+kiittää häntä siitä hyvästä kirjeestä, jonka eilen illalla sain häneltä.
+
+*Rosmer*. Minä tiedän, että hän kirjoitti teille. Saitteko puhutella
+häntä?
+
+*Mortensgård*. Sain, vähän. (vähän hymyillen.) Mielipiteet ovat
+muuttuneet täällä Rosmersholmassa monessa suhteessa, kuulin ma.
+
+*Rosmer*. Minun mielipiteeni ovat muuttuneet monessa asiassa. Voin
+melkein sanoa -- kaikissa.
+
+*Mortensgård*. Niinhän sitä neiti sanoi. Ja siksi minä arvelin että
+tulisin ylös ja puhelisin vähä pastorin kanssa siitä.
+
+*Rosmer*. Mistä, herra Mortensgård?
+
+*Mortensgård*. Saanko minä luvan «Välkyttäjässä» ilmoittaa, että te
+olette muuttanut mieltä, -- ja että te liitytte vapaamielisyyden ja
+edistyksen puolustajiin?
+
+*Rosmer*. Sen saatte mielellänne tehdä. Minä vielä pyydänkin teitä sitä
+kertomaan.
+
+*Mortensgård*. Huomenna varhain se sitte on luettavana lehdessä. Se on
+oleva suuri ja tärkeä uutinen, se, että Rosmersholman pastori Rosmer
+arvelee voivansa siinäkin merkityksessä taistella valon levittämiseksi.
+
+*Rosmer*. Minä en oikein käsitä teitä.
+
+*Mortensgård*. Minä vaan tarkoitan sitä, että puolueellemme lisääntyy
+siveellistä lujuutta tueksi joka kerta kun voitamme vakavan,
+kristillismielisen jäsenen.
+
+*Rosmer* (vähä kummastuneena). Ette siis tiedä --? Eikö neiti West
+sanonut *sitäkin*?
+
+*Mortensgård*. Mitä, herra pastori? Neidillä oli kova kiire. Hän sanoi,
+että tulisin ylikertaan, niin saisin kuulla loput teiltä itseltänne.
+
+*Rosmer*. No sitte ilmoitan teille, että olen vapauttanut itseni
+täydellisesti. Joka asiassa. Minä en enää ole minkäänlaisessa suhteessa
+kirkon opinkappaleisin. Ne asiat eivät tästä lähin liikuta minua
+vähääkään.
+
+*Mortensgård* (katsoo häneen ällistyneenä). Ei, -- mutta, -- jos taivas
+olisi tullut alas, enpä olisi enempää -- että itse pastorikin eroittaa
+itsensä --!
+
+*Rosmer*. Minä olen nyt samalla kannalla, jolla te itse olette ollut jo
+kauvan aikaa. Sen voitte ilmoittaa «Välkyttäjässä» huomenna.
+
+*Mortensgård*. Senkö myös? Ei, hyvä herra pastori --. Suokaa anteeksi,
+mutta siihen asiaan ei ole koskeminen?
+
+*Rosmer*. Eikö ole koskeminen?
+
+*Mortensgård*. Ei ensi aluksi, minä tarkoitan.
+
+*Rosmer*. Mutta minä en ymmärrä --.
+
+*Mortensgård*. Niin, nähkääs, herra pastori --. Te ette nyt,
+arvatakseni, tunne niin hyvin oloja kuin minä. Mutta kun nyt siis olette
+kääntynyt vapaamieliseen suuntaan, -- ja kun te, neiti Westin sanojen
+mukaan, -- aijotte ottaa osaa liikkeesen, -- niin toivotte kai samalla
+olevanne sekä suunnalle että liikkeelle niin hyödyllinen kuin suinkin
+voitte.
+
+*Rosmer*. Niin toivon, kaikesta sydämmestäni.
+
+*Mortensgård*. No; tahdon sitte vaan ilmoittaa teille, herra pastori,
+että jos julkisesti julistatte luopuneenne kirkosta, niin sidotte heti
+ensi hetkestä itse kätenne.
+
+*Rosmer*. Luuletteko niin?
+
+*Mortensgård*. Voitte olla varma siitä, ett'ette näillä seuduin saa
+mitään toimeen. Ja sitä paitsi -- vapaauskoisia meillä jo on yltäkyllin
+ennaltaan, herra pastori. Olin vähällä sanoa, -- *sitä* väkeä meillä on
+jo liiemmaltakin. Puolueemme kaipaa kristillisiä aineksia, -- jotain,
+jota kaikki kunnioittavat. Sitä meillä niin kipeästi tarvitaan. Siksi on
+viisainta, että pidätte peitossa kaikki sellaiset asiat, jotka eivät
+liikuta yleisöä. Se on minun mielipiteeni.
+
+*Rosmer*. Vai niin. Te ette siis uskalla yhtyä minuun, jos julkisesti
+tunnustan luopumiseni?
+
+*Mortensgård* (pudistaa päätänsä). Tuskinpa vaan, herra pastori. Viime
+aikoina olen pitänyt sääntönä, ett'en koskaan auta mitään tai ketään,
+joka vastustaa kirkollisia asioita.
+
+*Rosmer*. Oletteko te itse sitte viime aikoina palannut takaisin
+kirkolliselle kannalle?
+
+*Mortensgård*. Se olkoon eri asia.
+
+*Rosmer*. Vai niinkö siis. No, sitte ymmärrän käytöksenne.
+
+*Mortensgård*. Herra pastori, -- teidän pitäisi muistaa, että minulta,
+-- erittäin minulta -- puuttuu täydellistä toimintavapautta.
+
+*Rosmer*. Mikä teitä sitte sitoo?
+
+*Mortensgård*. Minua sitoo se, että olen merkitty mies.
+
+*Rosmer*. Ah -- vai niin.
+
+*Mortensgård*. Merkitty mies, herra pastori. Erittäin pitäisi teidän
+muistaa se. Sillä te etupäässä toimititte minut merkityksi.
+
+*Rosmer*. Jos siihen aikaan olisin ollut samalla kannalla kuin nyt,
+olisin menetellyt säälivämmin tutkiessani erehdystänne.
+
+*Mortensgård*. Sen minä uskon. Mutta nyt sitä ei enää voi auttaa. Te
+olette jo merkinnyt minut. Merkinnyt minut elinkaudekseni. Ette suinkaan
+te oikein tiedäkkään miltä merkittynä oleminen tuntuu. Mutta nyt saatte
+ehkä pian itse tuntea sen karvautta, herra pastori.
+
+*Rosmer*. Minä?
+
+*Mortensgård*. Niin. Sillä ettehän toki luule, rehtori Krollin ja hänen
+piirinsä koskaan antavan anteeksi sitä, että niin perin pohjin olette
+luopunut heistä? Ja «Isänmaasta» pitäisi tehtämän oikein kiivas nyt,
+sanotaan. Te voitte helposti tulla merkityksi mieheksi, tekin.
+
+*Rosmer*. Minä tunnen olevani virheetöin yksityistoimissani. Elämääni ei
+kukaan pääse moittimaan.
+
+*Mortensgård* (rauhallisesti hymyillen). Se oli rohkeasti sanottu, herra
+pastori.
+
+*Rosmer*. Voi olla. Mutta minulla on oikeus puhua niin rohkeasti.
+
+*Mortensgård*. Sittekkin, jos tutkitte omaa elämäänne yhtä perinpohjin
+kuin kerran tutkitte minun?
+
+*Rosmer*. Tuon te sanotte niin kummallisesti. Mitä te sillä tarkoitatte?
+Jotain erityistä asiaako?
+
+*Mortensgård*. Niin, *yhtä* erityistä asiaa. Vaan yhtä ainoata. Mutta
+*siitä* taitaisi tulla hyvinkin kipeä juttu, jos ilkimieliset
+vastustajat saisivat siitä vihiä.
+
+*Rosmer*. Tahdotteko olla hyvä ja sanoa minulle, mikä se asia on.
+
+*Mortensgård*. Eikö pastori voi itse arvata sitä?
+
+*Rosmer*. En, en ollenkaan. En vähääkään.
+
+*Mortensgård*. Niin -- niin, -- sitte pitänee minun puhua suuni
+puhtaaksi. -- Minulla on tallella eräs kummallinen kirje, joka on
+kirjoitettu täällä Rosmersholmassa.
+
+*Rosmer*. Neiti Westin kirje, tarkoitatte? Onko se niin kummallinen?
+
+*Mortensgård*. Ei, se kirje ei ole kummallinen. Mutta minä olen kerran
+ennenkin saanut tästä talosta kirjeen.
+
+*Rosmer*. Senkin neiti Westiltä?
+
+*Mortensgård*. En, herra pastori.
+
+*Rosmer*. No, keneltä sitte? Keneltä?
+
+*Mortensgård*. Rouva vainajalta.
+
+*Rosmer*. Minun vaimoltani! Oletteko *te* saanut kirjeen minun
+vaimoltani!
+
+*Mortensgård*. Olen, olen minä saanut.
+
+*Rosmer*. Koska?
+
+*Mortensgård*. Rouva vainajan viimeisinä elinpäivinä. Siitä taitaa nyt
+olla noin puolitoista vuotta. Ja se kirje, se on kummallinen.
+
+*Rosmer*. Tiedätte kai, että vaimoni oli sairasmielinen siihen aikaan?
+
+*Mortensgård*. Niin, minä tiedän, että moni niin luuli. Mutta ei minusta
+mitään sellaista voinut kirjeestä havaita. Kun sanon kirjettä
+kummalliseksi, niin tarkoitan sillä muuta.
+
+*Rosmer*. Ja mitä ihmettä minun vaimo-raukkani on tullut teille
+kirjoittaneeksi?
+
+*Mortensgård*. Kirje on minulla kotonani. Hän alkaa jotenkin niin, että
+hän on suuressa tuskassa ja kauhussa. Sillä näillä seuduin on niin paljo
+ilkeitä ihmisiä, hän kirjoittaa. Ja ne ihmiset koettavat vaan tehdä
+teille harmia ja vahinkoa.
+
+*Rosmer*. Minulle?
+
+*Mortensgård*. Niin, niin hän sanoo. Ja sitte tulee kaikista
+kummallisin. Kerronko senkin, herra pastori?
+
+*Rosmer*. Tietysti! Kaikki tyyni. Ihan peittelemättä.
+
+*Mortensgård*. Rouva vainaja pyytää ja rukoilee minua olemaan
+jalomielinen. Hän tietää, sanoo hän, pastorin toimittaneen minun pois
+opettajavirastani. Ja sitte hän pyytää niin hartaasti, ett'en kostaisi.
+
+*Rosmer*. Mitenkä hän sitte luuli teidän voivan kostaa?
+
+*Mortensgård*. Kirjeessä seisoo, että jos korviini tulee sellaisia
+huhuja, että Rosmersholmassa eletään syntistä elämää, niin ei minun
+pitäisi uskoa niitä; sillä ilkeät ihmiset niitä vaan levittelivät,
+tehdäkseen teidät onnettomaksi.
+
+*Rosmer*. Onko kirjeessä niin!
+
+*Mortensgård*. Te voitte itse sopivassa tilaisuudessa saada lukea
+kirjeen, herra pastori.
+
+*Rosmer*. Mutta minä en ymmärrä --! Mitä hän sitte kuvitteli niiden
+huhujen tarkoittavan?
+
+*Mortensgård*. Ensiksikin, että pastori oli luopunut lapsuutensa
+uskosta. Sitä nyt rouva väitti varmaksi valheeksi -- silloin. Ja sitte
+-- hm --
+
+*Rosmer*. Sitte?
+
+*Mortensgård*. Ja sitte hän kirjoittaa, -- se osa tuntuu jotenkin
+sekaantuneelta -- ett'ei hän tiedä mistään syntisestä elämästä
+Rosmersholmassa. Ett'ei hänelle koskaan ole tehty mitään vääryyttä. Ja
+sitte hän rukoilee minua, että jos sellaisia huhuja tulisi liikkeelle,
+minä en puhuisi niistä mitään «Välkyttäjässä».
+
+*Rosmer*. Mainitseeko hän mitään nimiä?
+
+*Mortensgård*. Ei.
+
+*Rosmer*. Kuka teille sen kirjeen toi?
+
+*Mortensgård*. Minä olen luvannut, ett'en sano sitä. Se tuotiin minulle
+eräänä iltana hämärässä.
+
+*Rosmer*. Olisitte heti tiedustellut, niin olisitte saanut kuulla, että
+onneton vaimo-parkani oli heikkomielinen.
+
+*Mortensgård*. Minä tiedustelinkin, herra pastori. Mutta minun täytyy
+tunnustaa, ett'ei hän minuun tehnyt sitä vaikutusta.
+
+*Rosmer*. Eikö tehnyt? -- Mutta minkä tähden nyt puhutte minulle tuosta
+vanhasta sekanaisesta kirjeestä?
+
+*Mortensgård*. Neuvoakseni teitä olemaan hyvin varovainen, pastori
+Rosmer.
+
+*Rosmer*. Elämässänikö, tarkoitatte?
+
+*Mortensgård*. Niin. Muistakaa, että vast'edes olette sotajalalla oleva
+mies.
+
+*Rosmer*. Te siis pysytte luulossanne, että täällä on jotain salattavaa?
+
+*Mortensgård*. Minä en ymmärrä, miksi vapautunut mies ei nauttisi
+elämästä, niin paljon kuin mahdollista! Mutta olkaa vaan, niin kuin jo
+sanoin, tästä lähin hyvin varova. Jos vaan uumottaisiin jotain, joka on
+vasten tapoja, niin voitte olla varma siitä, että sen johdosta
+moitittaisiin koko vapaamielistä suuntaa. -- Hyvästi, pastori Rosmer.
+
+*Rosmer*. Hyvästi.
+
+*Mortensgård*. Ja nyt minä menen suoraan kirjapainoon ja panen tämän
+uutisen «Välkyttäjään».
+
+*Rosmer*. Pankaa kaikki lehteen.
+
+*Mortensgård*. Minä panen kaikki, mitä yhteisen kansan tarvitsee tietää.
+(Tervehtii ja menee. *Rosmer* jää seisomaan ovelle, hänen mennessään
+portaita alas. Ulko-ovi lyödään kiinni.)
+
+*Rosmer* (ovessa, huutaa puoliääneen). Rebekka; Re --! Hm. (ääneen.)
+Matami Helseth, -- eikö neiti West ole siellä alhaalla?
+
+*Matami Helseth* (vastaa alhaalta eteisestä). Ei, hra pastori, täällä
+hän ei ole.
+
+(Perältä vedetään esiriippu syrjään. Rebekka näkyy aukossa.)
+
+*Rebekka*. Rosmer!
+
+*Rosmer* (kääntyy). Mitä! Olitko minun makuuhuoneessani! Mitä siellä
+olet tehnyt?
+
+*Rebekka* (menee hänen luoksensa). Minä olen kuunnellut.
+
+*Rosmer*. Ei mutta, Rebekka, kuinka voit niin tehdä?
+
+*Rebekka*. Voin minä, voin. Hän sanoi sen niin ilkeästi, -- sen minun
+aamupuvustani --.
+
+*Rosmer*. Ah, sinä olit siis siellä Krollinkin aikana --?
+
+*Rebekka*. Niin olin. Minä tahdoin tietää, mitä hän oikein tarkoitti.
+
+*Rosmer*. Minä olisin kyllä kertonut sen sinulle.
+
+*Rebekka*. Tuskin sinä olisit kertonut minulle kaikkia. Etkä suinkaan
+hänen sanoillansa.
+
+*Rosmer*. Kuulitko sinä sitte kaikki?
+
+*Rebekka*. Enimmät ainakin, luullakseni. Minun täytyi mennä hetkeksi
+alas, kun Mortensgård tuli.
+
+*Rosmer*. Ja sitte palasit ylös takaisin --
+
+*Rebekka*. Elä suutu siitä, rakas ystävä.
+
+*Rosmer*. Tee sinä kaikki, mitä vaan itse pidät oikeana ja hyvänä. Onhan
+sinulla täysi vapautesi. -- Mutta mitä nyt sanot, Rebekka --? Oo, en ole
+mielestäni vielä koskaan tarvinnut sinua niinkuin nyt.
+
+*Rebekka*. Olemmehan me kumpikin olleet valmiit kestämään, mitä kerran
+oli tuleva.
+
+*Rosmer*. Ei, ei, emme tätä?
+
+*Rebekka*. Emmekö tätä?
+
+*Rosmer*. Ajattelinhan minä tosin, että meidän kaunis, puhdas
+ystävyytemme joskus kyllä joutuisi tahran ja epäluulon alaiseksi. Mutta
+Krollia en peljännyt. Häneltä en ikinä olisi tällaista odottanut. Mutta
+kyllä noilta muilta, raakoine mielineen ja saastaisine silmineen. --
+Niin niin, minulla oli kyllin syytä, kateellisesti salatessani
+liittoamme ihmisiltä. Se oli vaarallinen salaisuus.
+
+*Rebekka*. Oi, mitä me siitä huolimme, mitä kaikki nuo muut sanovat!
+Tiedämmehän itse olevamme syyttömät.
+
+*Rosmer*. Minä? Syytön? Niin, niinhän itsekkin luulin olevani -- aina
+tähän päivään asti. Mutta nyt, -- nyt Rebekka --.
+
+*Rebekka*. Niin, mitä nyt?
+
+*Rosmer*. Kuinka minun on selittäminen Beaten kauhea syytös?
+
+*Rebekka* (puhjeten sanoihin). Oi, elä puhu Beatesta! Elä ajattele enää
+Beatea! Olithan jo niin hyvin vieraantunut hänestä, joka on kuollut.
+
+*Rosmer*. Saatuani tämän tietää, on hän mielestäni taas tullut
+kauhistavan eläväksi.
+
+*Rebekka*. Oi ei, -- elä puhu siitä Rosmer! Elä puhu!
+
+*Rosmer*. Puhun, Rebekka. Meidän täytyy koettaa päästä asian perille.
+Kuinka hän on voinut saada päähänsä tuon onnettoman epäluulon?
+
+*Rebekka*. Ethän toki itse alkane epäillä, oliko hän oikein
+heikkomielinen?
+
+*Rosmer*. Alan niin, -- se se juuri on, josta en enää voi olla ihan
+varma. Ja sitä paitsi, jos hän olikin --.
+
+*Rebekka*. Jos hän olikin? Niin, mitä sitte?
+
+*Rosmer*. Minä tarkoitan, mikä oli sitte lähin syy siihen, että hänen
+mielensairautensa muuttui heikkomielisyydeksi?
+
+*Rebekka*. Oi, mitä hyötyä siitä on, että heittäyt tuollaisiin
+mietteisin!
+
+*Rosmer*. En voi muuta, Rebekka. En voi koskaan, vaikka kuinka
+tahtoisin, päästä tästä kalvavasta epäluulosta.
+
+*Rebekka*. Vaaralliseksi voi tulla -- noin herkeämättä seurata samaa
+tukalaa ajatusta.
+
+*Rosmer* (kulkee edestakaisin levottomana ja ajatuksissansa). Minä olen
+mahtanut jollain tavalla ilmaista salaisuuteni. Hän ehkä havaitsi,
+kuinka minusta alkoi tuntua onnelliselta *sinun* tultuasi meille.
+
+*Rebekka*. Mutta rakas Rosmer, vaikka niinkin olisi ollut --!
+
+*Rosmer*. Saatpa nähdä -- hän kyllä huomasi, että me luimme samoja
+kirjoja. Että me etsimme toistemme seuraa ja puhuimme yhdessä kaikista
+noista uusista asioista. Mutta minä en sittekkään käsitä sitä! Sillä
+minä olin niin varovainen säästääkseni häneltä katkeruutta
+Muistellessani niitä aikoja, tuntuu minusta, että koetin ikäänkuin
+henkeni kaupalla, pitää häntä ulkopuolella meidän elämäämme. Tai enkö
+minä koettanut, Rebekka?
+
+*Rebekka*. Koetit, koetit ihan varmaan.
+
+*Rosmer*. Ja sinä samoin. Ja kuitenkin --! Ooh, sitä on kauhea ajatella!
+Täällä hän siis -- hän, sairasmielisessä rakkaudessaan -- vaan aina
+vaiti -- piti meitä silmällä -- huomasi kaikki ja, -- käsitti kaikki
+väärin.
+
+*Rebekka* (väännellen käsiään). Oi, ett'en koskaan olisi tullut
+Rosmersholmaan!
+
+*Rosmer*. Oi, kun ajattelee, mitä hän on kärsinyt hiljaisuudessa! Mitä
+ilkeyksiä hän on sairaissa aivoissaan kutonut kokoon ja sovittanut
+meihin. -- Eikö hän koskaan puhunut sinulle mitään, josta olisit voinut
+aavistaa tätä?
+
+*Rebekka* (kiihkeästi). Minulle! Luuletko, että sitte olisin viipynyt
+täällä päivääkään sen jälkeen?
+
+*Rosmer*. Et, et, tietysti. -- Oi, mitä taistelua hän on mahtanut
+taistella. Ja taistellut ihan yksin. -- Ja lopuksi sitte tuo liikuttava
+-- meitä syyttävä voitto -- myllykoskessa, (heittäytyy tuolille
+kirjoituspöydän eteen, nojaa kyynärpäänsä pöytään ja peittää kasvonsa
+käsillään).
+
+*Rebekka* (lähestyy varovasti takaa päin). Kuuleppas nyt Rosmer. Jos
+voisit kutsua Beaten takaisin -- luoksesi -- Rosmersholmaan, --
+tekisitkö sen?
+
+*Rosmer*. Oo, tiedänkö minä, mitä tekisin tai olisin tekemättä. Minä en
+voi ajatella, muuta kuin tuota yhtä ainoata asiaa, -- jota ei voi
+parantaa.
+
+*Rebekka*. Nyt olisit alkanut elää, Rosmer. Sinä olit jo alkanut. Olit
+vapauttanut itsesi täydellisesti, -- kaikista. Sinusta tuntui niin
+iloiselta ja keveältä --.
+
+*Rosmer*. Aivan niin, -- siltä minusta tuntui, -- nyt tulee tämä kalvava
+tuska --.
+
+*Rebekka* (hänen takanansa, käsivarsin nojaten hänen tuoliinsa). Kuinka
+suloiselta tuntui, kun istuimme hämärissä tuolla alhaalla arkihuoneessa.
+Ja kun sitte yksin neuvoin sommittelimme uusia elämän tehtäviä. Sinä
+tahdoit omin käsin tarttua virkeään elämään, -- nykyhetken virkeään
+elämään, -- niinkuin sanoit. Kodista kotiin aijoit kulkea vapauttavana
+vieraana. Voittaa mielet ja tahdot puolellesi. Luoda aatelis-ihmisiä
+ylt'ympäri -- yhä loitommalle. Aatelis-ihmisiä.
+
+*Rosmer*. Iloisia aatelis-ihmisiä.
+
+*Rebekka*. Niin -- iloisia.
+
+*Rosmer*. Sillä ilo, Rebekka, ilo se jalostaa mielet.
+
+*Rebekka*. Etkö luule -- tuskankin jalostavan? Suuren tuskan?
+
+*Rosmer*. Luulen, -- jos sen voi kestää. Päästä siitä. Voittaa sen.
+
+*Rebekka*. *Voittaa* sinunkin juuri täytyy.
+
+*Rosmer* (pudistaa, raskaasti päätään). Minä en koskaan voita sitä --
+täydellisesti. Ainiaksi kytee sielussani sama epäluulo. Sama arvelu.
+Minä en enää koskaan voi riemuita *siitä*, joka tekee elämän niin
+hurmaavan suloiseksi.
+
+*Rebekka* (hiljemmin, tuolin selkälaudan takaa). Mitä sinä tarkoitat,
+Rosmer?
+
+*Rosmer*. Tyyntä, iloista viattomuuden tuntoa.
+
+*Rebekka* (astuu askeleen taaksepäin). Niin, viattomuus. (pieni
+vaitiolo.)
+
+*Rosmer* (nojaa kyynärpäitään pöytään; pää käsien nojassa, tuijottaa
+eteensä). Ja kuinka hän on osannut yhteen sommitella. Miten järkevästi
+hän on johtanut luulon luulosta. Ensin alkaa hän epäillä minun
+uskonnollisuuttani --. Kuinka hän juuri voi epäillä *sitä*? Mutta hän
+epäili. Ja epäilys kasvoi varmuudeksi. Ja sitte, -- niin, sitte oli
+hänen niin helppo pitää kaikkea muuta mahdollisena. (oikaisee itsensä
+tuolissa ja työntää sormet kiivaasti tukkaansa.) Oi, näitä hurjia
+kuvitteluja. Minä en koskaan pääse niistä. Tunnen sen niin varmasti.
+Minä tiedän sen. Milloin tahansa kiitävät ne lymypaikoistaan
+muistuttamaan minulle vainajata.
+
+*Rebekka*. Aivan kuin Rosmersholman valkea hevonen.
+
+*Rosmer*. Niin, aivan niin. Vinhuen pimeyden halki. Hiljaisuudessa.
+
+*Rebekka*. Ja tuollaisen onnettoman kuvittelu-kummituksen tähden
+päästäisit sinä käsistäsi virkeän elämän, juuri kun olet alkanut elää.
+
+*Rosmer*. Oikeassa olet; se on raskasta. Raskasta, Rebekka. Mutta minä
+en voi muuta. Mitenkä minä sitte koskaan voittaisin sen!
+
+*Rebekka* (tuolin takana). Luomalla itsellesi uusia suhteita.
+
+*Rosmer* (säpsähtää, katsoo ylös). Uusia suhteita!
+
+*Rebekka*. Niin, uusia suhteita ulkopuoliseen maailmaan. Rupeamalla
+elämään, toimeen ja työhön. Jättäisit tämän miettimisen ja
+ratkaisemattomien kysymysten punnitsemisen.
+
+*Rosmer* (nousee). Uusia suhteita? (menee lattian poikki, seisahtaa oven
+luona ja palaa sitte takaisin.) Yksi kysymys johtuu mieleeni. Eikö se
+ole tullut sinunkin mieleesi, Rebekka?
+
+*Rebekka* (hengittää vaikeasti). Sano minulle -- -- mikä -- se on.
+
+*Rosmer*. Miten luulet meidän suhteemme muuttuvan tämän jälkeen?
+
+*Rebekka*. Minä luulen ystävyytemme kestävän -- mitä tahansa tulleekkin.
+
+*Rosmer*. Niin, en minä nyt juuri *sitä* tarkoita. Mutta eikö se, joka
+meidät heti alussa vei yhteen; -- se joka sitoo meidät niin hartaasti
+toisiimme, -- meidän yhteinen uskomme puhtaasen yhdys-elämään miehen ja
+naisen välillä --
+
+*Rebekka*. Niin niin, -- mitä siitä?
+
+*Rosmer*. Minä tarkoitan, että sellainen suhde, -- kuin meidän siis, --
+eikö se sovi paraiten hiljaiseen, onnelliseen rauhan-elämään --?
+
+*Rebekka*. Entä sitte!
+
+*Rosmer*. Ja nyt minulle alkaa elämä täynnä taistelua ja levottomuutta,
+suuria mielenliikutuksia. Sillä minä *tahdon* elää elämäni, Rebekka!
+Minä en anna pöyristävien mahdollisuuksien kukistaa itseäni. Minä en
+salli kenenkään määrätä elinrataani, en elävien -- enkä kenenkään
+muunkaan.
+
+*Rebekka*. Ei ei, elä sallikkaan! Ole täydellisesti vapaa mies, Rosmer.
+
+*Rosmer*. Mutta tiedätkö, mitä sitte tulee mieleeni? Etkö tiedä? Etkö
+huomaa, kuinka minä paraiten voin vapautua kaikista kalvavista
+muistoista -- koko surullisesta entisyydestäni?
+
+*Rebekka*. No --!
+
+*Rosmer*. Asettamalla sitä vastaan uuden, elävän todellisuuden.
+
+*Rebekka* (tavoitellen tuolin selkälautaa). Elävän --? Mitä --
+tarkoitat?
+
+*Rosmer* (lähemmäksi). Rebekka, -- jos nyt kysyn sinulta -- tahdotko
+ruveta toiseksi vaimokseni?
+
+*Rebekka* (silmänräpäyksen sanattomana, huudahtaa riemuiten). Sinun
+vaimoksesi! -- Sinun? -- Minä!
+
+*Rosmer*. Hyvä, koetelkaamme sitte. Me kaksi tahdomme olla *yksi*.
+Elköön täällä enää missään olko tyhjää sijaa kuolleen jälkeen.
+
+*Rebekka*. Minä -- Beaten sijalle --!
+
+*Rosmer*. Sitte olemme päässeet hänestä. Täydellisesti. Ikuisiksi
+ajoiksi.
+
+*Rebekka* (hiljaa ja vavisten). Luuletko niin, Rosmer?
+
+*Rosmer*. Sen täytyy tapahtua. Minä en voi, enkä tahdo käydä elämäni
+halki ruumis seljässä. Auta minua heittämään se luotani, Rebekka. Ja
+tukahuttakaamme kaikki muistot vapauteen, riemuun, intohimon liekkiin.
+Sinä olet oleva minulle ainoa vaimo, joka minulla koskaan on ollut.
+
+*Rebekka* (tyyntyneenä). Elä enää koskaan ota tätä puheeksi. Minä en
+milloinkaan rupea vaimoksesi.
+
+*Rosmer*. Kuinka! Et milloinkaan! Oo, etkö sitte luule voivasi ruveta
+minua rakastamaan? Eikö meidän ystävyydessämme jo ole vivahdus
+rakkaudesta!
+
+*Rebekka* (panee kädet korvilleen, aivan kuin säikähtäneenä). Elä puhu
+noin, Rosmer! Elä sano sitä!
+
+*Rosmer*. On on, -- meidän suhteessamme *on* versova mahdollisuus. Ooh,
+minä näen kasvoistasi, että sinusta tuntuu myöskin siltä, eikö tunnu,
+Rebekka?
+
+*Rebekka* (taas lujasti ja maltilla). Kuule minua. Sen sanon sinulle, --
+että ellet heitä tuota ajatustasi, lähden minä Rosmersholmasta.
+
+*Rosmer*. Lähdet! Sinä! Sitä et voi. Se on mahdotonta.
+
+*Rebekka* Vielä mahdottomampaa on, että minä voin ruveta sinun
+vaimoksesi. Siksi en kuuna päivänä voi ruveta.
+
+*Rosmer* (katsoo häneen säpsähtäen). «Et voi,» sanot. Ja sanot sen niin
+kummallisesti. Minkä tähden et voi?
+
+*Rebekka* (tarttuu hänen kumpaankin käteensä). Rakas ystävä, -- sekä
+itsesi että minun tähteni, -- elä kysy minkä tähden. (päästää hänet.)
+Kas niin, Rosmer. (Menee vasemman puoliselle ovelle.)
+
+*Rosmer*. Tästä lähin ei minulla ole muuta kysyttävää kuin tuo sama --
+minkä tähden?
+
+*Rebekka* (kääntyy, katsoo häneen). Sitte on kaikki loppunut.
+
+*Rosmer*. Meidän väliltämmekö?
+
+*Rebekka*. Niin.
+
+*Rosmer*. Ei koskaan ole meidän kahden väliltä kaikki loppunut. Et
+koskaan sinä lähde Rosmersholmasta.
+
+*Rebekka* (käsi ovenkääkässä). En, en suinkaan minä lähdekkään. Mutta
+jos useimmin minulta kysyt -- niin tulee loppu kuitenkin.
+
+*Rosmer*. Loppu kuitenkin? Kuinka --?
+
+*Rebekka*. Niin, sillä silloin menen minä samaa tietä kuin Beatekin. Nyt
+sen tiedät, Rosmer.
+
+*Rosmer*. Rebekka --!
+
+*Rebekka* (ovessa, nyökkää hitaasti päällään). Nyt sen tiedät. (menee).
+
+*Rosmer* (tuijottaa ikäänkuin sekaisena ollen suljettuun oveen ja sanoo
+itsekseen). Mitä -- tämä -- on?
+
+
+
+
+KOLMAS NÄYTÖS.
+
+
+(Rosmersholman arkihuone. Akkuna ja eteisen ovi ovat auki.
+Aamupäivä-aurinko paistaa ulkona.)
+
+(*Rebekka West*, samassa puvussa kuin ensimmäisessä näytöksessäkin,
+seisoo akkunan edessä, siirrellen ja hypistellen kasvia. Hänen
+virkkaustyönsä on nojatuolissa. Matami Helseth kulkee edestakaisin
+höyhenhuiska kädessä, tomutellen huonekaluja.)
+
+*Rebekka* (hetken vaitiolon perästä). Kummallista, että pastori viipyy
+tänään niin kauvan yläkerrassa.
+
+*Matami Helseth*. No, useinhan se tapahtuu. Mutta kai hän nyt jo pian
+tulee alaskin, luulen ma.
+
+*Rebekka*. Oletteko nähnyt häntä tänään?
+
+*Matami Helseth*. Vilaukselta vaan. Kun vein kahvia hänelle, meni hän
+makuukamariinsa pukemaan päälleen.
+
+*Rebekka*. Kysyn vaan siksi, että hän eilen ei ollut oikein terve.
+
+*Matami Helseth*. Ei, huonolta hän näytti. Ja sitte minä luulen hänen
+vielä joutuneen johonkin kinaan lankonsa kanssa.
+
+*Rebekka*. Mistähän syystä, luulette te?
+
+*Matami Helseth*. Sitä minä en voi tietää. Ehkä se tuo Mortensgård on
+ärsyttänyt heidät riitajalalle.
+
+*Rebekka*. Ehkäpä niin. Tunnetteko te tuota Peder Mortensgårdia?
+
+*Matami Helseth*. Enhän nyt toki. Mistä tulee mieleennekin? Sellaista
+mokomaa kuin hän on!
+
+*Rebekka*. Siksikö, tarkoitatte, että hän toimittaa ilkeätä lehteänsä?
+
+*Matami Helseth*. Ooh, ei ainoastaan siitä syystä. -- Olette kai, neiti,
+kuullut, että hän eli erään naidun vaimon kanssa, jonka mies oli
+lähtenyt karkuun? Vaimo sai lapsia.
+
+*Rebekka*. Olen kuullut siitä puhuttavan. Mutta se tapahtui varmaankin
+paljoa ennen minun tänne tuloani.
+
+*Matami Helseth*. Niin, tietysti. Mortensgård oli silloin aivan nuori.
+Ja olisihan sillä naisella pitänyt olla enemmän järkeä kuin hänellä. Hän
+olisi tahtonut mennä naimisiinkin, hän. Mutta eihän se käynyt päinsä. Ja
+kyllä hän siitä kärsiä sai. -- Mutta sitte hän on paisunut mahtavaksi.
+Moni täällä tarvitsee nykyään *sitä* miestä.
+
+*Rebekka*. Useammat alhaiset ihmiset kääntyvät kai kernaimmin häneen,
+kun ovat joutuneet pulaan.
+
+*Matami Helseth*. Hm, kyllä ne vaan muutkin kuin alhaiset ihmiset -- --.
+
+*Rebekka* (vilkasee häneen salaa). Mitenkä?
+
+*Matami Helseth* (sohvan luona, tomuttaa ahkerasti). Sellaisetkin
+ihmiset, joista sitä ei voisi edes uskoakkaan, neiti!
+
+*Rebekka* (asettelee kasvia). Niin, te vaan arvelette, matami Helseth.
+Sillä ettehän *te* voi olla ihan varma noista asioista.
+
+*Matami Helseth*. Vai niin, vai luulette te, neiti, että minä en voi
+olla ihan varma. Voin niin, kun voinkin. Sillä -- jos puhun suuni
+puhtaaksi -- niin olen itse kerran vienyt kirjeen Mortensgårdille.
+
+*Rebekka* (kääntyy). Eihän, -- vai olette!
+
+*Matami Helseth*. Olen kyllä; olen kun olenkin. Ja se kirje oli vielä
+kirjoitettu täällä Rosmersholmassa.
+
+*Rebekka*. Oikeinko totta, matami?
+
+*Matami Helseth*. Niin, toden totta. Ja hienolle paperille se oli
+kirjoitettu. Ja takapuolella oli hienoa, punaista lakkaa.
+
+*Rebekka*. Ja teille se uskottiin vietäväksi. No, sitte ei ole vaikea
+arvata, keneltä kirje oli.
+
+*Matami Helseth*. Noh?
+
+*Rebekka*. Se oli tietysti jotain, jota rouva Rosmer-parka
+sairasmielisyydessään --
+
+*Matami Helseth*. *Niin* sanotte te, neiti West, enkä minä.
+
+*Rebekka*. Mutta mitä siinä kirjeessä sitte oli? Niin se on tosi --
+mistä te sen tietäisitte.
+
+*Matami Helseth*. Hm, ehkä minä kuitenkin tiedän sen.
+
+*Rebekka*. Sanoiko hän teille, mitä hän siihen kirjoitti?
+
+*Matami Helseth*. Ei, ei hän sitä juuri tehnyt. Mutta kun Mortensgård
+oli lukenut kirjeen, alkoi hän kysellä minulta jos jotain, ristiin
+rastiin, niin että minä kyllä arvasin, mitä kirjeessä oli.
+
+*Rebekka*. Mitä luulette siinä sitte olleen? Voi, hyvä, rakas matami,
+sanokaa se minulle?
+
+*Matami Helseth*. E -- en, en suinkaan neiti. En mistään hinnasta minä
+sano.
+
+*Rebekka*. No, minulle te kyllä voitte sen sanoa. Olemmehan me niin
+hyviä ystäviä.
+
+*Matami Helseth*. Herra varjelkoon minua kertomasta *siitä* teille,
+neiti. Minä voin ainoastaan sanoa, että siinä oli jotain ilkeätä, jota
+ne olivat uskotelleet sairaalle rouva-raukallemme.
+
+*Rebekka*. Kuka oli uskotellut hänelle?
+
+*Matami Helseth*. Häijyt ihmiset, neiti West. Häijyt ihmiset.
+
+*Rebekka*. Häijyt --?
+
+*Matami Helseth*. Niin, sen sanon kahdesti. Oikein häijyjä ne ihmiset
+olivat olleetkin.
+
+*Rebekka*. Kenen te luulisitte sen sitte olleen?
+
+*Matami Helseth*. O-oh -- kyllä minä tiedän, kenen siksi luulisin. Mutta
+herra hallitkoon kieltäni. Siellä kaupungissa on tosin muuan rouva, joka
+-- hm!
+
+*Rebekka*. Minä näen kasvoistanne, että tarkoitatte rouva Krollia.
+
+*Matami Helseth*. Niin, hän on se, mikä on, hän juuri. Minulle hän nyt
+aina on ollut niin isoista. Ja teitä hän ei ole koskaan hyvänsuovan
+silmillä katsellut.
+
+*Rebekka*. Luuletteko te, että rouva Rosmer oli täydellä järjellään,
+kirjoittaessaan tuon kirjeen Mortensgårdille?
+
+*Matami Helseth*. Sen järjen laita on niin ja näin, neiti. Ei hän nyt
+ainakaan ihan sekasin ollut, luullakseni.
+
+*Rebekka*. Mutta hän joutui aivan suunniltaan, kun sai kuulla jäävänsä
+lapsettomaksi. Silloin se hulluus puhkesi.
+
+*Matami Helseth*. Niin, *se* koski kovasti rouva-parkaan.
+
+*Rebekka* (ottaa käsityönsä ja istuu tuolille akkunan luo). Ettekö tekin
+muuten usko sen olleen onneksi pastorille?
+
+*Matami Helseth*. Minkä, neiti?
+
+*Rebekka*. Että taloon ei tullut lapsia. Vai kuinka?
+
+*Matami Helseth*. Hm, minä en oikein tiedä, mitä siihen pitäisi
+sanomani.
+
+*Rebekka*. Uskokaa minua. Paras se meille oli. Pastori Rosmer ei ole
+luotu kuulemaan lasten-itkua.
+
+*Matami Helseth*. Rosmersholmassa eivät pikku lapset itke, neiti.
+
+*Rebekka* (katsoo häneen). Eivätkö ne itke?
+
+*Matami Helseth*. Eivät. Ei kukaan muista kuulleensa pikkulapsien
+itkeneen tässä talossa.
+
+*Rebekka*. Sepä kummallista.
+
+*Matami Helseth*. Niin, eikö se ole kummallista? Mutta se on suvussa. Ja
+sitte on vielä toinen kummallinen seikka. Suuremmaksi tultuaan eivät ne
+koskaan naura. Eivät koskaan, koko elämässään.
+
+*Rebekka*. Sepä vasta olisi ihmeellistä --.
+
+*Matami Helseth*. Oletteko kertaakaan nähnyt tai kuullut pastorin
+nauravan?
+
+*Rebekka*. En -- kun oikein ajattelen, niin luulen teidän melkein olevan
+oikeassa. Mutta tämän puolen ihmiset nauravat minusta yleensä hyvin
+harvoin.
+
+*Matami Helseth*. Niin nauravat. Rosmersholmasta se sai alkunsa,
+sanotaan. Ja sitte se arvatakseni on levinnyt, sekin, niin kuin muutkin
+tarttumat.
+
+*Rebekka*. Te olette syvämielinen nainen, te, matami Helseth.
+
+*Matami Helseth*. Ooh, ruvetkaa tässä nyt pitämään pilkkananne --.
+(kuuntelee.) Hys -- Hys, -- pastori kuuluu tulevan alas. Hän ei kärsi
+tomuhuiskaa huoneessa. (menee oikeanpuolisesta ovesta ulos.)
+
+(*Johannes Rosmer*, keppi ja hattu kädessä, tulee eteisestä.)
+
+*Rosmer*. Hyvää huomenta, Rebekka.
+
+*Rebekka*. Hyvää huomenta ystäväni. (vähän ajan kuluttua; virkaten.)
+Menetkö kävelemään?
+
+*Rosmer*. Menen.
+
+*Rebekka*. Niin, ilma onkin niin kaunis.
+
+*Rosmer*. Sinä et käynyt aamulla luonani.
+
+*Rebekka*. En, -- en käynyt. En tänään.
+
+*Rosmer*. Etkö aijo toistekkaan tulla?
+
+*Rebekka*. Ooh -- en minä nyt vielä tiedä.
+
+*Rosmer*. Onko tullut mitään minulle?
+
+*Rebekka*. «Isänmaa» on tullut.
+
+*Rosmer*. «Isänmaa» --!
+
+*Rebekka*. Se on tuolla pöydällä.
+
+*Rosmer*. (laskee hatun ja kepin kädestään). Onko siinä jotain -- --?
+
+*Rebekka*. On.
+
+*Rosmer*. Etkä sinä lähettänyt sitä minulle --
+
+*Rebekka*. Kyllä sen ehdit ajoissa lukea.
+
+*Rosmer*. No niin. (ottaa sanomalehden ja lukee sitä pöydän vieressä
+seisoen). -- Mitä! -- «ei voi kylliksi varoittaa karttamaan
+halpamielistä puoluepetturia» --. (katsoo Rebekkaan.) He kutsuvat minua
+puoluepetturiksi, Rebekka.
+
+*Rebekka*. Eihän siellä mainita mitään nimeä.
+
+*Rosmer*. Samahan se on. (lukee eteenpäin.) «jalon asian salakavaltajia»
+--. -- «Juudaksia, jotka röyhkeästi julistavat langenneensa, kun vaan
+luulevat sopivimman ja -- hyödyllisimmän hetken olevan käsissä». --
+«Julkea solvaus kunnioitettavien esi-isiensä muistolle» --. --
+«odottaen, että nykyhetken herrat palkitsevat heitä ansion mukaisesti.»
+(laskee sanoman pöydälle.) Ja noin he kirjoittavat minusta. He, jotka
+tuntevat minut entisistä ajoista ja niin hyvin. He eivät itsekkään usko
+tuota. He tietävät, että siinä ei ole ainoatakaan sanaa totta -- ja
+sentään he kirjoittavat niin.
+
+*Rebekka*. Siinä on vielä muutakin.
+
+*Rosmer* (ottaa taas sanoman). -- «on puolustuksena kehittymätön
+arvostelukyky» --. -- «turmiollisen vaikutuksen alaisena, -- ja on se
+vaikutus ehkä ulottunut aloille, joita emme vielä tahdo vetää yleisön
+arvostelun ja arvelujen alaisiksi» -- (katsoo Rebekkaan.) Mitä tämä on?
+
+*Rebekka*. Huomaathan, että sillä tarkoitetaan minua.
+
+*Rosmer* (laskee sanoman kädestään). Rebekka, -- näin tekevät
+epärehelliset miehet.
+
+*Rebekka*. Niin, minusta he eivät ole Mortensgårdia paremmat.
+
+*Rosmer* (kävelee edestakaisin lattiata). Täällä *tarvitaan* pelastusta.
+Kaikki mitä ihmiskunnassa on hyvää, menee turmioon, jos näin jatketaan.
+Mutta niin ei saa tapahtua! Oi, kuinka iloinen, -- kuinka iloinen
+olisin, jos saisin ihmiset kuulemaan parempaa tässä inhoittavassa
+sekasorrossa.
+
+*Rebekka* (nousee). Niin, eikö totta? Siinä sinulla on suuri ja jalo
+tehtävä, jonka hyväksi voit elää!
+
+*Rosmer*. Ajatteles, jos minä voisin herättää heidät itsetuntoon. Saada
+heidät häpeämään omaa itseänsä ja katumaan. Johtaisin heidän lähestymään
+toisiansa suvaitsevaisuudessa -- rakkaudessa, Rebekka.
+
+*Rebekka*. Niin ryhdy siihen vaan kaikin voimin, niin saat nähdä
+onnistuvasi.
+
+*Rosmer*. Minusta sen pitäisi onnistua. Oi, millaista riemua eläminen
+silloin olisi. Poissa olisi vihamielinen taistelu. Kilvan vaan
+riennettäisiin. Joka silmä tähdäten samaan päämaaliin. Tahdot, mielet
+pyrkien eteenpäin -- ylöspäin, -- kukin oman luontonsa määräämää tietä.
+Onnea olisi kaikkia varten, -- kaikkien kautta (tulee katsahtaneeksi
+ulos, säpsähtää, painuu kokoon ja lausuu raskaasti:) Ah! Ei minun
+kauttani.
+
+*Rebekka*. Ei --? Ei sinun kauttasi!
+
+*Rosmer*. Eikä minua vartenkaan.
+
+*Rebekka*. Oi Rosmer, elä anna tuollaisen epäilyksen herätä mielessäsi.
+
+*Rosmer*. Onnen, rakas Rebekka -- onnen ensi ehto on tyyni, iloisa,
+varma viattomuuden tunto.
+
+*Rebekka* (tuijottaen eteensä). Niin, viattomuus --.
+
+*Rosmer*. Ooh, sen puutetta et sinä käsitä. Mutta minä -- --.
+
+*Rebekka*. Sinä kaikista vähin!
+
+*Rosmer* (osoittaa akkunaan päin). Myllykoski.
+
+*Rebekka*. Oi, Rosmer --!
+
+(*Matami Helseth* kurkistaa oikeanpuolisesta ovesta.)
+
+*Matami Helseth*. Neiti!
+
+*Rebekka*. Toiste, toiste. Ei nyt.
+
+*Matami Helseth*. Vaan pari sanaa, neiti. (Rebekka menee ovelle. Matami
+Helseth sanoo hänelle jotain. Kuiskuttelevat hetken toisilleen. Matami
+Helseth nyökähyttää päällään ja menee.)
+
+*Rosmer* (levottomana). Oliko se jotain minulle?
+
+*Rebekka*. Ei, se oli vaan talous-asioita. Nyt sinun pitäisi mennä ulos
+raittiisen ilmaan, Rosmer. Käydä oikein kauvaksi.
+
+*Rosmer* (ottaa hattunsa). Niin, tule. Niin menemme yhdessä.
+
+*Rebekka*. Ei, ystäväni, minä en nyt pääse. Sinun täytyy mennä yksin.
+Mutta karkoita mielestäsi kaikki nuo raskaat ajatukset. Lupaa se
+minulle.
+
+*Rosmer*. Niitä en saa koskaan karkoitetuksi -- pelkään mä.
+
+*Rebekka*. Että niin perusteeton asia voi vaikuttaa sinuun noin
+valtavasti --!
+
+*Rosmer*. Paha kyllä -- se ei ole niinkään perusteeton. Minä olen
+miettinyt sitä yön, pitkän. Ehkä Beate sittenkin näki oikein.
+
+*Rebekka*. Missä asiassa, tarkoitat?
+
+*Rosmer*. Näki oikein, luullessaan minun rakastavan sinua.
+
+*Rebekka*. *Siinäkö* oikein!
+
+*Rosmer* (laskee hattunsa pöydälle). Minua painaa vaan se kysymys --
+emmeköhän me kaksi ole koko ajan pettäneet itseämme -- kutsuessamme
+suhdettamme ystävyydeksi.
+
+*Rebekka*. Tarkoitatko, että sitä yhtä hyvin voisi kutsua --?
+
+*Rosmer*. -- rakkaussuhteeksi. Niin, sitä minä tarkoitan. Jo silloin,
+kun Beate vielä eli, annoin minä sinulle kaikki ajatukseni. Sinua minä
+vaan kaipasin. Sinun luonasi minä tunsin tyyntä, iloisaa, vaatimatonta
+onnea. Kun oikein muistelemme, Rebekka, -- niin alkoi meidän
+yhdys-elämämme aivan kuin suloinen, salaperäinen lapsuudenrakkaus.
+Intoilematta ja haaveksimatta. Eikö se sinustakin tuntunut siltä. Sano.
+
+*Rebekka* (taistelee itsekseen). Ooh -- en tiedä, mitä siihen vastaisin.
+
+*Rosmer*. Ja tätä likeistä elämää toisissamme ja toistemme hyväksi me
+olemme pitäneet ystävyytenä. Ei, Rebekka, meidän suhteemme on ollut
+henkistä avioliittoa -- ehkä heti ensi päivistä alkaen. -- Siksi painaa
+minua rikos. Minulla ei ollut oikeutta siihen, -- Beaten tähden ei
+minulla ollut oikeutta.
+
+*Rebekka*. Ei oikeutta elää onnellisena? Niinkö luulet, Rosmer?
+
+*Rosmer*. Hän katseli meidän suhdettamme oman rakkautensa kannalta.
+Arvosteli meidän suhdettamme oman rakkautensa mukaan. Se oli
+luonnollista. Beate ei voinut luulla toisin, kuin luuli.
+
+*Rebekka*. Mutta miksi sinä sitte syytät itseäsi Beaten hairahduksesta?
+
+*Rosmer*. Rakkaudesta minuun, -- se oli rakkautta tavallansa, -- meni
+hän myllykoskeen. Se tosiasia on varma, Rebekka. Enkä minä koskaan saa
+sitä mielestäni.
+
+*Rebekka*. Oi, elä ajattele muuta kuin sitä suurta, ylevää tehtävää,
+jolle olet pyhittänyt elämäsi.
+
+*Rosmer* (pudistaa päätään). Se tehtävä ei mahda koskaan onnistua. Ei
+ainakaan minulta. Ei sen jälkeen, mitä nyt tiedän.
+
+*Rebekka*. Minkä tähden ei sinulta?
+
+*Rosmer*. Sen tähden, ett'ei mikään rikokselle perustettu asia onnistu.
+
+*Rebekka* (tuskaantuen). Oi, tämä on suku-epäilystä -- suku-tuskaa, --
+suku-arkuutta. Sanotaan kuolleiden kummittelevan täällä kiitävinä,
+valkeina hevosina. Minusta tämä on jotain sellaista.
+
+*Rosmer*. Olkoon se mitä lieneekin. Samahan se on, kun en kumminkaan
+sitä voita? Ja usko minua, Rebekka. Niin kuin jo sanoin: varmaan
+voittoon pyrkivällä asialla olkoon iloinen ja viaton mies ajajana.
+
+*Rebekka*. Onko ilo sitte niin perin välttämätöin sinulle, Rosmer?
+
+*Rosmer*. Iloko? On, Rebekka, on se.
+
+*Rebekka*. Sinulle, joka et koskaan voi nauraa!
+
+*Rosmer*. On se kuitenkin. Usko minua, minulla on suuri taipumus
+iloisuuteen.
+
+*Rebekka*. Nyt sinun pitää lähteä, ystäväni. Käydä kaukana, -- oikein
+kaukana. Kuuletko? -- Kas tässä on hattusi. Ja tässä keppisi.
+
+*Rosmer* (ottaa kummankin). Kiitos. Etkö sinä tule mukaan?
+
+*Rebekka*. En, en, en voi tulla nyt.
+
+*Rosmer*. No niin siis. -- Sinä olet kuitenkin mukanani. (menee ulos
+eteisen läpi. Vähän ajan kuluttua kurkistaa Rebekka samasta avonaisesta
+ovesta ulos. Menee sitte oikean puoliselle ovelle.)
+
+*Rebekka* (avaa ja sanoo puoliääneen). Kas niin, matami. Nyt voitte
+päästää hänet sisälle. (menee toiselle puolen akkunan luo.)
+
+(Vähän ajan kuluttua tulee *rehtori Kroll* oikealta, Tervehtii vaiti ja
+lyhyesti ja pitää hattua kädessään.)
+
+*Kroll*. Hän on siis mennyt?
+
+*Rebekka*. Niin on.
+
+*Kroll*. Onko hänen tapansa käydä kaukana?
+
+*Rebekka*. On kyllä. Mutta tänään ei hänestä juuri voi olla varma. Ja
+ellette tahdo tavata häntä --
+
+*Kroll*. Ei -- ei. Teitä minä haluaisin puhutella. Ja ihan kahden
+kesken.
+
+*Rebekka*. Parasta sitte on käyttää tilaisuutta. Istukaa, herra rehtori.
+(istuu akkunan ääressä olevaan nojatuoliin. Rehtori Kroll istuutuu hänen
+viereensä.)
+
+*Kroll*. Neiti West, -- te voinette tuskin ajatella, kuinka syvästi ja
+tuskallisesti minuun koskee -- tämä käänne, joka Johannes Rosmerissa on
+tapahtunut.
+
+*Rebekka*. Me olimme varmat siitä, että niin piti käymänkin -- ensi
+aluksi.
+
+*Kroll*. Vaan ensi aluksi?
+
+*Rebekka*. Rosmer toivoi niin lujasti, että te, joko heti tai myöhemmin
+olisitte samaa mieltä, kuin hän.
+
+*Kroll*. Minä?
+
+*Rebekka*. Sekä te, että kaikki muut hänen ystävänsä.
+
+*Kroll*. Niin, siinä nyt näette! Noin kykenemätöin hän on arvostelemaan
+ihmisiä ja oloja elämässä.
+
+*Rebekka*. Muuten, koska hän kerran tuntee itselleen tarpeelliseksi
+vapautua kaikin puolin --
+
+*Kroll*. Niin mutta nähkääs -- *sitä* minä en usko hänestä.
+
+*Rebekka*. Mitä te sitte uskotte?
+
+*Kroll*. Minä uskon *teidän* olevan kaiken alkuun panijan.
+
+*Rebekka*. Tuon arvelun olette saanut rouvaltanne, rehtori Kroll.
+
+*Kroll*. Se on saman tekevä, keneltä sen olen saanut. Varma asia on
+vaan, että minussa on herännyt suuri epäluulo -- erittäin suuri
+epäluulo, minä sanon -- muistellessani ja miettiessäni koko teidän
+käytöstänne, aina tänne tulostanne asti.
+
+*Rebekka* (katsoo häneen). Muistaakseni oli kerran sekin aika, jolloin
+teissä oli herännyt erittäin suuri luottamus minuun, hyvä rehtori. Olin
+vähällä sanoa, lämmin luottamus.
+
+*Kroll* (puoli-ääneen). Jokaisenhan te lumositte, jota koetitte saada
+valtaanne.
+
+*Rebekka*. Koetinko minä saada teitä --!
+
+*Kroll*. Koetitte niin. Nyt en ole enää niin hupsu, että uskoisin teidän
+puolellanne olleen rahtuakaan tunnetta. Te tahdoitte vaan hankkia
+itsellenne pääsyn Rosmersholmaan. Saada täällä jalan sijaa. Siihen
+tarvitsitte minun apuani. Nyt sen huomaan.
+
+*Rebekka*. Olette siis ihan unohtanut, että Beate minua pyysi ja rukoili
+tänne muuttamaan.
+
+*Kroll*. Niin, sitte kun te ensin olitte lumonnut hänetkin. Tai voitteko
+kutsua ystävyydeksi sitä tunnetta, joka hänet valtasi. Se kääntyi
+hurmaukseksi -- jumaloimiseksi. Se muuttui -- miksi sitä sanoisinkaan --
+jonkinmoiseksi luonnottomaksi rakkaudeksi. Niin, se on oikea nimitys.
+
+*Rebekka*. Olkaa hyvä ja ajatelkaa missä tilassa sisarenne oli. Mitä
+minuun tulee, niin en luule olevani millään tavalla intoileva.
+
+*Kroll*. Ette, ette suinkaan. Mutta sitä vaarallisempi te olette niille
+ihmisille, joita tahdotte valtaanne. Teidän on niin helppo toimia
+tuumien ja varmojen laskujen mukaan, -- juuri sen vuoksi, että teillä on
+kylmä sydän.
+
+*Rebekka*. Kylmä? Oletteko niin varma siitä?
+
+*Kroll*. Nyt olen siitä ihan varma. Muuten ette olisi niin järkähtämättä
+vuodesta vuoteen voinut pyrkiä täällä päämaaliinne. -- Niin -- niin, --
+sen te nyt olette saavuttanut. Te olette saanut hänet ja kaikki täällä
+valtaanne. Mutta perille päästäksenne ette ole empinyt tehdessänne hänet
+onnettomaksi.
+
+*Rebekka*. Se ei ole totta. Minä en ole sitä tehnyt. Te itse olette
+tehnyt hänet onnettomaksi.
+
+*Kroll*. Minäkö!
+
+*Rebekka*. Niin, pannessanne hänet siihen luuloon, että hän oli syypää
+Beaten kauheaan loppuun.
+
+*Kroll*. Vai koski se siis kuitenkin häneen niin kovasti?
+
+*Rebekka*. Sen voinette arvata. Niin hellä luonto kuin hänellä on --
+
+*Kroll*. Minä luulin, että niin kutsuttu vapautunut mies olisi voittanut
+kokonaan arkatuntoisuuden. -- Mutta siinäpä se on! -- No niin --
+kyllähän minä sen oikeimmin jo tiesin. Noiden, seiniltä katseleväin
+miesten jälkeläinen ei pääse niin vaan irtautumaan siitä; mikä polvesta
+polveen on kulkenut suvussa perintönä.
+
+*Rebekka* (katselee miettien eteensä). Johannes Rosmerilla on lujat
+juuret suvussansa. Se on varma se.
+
+*Kroll*. Niin, ja se teidän olisi pitänyt muistaa, jos teissä olisi
+ollut myötätuntoisuutta häneen. Mutta ette suinkaan te osannut sitä
+muistaakkaan. Ovathan teidän edellytyksenne niin perin erillaiset kuin
+hänen.
+
+*Rebekka*. Mitä edellytyksiä te tarkoitatte?
+
+*Kroll*. Minä tarkoitan sukukannan, -- alkuperän edellytyksiä, neiti
+West.
+
+*Rebekka*. Vai niin. Niin, se on kyllä totta, minä olen hyvin halpaa
+sukua. Mutta kuitenkin --
+
+*Kroll*. Minä en tarkoita arvoa enkä asemaa. Minä ajattelen siveellisiä
+edellytyksiä.
+
+*Rebekka*. Edellytyksiä? Mihinkä?
+
+*Kroll*. Ylipäänsä teidän olemassa oloonne.
+
+*Rebekka*. Mitä te sanotte!
+
+*Kroll*. Minä sanon sen vaan sen vuoksi, että siinä on selitys teidän
+menettelyynne.
+
+*Rebekka*. Tätä minä en ymmärrä. Minä tahdon täyden selvyyden!
+
+*Kroll*. Minä luulin tosiaan, että teillä oli täysi selvyys asiassa.
+Muuten olisi hyvin kummallista, miksi te rupesitte tohtori Westin
+ottotyttäreksi --.
+
+*Rebekka* (nousee). Vai niin! Nyt ymmärrän.
+
+*Kroll*. -- ja otitte hänen nimensä. Äitinne nimi oli Gamvik.
+
+*Rebekka* (menee toiselle puolelle). Isäni nimi oli Gamvik, herra
+rehtori.
+
+*Kroll*. Äitinne toimi saattoi kai hänet tuon tuostakin tekemisiin
+piirilääkärin kanssa.
+
+*Rebekka*. Siinä olette oikeassa.
+
+*Kroll*. Ja sitte ottaa tämä teidät luokseen -- heti äitinne kuoltua.
+Hän on tyly teille. Ja kuitenkin te pysytte hänen luonaan. Te tiedätte,
+että hän ei aijo jättää teille äyriäkään perinnöksi. Saittehan te vaan
+kirstullisen kirjoja. Ja sentään te kestätte hänen luonaan. Suvaitsette
+hänen äreyttään. Hoitelette häntä viimeiseen asti.
+
+*Rebekka* (toisella puolella, pöydän luona, katsoo häneen
+pilkallisesti). Ja syyksi kaikkiin noihin töihini arvelette te sen
+seikan, että syntymässäni muka oli jotain epäsiveellistä --
+rikoksellista!
+
+*Kroll*. Minä päätän, että teitte, kaikki mitä teitte hänen hyväkseen,
+ehdottomasta tyttären vaistista. Muuten pidän koko teidän
+menettelytapaanne alkuperänne seurauksena.
+
+*Rebekka* (kiivaasti). Mutta koko puheessanne ei ole sanaakaan totta!
+Sen voin todistaa! Sillä tohtori West ei ollut vielä tullut Lappiin
+minun syntyessäni.
+
+*Kroll*. Anteeksi, -- neiti. Hän tuli sinne vuotta ennen. Siitä olen
+minä ottanut selon.
+
+*Rebekka*. Te olette erehtynyt, minä sanon! Tykkänään erehtynyt!
+
+*Kroll*. Sanoittehan tässä toissa päivänä, että olette yhdeksänkolmatta
+vanha. Käytte kolmeakymmentä.
+
+*Rebekka*. Niinkö? Sanoinko minä niin?
+
+*Kroll*. Sanoitte kyllä. Ja siitä minä voin laskea --
+
+*Rebekka*. Seis! Laskuista ei ole hyötyä. Minä voin yhtä hyvin tunnustaa
+teille heti, että olen vuotta vanhempi kuin sanoin olevani.
+
+*Kroll* (hymyilee epäillen). Todellakin? Sepä oli uutinen. Mistä se
+lähtee?
+
+*Rebekka*. Täytettyäni viisikolmatta, aloin mielestäni -- naimatoin kuin
+olin -- tulla liian vanhaksi. Ja sitte rupesin valehtelemaan itseäni
+vuotta nuoremmaksi.
+
+*Kroll*. Te? Vapautunut nainen. Onko teilläkin ennakkoluuloja naima-ijän
+suhteen?
+
+*Rebekka*. Siinä tein perin tuhmasti -- oikein naurettavasti. Mutta
+ihmiseen jää aina jotain, josta ei pääse vapautumaan. Sellaisia me nyt
+olemme.
+
+*Kroll*. Olkoonpa niinkin. Mutta laskuni voi sittenkin olla oikea. Sillä
+tohtori West kävi siellä käymätietä, vuotta ennen viran saantiaan.
+
+*Rebekka* (kiivastuu). Se ei ole totta!
+
+*Kroll*. Eikö ole totta?
+
+*Rebekka*. Ei. Sillä äiti ei koskaan puhunut mitään siitä.
+
+*Kroll*. Vai ei hän puhunut?
+
+*Rebekka*. Ei koskaan. Eikä tohtori West myöskään. Ei sanaakaan.
+
+*Kroll*. Ehkä he vaikenivat sen vuoksi, että heillä oli syytä saada yksi
+vuosi unhohtuksiin? Samoin kuin *tekin* olette tehnyt, neiti West. Se on
+ehkä suku-omituisuus.
+
+*Rebekka* (kulkee edestakaisin, väännellen käsiään). Se on mahdotonta.
+Te tahdotte vaan luulotella minua. Ei ikinä se ole totta, ei. Se ei voi
+olla totta! Ei iki-päivinä --!
+
+*Kroll* (nousee). Mutta, hyvä neiti, -- miksi Herran nimessä te noin
+riehutte? Vallanhan te säikytätte minua! Mitä on minun luuleminen ja
+ajatteleminen --!
+
+*Rebekka*. Ei mitään. Teidän ei tarvitse luulla eikä ajatella mitään.
+
+*Kroll*. Selittäkää sitte kaikella muotoa, kuinka te joudutte noin
+suunniltanne sellaisen asian -- sellaisen mahdollisuuden tähden.
+
+*Rebekka* (hilliten itseänsä). Onhan se selvä asia, rehtori Kroll. Ei
+minulla ole halua pitää itseäni laittomana lapsena.
+
+*Kroll*. Vai niinkö? No, no, tyydytään nyt -- vastaiseksi -- siihen
+selitykseen. Siis on teillä siinäkin suhteessa jäänyt pieni
+ennakkoluulo.
+
+*Rebekka*. Niin kaiketi minulla on.
+
+*Kroll*. No, ja luullakseni tuo teidän vapautumisenne -- niinkuin sitä
+kutsutte -- on monissa kohdin samanlaista. Te olette kirjoista hankkinut
+itsellenne koko joukon uusia mietteitä ja mielipiteitä. Te olette saanut
+jonkinlaisia tietoja tutkimuksista usealla alalla -- tutkimuksista,
+jotka näyttävät kukistavan monta perustusta, joita tähän asti on pidetty
+pyhinä ja kumoamattomina. Mutta tuo kaikki on vaan oppimalla saatua,
+neiti West. Vaan tietoa. Se ei ole muuttunut teissä lihaksi ja vereksi.
+
+*Rebekka* (miettien). Ehkä te olette oikeassa.
+
+*Kroll*. Tutkikaa vaan itseänne, niin saatte nähdä! Ja kun te olette
+tuollaisella, kannalla, niin voi helposti arvata, miten Johannes
+Rosmerin laita on. Sehän on selvää hulluutta -- suin päin turmioon
+syöksymistä, -- että hän tahtoo julkisesti tunnustaa luopuneensa
+entisestä puolueestaan! Hän, -- joka on niin arka luonnoltaan! Ajatelkaa
+häntä entisten ystäviensä hylkäämänä -- vainoomana. Torjuen yhteiskunnan
+etevimpien miesten hyökkäyksiä. Ei sinä ilmoisna ikänä hänessä ole
+miestä sitä kestämään.
+
+*Rebekka*. Hänen *täytyy* kestää! Nyt on jo liian myöhäistä vetäytyä
+takaisin.
+
+*Kroll*. Ei ollenkaan. Ei millään tavalla. Tapahtuneet asiat saadaan
+vaikenemalla unohduksiin, -- tai ne voidaan ainakin selittää vaan ohi
+meneväksi, vaikka kyllä surkuteltavaksi hairahdukseksi. Mutta -- *yksi*
+seikka on kuitenkin ihan välttämätöin.
+
+*Rebekka*. Ja mikä se on?
+
+*Kroll*. Teidän täytyy saada hänet hankkimaan suhteellensa laillista
+vahvistusta.
+
+*Rebekka*. Suhteellensa minuunko?
+
+*Kroll*. Niin. Pitäkää huoli siitä, että hän sen tekee.
+
+*Rebekka*. Te ette siis voi päästä siitä luulosta, että meidän suhteemme
+kaipaa -- laillista vahvistusta, niin kuin sitä kutsuitte?
+
+*Kroll*. Minä en tahdo lähemmin koskea asiaan. Mutta minä luulen ainakin
+huomanneeni, että ihmisten on helpointa voittaa niin kutsutut
+ennakkoluulot -- kaikissa -- hm.
+
+*Rebekka*. Miehen ja naisen välisissä suhteissa -- niinkö?
+
+*Kroll*. Niin, -- suoraan sanoen, -- niin minä luulen.
+
+*Rebekka* (menee lattian poikki ja katselee, akkunasta). Olin vähällä
+sanoa, -- kumpa olisitte oikeassa, rehtori.
+
+*Kroll*. Mitä sillä tarkoitatte? Sanotte sen niin kummallisesti.
+
+*Rebekka*. Eikö mitä! Elkäämme enää puhuko niistä asioista. -- Ah --
+tuolla hän jo tulee!
+
+*Kroll*. Nytkö jo! Sitte minä lähden.
+
+*Rebekka* (menee hänen luokseen). Ei -- jääkää! Sillä nyt saatte kuulla
+jotain.
+
+*Kroll*. Ei nyt. Minä en luule kärsiväni hänen näköänsä.
+
+*Rebekka*. Minä pyydän, -- jääkää. Tehkää se. Muuten kadutte. Viimeisen
+kerran minä teiltä jotain pyydän.
+
+*Kroll* (katsoo häneen kummastuneena ja panee sitte hattunsa pois). No
+niin, neiti West. Olkoon menneeksi sitte. (Ovat hetken hiljaa. Sitte
+tulee *Johannes Rosmer* eteisestä.)
+
+*Rosmer* (näkee rehtorin, seisahtuu ovessa). Mitä --! Oletko sinä
+täällä?
+
+*Rebekka*. Hän olisi kernaammin karttanut sinua, Rosmer.
+
+*Kroll* (ehdottomasti). Sinua!
+
+*Rebekka*. Niin, herra rehtori. Rosmer ja minä -- me sinuttelemme
+toisiamme. Suhteemme toisiimme on johtanut siihen.
+
+*Kroll*. Sitäkö minun piti jäämän tänne kuulemaan?
+
+*Rebekka*. Sekä sitä -- että vielä muutakin.
+
+*Rosmer* (tulee lähemmäksi). Mikä on tarkoitus tänpäiväisellä
+käynnilläsi?
+
+*Kroll*. Minä tahdoin kerran vielä hillitä sinua ja voittaa sinut
+uudestaan puolellemme.
+
+*Rosmer* (näyttää sormellaan sanomalehteä). Sen jälkeen, mitä tuossa on
+luettavana?
+
+*Kroll*. Minä en ole sitä kirjoittanut.
+
+*Rosmer*. Teitkö mitään estääksesi sen ilmaantumista?
+
+*Kroll*. Se olisi ollut rikos sitä asiaa vastaan, jota ajan. Eikä se
+muuten ollut minun vallassanikaan.
+
+*Rebekka* (repii sanomalehden palasiksi, rusentaa sen ja heittää uunin
+taakse). Kas noin. Nyt se on pois silmistä. Ja olkoon se samoin
+mielestäkin. Sillä toiste ei tule enää sellaisia, Rosmer.
+
+*Kroll*. Niin, niin, kun vaan saisitte asiat *sille* kannalle.
+
+*Rebekka*. Tulkaa, ja istukaamme, ystäväni. Kaikin kolmisin. Niin
+ilmoitan teille kaikki.
+
+*Rosmer* (istuu ehdottomasti). Mikä sinuun on tullut, Rebekka! Tuo
+kammottava tyyneys --. Mitä se on?
+
+*Rebekka*. Se on päätöksen tyyneys. (istuu.) Istukaa tekin, rehtori.
+(*rehtori Kroll* istuu sohvaan.)
+
+*Rosmer*. Päätöksen, sanoit. Minkä päätöksen?
+
+*Rebekka*. Minä annan sinulle takaisin, mitä tarvitset, voidaksesi elää.
+Sinä olet saava takaisin iloisen viattomuutesi, rakas ystäväni.
+
+*Rosmer*. Mitä tämä on?
+
+*Rebekka*. Minä kerron vaan. Muuta ei tarvita.
+
+*Rosmer*. No!
+
+*Rebekka*. Tultuani tänne Lapista -- tohtori Westin kanssa, -- aukeni
+minulle, mielestäni uusi, suuri, avara maailma. Tohtori oli opettanut
+minulle yhtä ja toista. Kaikki ne hajanaiset tiedot, jotka minulla
+siihen aikaan oli elämästä. (taistellen ja tuskin kuuluvasti). Silloin
+--
+
+*Kroll*. Silloin --?
+
+*Rosmer*. Mutta, Rebekka, -- tämänhän minä jo tiedän.
+
+*Rebekka* (hilliten itseänsä). Niin -- niin, -- oikeassa olet. Tämän
+sinä kyllä tiedät.
+
+*Kroll* (katsoo kiinteästi Rebekkaan). Ehkä on paras, että minä lähden
+pois.
+
+*Rebekka*. Ei, istukaa vaan, hyvä rehtori (Rosmerille). Tarkoitan vaan
+*sitä*, näetkös, -- että tahdoin seurata uutta, koittavaa aikaa. Kaikkia
+uusia aatteita. -- Kerran kertoi rehtori Kroll minulle, että Ulrik
+Brendelillä oli ollut suuri valta sinuun, yhteen aikaan vielä
+alaikäisenä ollessasi. Sen olisi mielestäni pitänyt onnistua
+minullekkin.
+
+*Rosmer*. Tulitko sinä tänne sala-tarkoituksessa --!
+
+*Rebekka*. Minä tahdoin, että me kaksi yhdessä menisimme eteenpäin
+vapaudessa. Aina yhä eteenpäin. -- Mutta sinun ja täydellisen
+vapautumisen välillä oli synkkä, ylipääsemätöin muuri.
+
+*Rosmer*. Mitä muuria tarkoitat?
+
+*Rebekka*. Tarkoitan sitä, Rosmer, että sinä et voinut kehkeytyä
+vapaaksi muualla, kuin hellässä päivän-paisteessa. Ja täällä sinä
+kuihduit ja näivetyit moisen avioliiton pimeydessä.
+
+*Rosmer*. Sinä et vielä koskaan ole puhunut minulle avioliitostani
+*tuolla* tavalla.
+
+*Rebekka*. En, sitä en uskaltanut, sillä siten olisin säikyttänyt sinut.
+
+*Kroll* (nyökkää Rosmerille). Kuulitko *sitä*!
+
+*Rebekka* (jatkaa). Mutta minä tiesin kyllä missä sinun pelastuksesi
+oli. Ainoa pelastuksesi. Ja sitte minä ryhdyin toimiin.
+
+*Rosmer*. Mitä toimia sinä tarkoitat?
+
+*Kroll*. Tarkoitatteko sillä, että -- --!
+
+*Rebekka*. Niin, Rosmer --. (nousee.) Istu vaan. Te myöskin, rehtori
+Kroll. Mutta, kaikki on tuleva ilmi. Sinä, Rosmer, olet viaton. Et sinä,
+vaan minä houkuttelin --; tulin houkutelleeksi Beaten harhateille --
+
+*Rosmer* (hypähtää seisomaan). Rebekka!
+
+*Kroll* (ylös sohvalta). -- Harhateille!
+
+*Rebekka*. Niille teille, -- jotka johtivat Myllykoskeen. Nyt sen
+tiedätte kumpikin.
+
+*Rosmer* (huumauksissa). Mutta minä en ymmärrä --. Mitä hän sanoo? Minä
+en ymmärrä sanakaan --!
+
+*Kroll*. Niin vai, niin. Minä alan ymmärtää.
+
+*Rosmer*. Mutta mitä sinä sitte olet tehnyt! Mitä sinä olet voinut sanoa
+hänelle? Eihän ollut mitään sanottavaa. Ei vähääkään.
+
+*Rebekka*. Hän sai tietää, että sinä pyrit vapaaksi kaikista vanhoista
+ennakkoluuloista.
+
+*Rosmer*. Niin, mutta sitä minä en vielä siihen aikaan tehnyt.
+
+*Rebekka*. Minä tiesin sen pian tapahtuvan.
+
+*Kroll*. (nyökkää Rosmerille). Ahaa!
+
+*Rosmer*. Entä sitte? Mitä vielä? Nyt tahdon tietää lopunkin.
+
+*Rebekka*. Vähää myöhemmin -- pyysin ja rukoilin häneltä, että saisin
+lähteä Rosmersholmasta.
+
+*Rosmer*. Minkä tähden sinä tahdoit lähteä -- silloin?
+
+*Rebekka*. Minä en tahtonut lähteä. Minä tahdoin pysyä täällä, missä
+olin. Mutta minä sanoin hänelle, että olisi paras meille kaikille, että
+minä ajoissa poistuisin. Minä viittasin hänelle, että jos minä viivyn
+täällä kauvemmin, -- niin voisi, -- voisi tapahtua, -- mitä tahansa.
+
+*Rosmer*. Niin sinä siis sanoit ja teit?
+
+*Rebekka*. Niin, Rosmer.
+
+*Rosmer*. Sitä sinä kutsuit toimeen ryhtymiseksi?
+
+*Rebekka* (murtuneella äänellä). Niin, siksi minä sitä kutsuin.
+
+*Rosmer* (vähän perästä). Oletko nyt tunnustanut kaikki, Rebekka?
+
+*Rebekka*. Olen.
+
+*Kroll*. Ette kaikkia.
+
+*Rebekka* (katsoo häneen arasti). Mitä olisi vielä jäljellä?
+
+*Kroll*. Ettekö te lopuksi ilmoittanut Beatelle, että teidän matkanne
+muille seuduille oli välttämätöin -- ei ainoastaan paras vaan ihan
+välttämätöin Rosmerin ja teidän tähtenne, ja että lähdön täytyi tapahtua
+niin pian kuin mahdollista? Noh?
+
+*Rebekka* (hiljaa ja epäselvästi). Ehkä minä sanoin jotain sinnekin
+päin.
+
+*Rosmer* (vaipuu akkunan vieressä olevaan nojatuoliin), ja tuollaista
+valhe- ja petosverkkoa on hän -- onneton sairas, uskonut. Uskonut ihan
+todeksi! Järkähtämättä! (katsoo Rebekkaan.) Eikä hän koskaan maininnut
+mitään minulle. Ei koskaan edes viittaamalla! Oh, Rebekka, -- minä näen
+kasvoistasi, -- että *sinä* kielsit häntä sitä tekemästä!
+
+*Rebekka*. Hän oli saanut päähänsä, ett'ei hänellä lapsettomana vaimona,
+ollut oikeutta olla täällä. Ja sitte hän luuli velvollisuutensa vaativan
+häntä tekemään tilaa.
+
+*Rosmer*. Ja sinä -- sinä et tehnyt mitään, saadaksesi häntä siitä
+luulosta?
+
+*Rebekka*. En.
+
+*Kroll*. Te ehkä vaan vahvistitte häntä luulossaan? Vastatkaa!
+
+*Rebekka*. Siltä se taisi hänestä tuntua, luulen.
+
+*Rosmer*. Niin, niin, -- ja sinun tahtoasi hän totteli kaikissa. Ja niin
+hän teki tilaa. (hypähtää seisomaan.) Kuinka sinä voit -- voit jatkaa
+noin kauheata leikkiä!
+
+*Rebekka*. Mielestäni oli valittava toinen kahdesta elämästä, Rosmer.
+
+*Kroll* (kiihkeästi ja mahtavasti). Teillä ei ollut oikeutta ruveta
+valitsijaksi.
+
+*Rebekka* (kiivaasti). Luuletteko sitte minun silloin toimineen kylmän,
+harkitsevan järjen avulla! Silloin en ollut sellainen kuin nyt, tätä
+kertoessani. Ja onhan joka ihmisessä kaksi tahtoa, tiedän mä. Minä
+tahdoin Beaten pois. Millä keinoin tahansa. Mutta en kuitenkaan luullut
+sen koskaan tapahtuvan. Joka askelta uskaltaessani ja koetellessani,
+kuulin mielestäni jonkun äänen sisässäni huutavan: Tähän asti vaan! Ei
+askeltakaan enään! -- Enkä kuitenkaan voinut heretä. Minun *täytyi*
+koetella hieman vielä. Sanoa vaan yksi ainoa sananen. Ja sitte yksi
+lisää -- ja aina vaan sananen lisää. -- Ja sitte se *tapahtui*. -- Niin
+sellaiset asiat valmistuvat. (lyhyt vaitiolo).
+
+*Rosmer* (Rebekalle). Miten luulet itsellesi vast'edes käyvän? Tämän
+jälkeen?
+
+*Rebekka*. Minulle saa käydä miten tahansa. Ei sillä ole suurin lukua.
+
+*Kroll*. Ei sanaakaan, josta huomaisi katumusta. Ehk'ei se teitä
+vaivaakkaan?
+
+*Rebekka* (kylmästi). Anteeksi, herra rehtori, -- se asia ei liikuta
+muita kuin minua. Siitä teen vaan tiliä oman itseni kanssa.
+
+*Kroll* (Rosmerille). Ja tuon naisen kanssa sinä elät saman katon alla.
+Mitä likeisimmässä suhteessa. (katsoo kuviin seinillä). Ooh -- noita
+poissa olevia, -- näkisivät he nyt haudoistaan!
+
+*Rosmer*. Menetkö kaupunkiin?
+
+*Kroll* (ottaa hattunsa). Menen. Mitä pikemmin, sitä parempi.
+
+*Rosmer* (ottaa samoin hattunsa). Sitte tulen minä kanssasi.
+
+*Kroll*. Tuletko! No arvasinhan minä, ett'emme me vielä olleet ihan
+menettäneet sinua.
+
+*Rosmer*. Tule nyt, Kroll! Tule! (menevät eteisen kautta, katsomatta
+Rebekkaan. Hetken kuluttua menee Rebekka varovasti akkunan luo ja
+kurkistaa kasvien välistä ulos.)
+
+*Rebekka* (puhuu puoliääneen itsekseen). Eikä tänäänkään sulun yli.
+Yläpuolelta nytkin. Ei pääse koskaan Myllykosken yli. Ei koskaan. (menee
+akkunan luota.) Niin -- niin sitte! (menee ja vetää kellonnauhasta.
+Vähän ajan perästä tulee *matami Helseth* oikealta.)
+
+*Matami Helseth*. Mikä on, neiti?
+
+*Rebekka*. Matami, olkaa hyvä ja tuottakaa minun matkakirstuni alas
+vinniltä.
+
+*Matami Helseth*. Matkakirstunne?
+
+*Rebekka*. Niin, ruskea hylkeennahka-kirstuni, tiedättehän?
+
+*Matami Helseth*. Tiedän toki. Mutta Herra hallitkoon -- aikooko neiti
+lähteä matkoille?
+
+*Rebekka*. Niin, nyt minä aijon lähteä matkoille, matami.
+
+*Matami Helseth*. Ja heti tuossa tuokiossa!
+
+*Rebekka*. Niin pian kun olen säälinyt tavarani kokoon.
+
+*Matami Helseth*. No en ole mokomaa ennen kuullut! Mutta tottahan neiti
+pian palaa, tiedän mä?
+
+*Rebekka*. En minä palaa enää koskaan.
+
+*Matami Helseth*. Ette koskaan! Mutta miten, Herran nimessä, me sitten
+tullaan toimeen täällä Rosmersholmassa, kun neiti on poissa? Ja
+pastori-raukallakin oli niin hyvät oltavat.
+
+*Rebekka*. Niin, mutta minä olen tänään ruvennut pelkäämään, matami
+Helseth.
+
+*Matami Helseth*. Pelkäämään! 'sus siunatkoon, -- minkä tähden?
+
+*Rebekka*. Luulen nähneeni vilauksen valkeista hevosista.
+
+*Matami Helseth*. Valkeista hevosista. Ihan päiväsydännä.
+
+*Rebekka*. Oo, ne valkeat hevoset, ne liikkuvat täällä Rosmersholmassa
+joka aika. (toisella äänellä.) No -- entä matkakirstuni, matami?
+
+*Matami Helseth*. Niin oikein. Matkakirstunne.
+
+(menevät molemmat oikealle.)
+
+
+
+
+NELJÄS NÄYTÖS.
+
+
+(Arkihuone Rosmersholmassa. On myöhä ilta. Pöydällä palaa lamppu, sen
+päällä on varjostin.)
+
+(*Rebekka West* seisoo pöydän edessä, latoen pieniä esineitä
+tavaralaukkuun. Hänen hattunsa, päällystakkinsa ja virkkaamansa valkea
+villahuivi riippuvat sohvan selkämyksellä.)
+
+(*Matami Helseth* tule oikealta.)
+
+*Matami Helseth* (puhuu matalalla äänellä, näyttäen salaperäiseltä).
+Niin, nyt on kaikki kapineet viety ulos, neiti. Ne ovat
+keittiökäytävässä.
+
+*Rebekka*. Hyvä. Olette kai sanonut kuskille?
+
+*Matami Helseth*. Olen. Hän kysyy, mihinkä aikaan hänen pitää tulla
+vaunuinensa.
+
+*Rebekka*. Luullakseni noin yhdentoista paikoilla. Höyrylaiva lähtee
+puoliyön aikaan.
+
+*Matami Helseth* (vähä vitkastellen). Entä pastori sitte? -- Joll'ei hän
+tule siksi kotiin?
+
+*Rebekka*. Minä matkustan kuitenkin. Ell'en enää tapaisi häntä, voitte
+sanoa, että kirjoitan hänelle. Pitkän kirjeen. Sanokaa niin.
+
+*Matami Helseth*. Niin, -- käyhän se laatuun kirjoituskin. Mutta, neiti
+parka, -- minusta teitin pitäisi koittaa puhutella häntä vielä kerran.
+
+*Rebekka*. Ehkä niinkin. Tai ehk'ei sittenkään,
+
+*Matami Helseth*. No ei nyt, -- että minun vielä piti näkemän tällaista,
+enpä minä tätä olisi luullut!
+
+*Rebekka*. Mitä te sitte olisitte luullut, matami Helseth?
+
+*Matami Helseth*. No olisin minä toki luullut pastori Rosmeria vähä
+enemmän kunnon mieheksi.
+
+*Rebekka*. Kunnon mieheksi?
+
+*Matami Helseth*. Niin totta, niin minä juuri sanon.
+
+*Rebekka*. Mutta, matami hyvä, mitä te sillä tarkoitatte!
+
+*Matami Helseth*. Minä tarkoitan täyttä totta, neiti. Ei hänen vaan
+pitäisi *sillä* tavalla suoriutua asiasta.
+
+*Rebekka* (katsoo häneen). Kuulkaapas matami. Sanokaa minulle
+rehellisesti ja suoraan -- minkä tähden te luulette minun lähtevän pois?
+
+*Matami Helseth*. Hyvänen aika, se on kai välttämätöntä, neiti. Jaa,
+jaa, niin, niin. Mutta minusta ei pastori ole ollenkaan tehnyt
+kauniisti. Mortensgårdiakin voi vielä puolustaa. Sillä olihan sen naisen
+mies elossa. Eikä he niin päässeet yhteen, vaikka kuinka olisivat
+tahtoneet. Mutta pastori, nähkääs, hän on -- hm!
+
+*Rebekka* (vähä hymyillen). Oletteko te voinut luulla tuollaisia asioita
+minusta ja pastori Rosmerista?
+
+*Matami Helseth*. En, Jumala varjelkoon. Niin, minä tarkoitan, -- en
+ennen kun tänään.
+
+*Rebekka*. Mutta tänään siis --?
+
+*Matami Helseth*. No -- sitte kun ne ihmiset sanovat sanomissa olevan
+niin paljon ilkeitä asioita pastorista, niin --.
+
+*Rebekka*. Hahaa!
+
+*Matami Helseth*. Sillä minun mielestäni luulisi semmoisen miehen, joka
+kerran menee Mortensgårdin uskoon, kykenevän vaikka ihan mihin tahansa.
+
+*Rebekka*. No niin, taitaa olla niin. Mutta entä minä? Mitä minusta
+luulette?
+
+*Matami Helseth*. Hyvänen aika, -- eihän teistä ole suurin sanottavaa.
+Ei sitä yksinäisen naisen ole niinkään helppoa pysyä lujana -- arvelen
+ma. Kaikkihan me olemme ihmisiä, neiti West.
+
+*Rebekka*. Se on tosi sana, matami. Kaikki me olemme ihmisiä. -- Mitä te
+kuuntelette?
+
+*Matami Helseth* (hiljaa). Herra Jesus, -- siellä se tulee suoraa päätä.
+
+*Rebekka* (säpsähtää). Siis kuitenkin --! (päättävästi) No niin. Olkoon
+menneeksi!
+
+(*Johannes Rosmer* tulee eteisestä.)
+
+*Rosmer* (näkee matkahankkeet, kääntyy Rebekkaan ja kysyy). Mitä tämä
+merkitsee?
+
+*Rebekka*. Minä matkustan pois.
+
+*Rosmer*. Heti?
+
+*Rebekka*. Niin. (matamille.) Siis kello yksitoista.
+
+*Matami Helseth*. Hyvä, neiti. (menee oikialle.)
+
+*Rosmer* (vähä vai'ettuaan). Mihin sinä matkustat, Rebekka?
+
+*Rebekka*. Pohjoiseen päin, höyrylaivalla.
+
+*Rosmer*. Pohjoiseen? Minkä tähden pohjoiseen?
+
+*Rebekka*. Sieltähän minä tulinkin.
+
+*Rosmer*. Mutta eihän sinulla nyt ole siellä mitään tehtävää.
+
+*Rebekka*. Eihän minulla ole mitään tehtävää täälläkään.
+
+*Rosmer*. Mihin sitte aijot ryhtyä?
+
+*Rebekka*. En tiedä. Kunhan vaan saan tästä lopun.
+
+*Rosmer*. Saat lopun?
+
+*Rebekka*. Rosmersholma on murtanut minut.
+
+*Rosmer* (tulee tarkemmaksi). Niinkö sanot?
+
+*Rebekka*. Murtanut minut ihan perinpohjin. -- Minulla oli niin terve ja
+uljas tahto, tänne tullessani. Nyt olen joutunut vieraan lain alle. --
+Tämän jälkeen en luule uskaltavani ryhtyä enää mihinkään.
+
+*Rosmer*. Minkä tähden et? Minkä lain alle sinä sanot, että olet?
+
+*Rebekka*. Elkäämme puhuko siitä nyt. -- Kuinka sinun ja rehtorin kävi?
+
+*Rosmer*. Me olemme sopineet.
+
+*Rebekka*. Vai niin, sillä se siis päättyi.
+
+*Rosmer*. Hän kokosi luokseen kaikki vanhat ystävämme. He ovat
+todistaneet minulle, että ihmismielten jalostajaksi en ollenkaan kelpaa.
+Ja se on sitä paitsi niin toivotonta työtä. Minä heitän sen kokonaan.
+
+*Rebekka*. Niin, niin, -- paras kai se mahtaa olla.
+
+*Rosmer*. Sanotko nyt *niin*? Oletko *nyt* *sitä* mieltä?
+
+*Rebekka*. Minä olen tullut siihen mieleen. Näinä parina viime päivänä.
+
+*Rosmer*. Sinä valehtelet, Rebekka.
+
+*Rebekka*. Valehtelen --!
+
+*Rosmer*. Niin, sinä valehtelet. Sinä et ole koskaan uskonut minuun. Et
+ole koskaan uskonut minussa olevan miestä viemään sitä asiaa voittoon.
+
+*Rebekka*. Minä olen uskonut, että me kaksi yhdessä saisimme sen
+toimeen.
+
+*Rosmer*. Se ei ole totta. Sinä olet uskonut, että itse voisit tehdä
+jotain suurta elämässä. Voisit käyttää minua tarkoituksiisi. Luulit
+minun kelpaavan sinulle välikappaleeksi. Sitä sinä olet uskonut.
+
+*Rebekka*. Kuule, Rosmer --.
+
+*Rosmer* (istuu raskaasti sohvaan). Oh, elä huoli! Kaikki minä näen
+perinpohjin. Minä olen ollut aivan kuin sormikas sinun käsissäsi.
+
+*Rebekka*. Kuule nyt, Rosmer. Puhelkaamme tästä asiasta. Se on oleva
+viimeinen kerta. (istuu tuolille sohvan viereen.) Minä arvelin
+kirjoittaa sinulle jahka taas olin päässyt sinne pohjoiseen. Mutta
+parasta lienee, että saat heti kuulla kaikki.
+
+*Rosmer*. Onko sinulla lisää tunnustettavaa?
+
+*Rebekka*. Suurin asia on sanomatta.
+
+*Rosmer*. Mikä suurin?
+
+*Rebekka*. Se, jota sinä et koskaan ole aavistanut. Se, joka kaikelle
+muulle luo sekä valoa että varjoa.
+
+*Rosmer* (pudistaa päätään). Minä en käsitä tätä vähääkään.
+
+*Rebekka*. Se on aivan totta, että minä kerran kudoin juonia päästäkseni
+tänne Rosmerholmaan. Arvelin, näet, että täällä kyllä pääsisin valtaan.
+Millä tavalla tahansa -- tietysti.
+
+*Rosmer*. Sinulle onnistuikin -- se mitä pyysit.
+
+*Rebekka*. Luulenpa, että minulta olisi onnistunut vaikka mitä -- siihen
+aikaan. Sillä silloin minulla vielä oli uljas, vapaa tahtoni. Silloin en
+tuntenut arkuutta. En tuntenut suhteita, joiden tähden olisin poikennut
+polultani. Mutta silloin heräsi alku siihen, joka on murtanut tahdon
+minulta -- ja tehnyt minusta saamattoman koko elämäkseni.
+
+*Rosmer*. Mikä heräsi. Puhu niin, että voin sinua ymmärtää.
+
+*Rebekka*. Silloin minussa heräsi -- tuo hurja, hillitsemätön halu --.
+Ooh, Rosmer --!
+
+*Rosmer*. Halu. Sanoit --! Mihin?
+
+*Rebekka*. Sinuun.
+
+*Rosmer* (tahtoo hypähtää seisomaan). Mitä tämä on!
+
+*Rebekka* (hilliten häntä). Pysy vaan istumassa, ystäväni. Nyt saat
+kuulla eteen päin.
+
+*Rosmer*. Ja sinä tarkoitat -- että olet rakastanut minua -- tuolla
+tavalla!
+
+*Rebekka*. Mielestäni sitä voi kutsua rakkaudeksi, -- siihen aikaan.
+Minä pidin sitä rakkautena. Mutta sitä se ei ollut. Se oli niin hurja jo
+sanoin, hurja, hillitsemätöin halu.
+
+*Rosmer*. (tukalasti). Rebekka -- istutko sinä todellakin itse siinä --
+sinä -- sinä itse, kertomassa tätä!
+
+*Rebekka*. Niin, mitä arvelet, Rosmer!
+
+*Rosmer*. Sellaisesta syystä, -- sellaisen halun vallassa sinä siis --
+sinä -- sinä -- ryhdyit *toimeen*, -- niinkuin sitä kutsut.
+
+*Rebekka*. Se tarttui minuun, kuin meren rannikoilla myrsky. Sellainen
+myrsky, jota meillä on talvisaikaan siellä pohjan puolessa. Se tempaa
+mukaansa, -- kantaa pyörteessään kauvaksi, -- mihin tahansa. Turha on
+ponnistella vastaan.
+
+*Rosmer*. Ja onnettoman Beaten se riuhtasi Myllykoskeen.
+
+*Rebekka*. Niin, sillä siihen aikaan Beate ja minä taistelimme
+keskenämme kuin kaksi hukkuvaa veneen kölillä.
+
+*Rosmer*. Sinä olit ehdottomasti voimakkain Rosmersholmassa.
+Voimakkaampi kuin Beate ja minä yhteensä.
+
+*Rebekka*. Minä tunsin sinut tarpeeksi, tietääkseni, että joka tie oli
+suljettu luoksesi, siksi kunnes olit päässyt vapaaksi sekä suhteistasi
+että -- mielipiteistäsi.
+
+*Rosmer*. Minä en käsitä sinua, Rebekka. Sinä -- sinä itse, -- koko
+sinun käytöksesi on minulle selittämätöin arvoitus. Nythän minä olen
+vapaa -- sekä mielipiteistäni että suhteistani. Nyt olet saavuttanut
+alkuperäisen päämaalisi. Ja kuitenkin --!
+
+*Rebekka*. En ole vielä milloinkaan ollut niin kaukana päämaalistani
+kuin nyt.
+
+*Rosmer*. -- ja kuitenkin -- sanon -- kun eilen kysyin sinulta -- pyysin
+sinua: rupea vaimokseni, -- silloin sinä huudahdit aivan kuin kauhulla,
+ett'et koskaan sitä tee.
+
+*Rebekka*. Silloin minä huusin epätoivosta.
+
+*Rosmer*. Minkä tähden?
+
+*Rebekka*. Sen tähden että Rosmersholma on lamannut minut. Täällä minun
+oma, uljas tahtoni on tukahutettu. Murrettu! Se aika on ollut ja mennyt,
+jolloin minulla oli rohkeutta uskaltamaan mitä tahansa. Minä olen
+menettänyt toimintakykyni, Rosmer.
+
+*Rosmer*. Sano minulle, kuinka se on tapahtunut.
+
+*Rebekka*. Se on lähtenyt yhdys-elämästä sinun kanssasi!
+
+*Rosmer*. Mutta kuinka? Kuinka?
+
+*Rebekka*. Jäätyäni tänne kahden kanssasi, -- ja sitte kun sinä olit
+muuttunut oikeaksi itseksesi --
+
+*Rosmer*. Niin niin?
+
+*Rebekka*. -- sillä sinä et ollut täydellisesti oma itsesi, niin kauan
+kuin Beate eli --
+
+*Rosmer*. Paha kyllä, sinä olet aivan oikeassa.
+
+*Rebekka*. Mutta kun sitte sain elää täällä kanssasi -- hiljaisuudessa
+-- yksinäisyydessä, -- kun annoit minulle ehdottomasti kaikki
+ajatuksesi, -- joka mielialan vivahduksen, niin vienona ja puhtaana,
+kuin ne tunsit, *silloin* minussa tapahtui se suuri muutos. Vähitellen
+-- tietysti. Melkein huomaamatta -- mutta lopuksi niin valtavasti. Ihan
+perin pohjin.
+
+*Rosmer*. Mitä se oikein on Rebekka!
+
+*Rebekka*. Kaikki muu, -- tuo inhottava, aistillinen halu, erosi minusta
+kauvaksi, kauvaksi pois. Kaikki kiihkeät intohimot vaipuivat vienoon
+rauhaan. Mieleeni laskeutui tyyneys, -- hiljaisuus sellainen kuin
+lintujen *lepokallioille* sydän-yön auringon aikana siellä pohjoisessa
+-- -- --.
+
+*Rosmer*. Puhu enemmän siitä. Kaikki mitä tiedät.
+
+*Rebekka*. Ei ole enää suurin sanottavaa. *Se* vaan on enää kertomatta,
+että silloin minussa heräsi rakkaus. Suuri, vaatimatoin rakkaus, joka
+tyytyy yhdys-elämään, sellaiseen, kuin on vallinnut meidän kahden
+välillämme.
+
+*Rosmer*. Oi, olisi minulla edes ollut pienikin aavistus tästä.
+
+*Rebekka*. Paras on, niin kuin on. Eilen -- kun kysyit minulta, tahdonko
+ruveta vaimoksesi -- silloin minä riemuitsin --
+
+*Rosmer*. Niin riemuitsithan sinä, Rebekka! Siltä minustakin näytti.
+
+*Rebekka*. Niin, minä riemuitsin hetkisen. Unohdin itseni silloin.
+Muinoinen reipas tahtoni pyrki taas vapautumaan. Mutta nyt sillä ei ole
+enää voimaa -- ei pidemmältä.
+
+*Rosmer*. Miten sinä selität muutoksen, joka sinussa on tapahtunut?
+
+*Rebekka*. Rosmer-suvun näkökanta elämästä -- tai ainakin *sinun*
+näkökantasi on turmellut minun tahtoni!
+
+*Rosmer*. Turmellut?
+
+*Rebekka*. Niin, tehnyt sen sairaaksi. Sitonut sen sellaisten lakien
+alaiseksi, joilla ennen ei ollut arvoa silmissäni. Yhdys-elämä sinun
+kanssasi -- on jalostanut minun mieleni --
+
+*Rosmer*. Ooh, voisin vaan luottaa siihen!
+
+*Rebekka*. Voit lujasti luottaa siihen. Rosmer-suvun näkökanta jalostaa.
+Mutta: -- (pudistaa päätään.) mutta -- mutta --
+
+*Rosmer*. Mutta? -- Mitä?
+
+*Rebekka*. -- mutta se murhaa onnen.
+
+*Rosmer*. Niinkö sanot, Rebekka?
+
+*Rebekka*. Ainakin minulta.
+
+*Rosmer*. Niin, mutta oletko ihan varma *siitä*. Jos nyt taas kysyisin
+sinulta --? Pyytäisin sinua niin hartaasti --
+
+*Rebekka*. Ystäväni -- elä koskaan enää puhu siitä! Se on mahdotonta!
+Niin, -- sillä, Rosmer, tiedä, että minulla on entisyydessäni jotakin --
+
+*Rosmer*. Enemmänkin kuin mitä ennen olet kertonut?
+
+*Rebekka*. Niin. Enemmän ja jotain muuta.
+
+*Rosmer* (heikosti hymyillen). Eikö se ole kummallista, Rebekka?
+Ajatteles, sielussani on silloin tällöin hämärtänyt aavistus siitä.
+
+*Rebekka*. Onko? Ja sentään --? Kuitenkin sinä --?
+
+*Rosmer*. Minä en koskaan uskonut sitä. Leikin sillä vaan -- noin
+ajatuksissani -- ymmärräthän.
+
+*Rebekka*. Jos vaadit, niin kerron sinulle nyt heti senkin.
+
+*Rosmer* (kieltäen). Ei, ei! Minä en tahdo kuulla sanaakaan. Mitä se
+lieneekin -- niin minä voin unhoittaa kaikki.
+
+*Rebekka*. Mutta minä en voi.
+
+*Rosmer*. Oo, Rebekka!
+
+*Rebekka*. Niin, Rosmer, -- *se* se juuri on kauheata, että nyt, kun
+elämän onnea tarjotaan minulle täysin mitoin, -- nyt olen muuttunut
+sellaiseksi, että oma entisyyteni salpaa minulta onnen.
+
+*Rosmer*. Entisyytesi on kuollut, Rebekka. Sillä ei ole enää valtaa
+sinuun, -- ei minkäänlaista yhteyttä kanssasi, -- semmoisena kuin nyt
+olet.
+
+*Rebekka*. Ei, ystäväni, nuo ovat vaan puhetapoja. Entä viattomuus
+sitte? Mistä minä *sen* otan.
+
+*Rosmer* (raskaasti). Niin, niin -- viattomuus.
+
+*Rebekka*. Viattomuus, niin. Siinä on onni ja riemu. *Se* oppihan sinun
+piti tehdä eläväksi kaikissa noissa tulevissa, iloisissa
+aatelis-ihmisissä --.
+
+*Rosmer*, Oi, elä muistuta minua siitä. Se oli vaan epäselvä unelma,
+Rebekka. Hätäilty tuuma, johon en itsekkään enää usko. Ihmisiä ei voida
+jalostaa ulkoa päin.
+
+*Rebekka* (hiljaa). Eikö hiljaisella rakkaudellakaan, eikö?
+
+*Rosmer* (miettien). Niin, -- *siinähän* se suuri juuri olisi. Elämän
+ihanin onni mielestäni, melkein. -- Jos niin on -- (kiemurtelee
+tuskissaan). Mutta kuinka minä saan selville sen kysymyksen? Pääsen sen
+perille.
+
+*Rebekka*. Etkö sinä usko minua?
+
+*Rosmer*. Voi Rebekka! Kuinka minä voin täydellisesti uskoa sinua?
+Sinua, joka täällä olet salannut ja peitellyt niin sanomattoman paljon!
+Nyt kerrot taas minulle jotain uutta. Onko sillä joku salatarkoitus, --
+niin sano se suoraan, tai tahdotko ehkä voittaa sillä jotain. Teenhän
+minä niin mielelläni hyväksesi kaikki, mitä vaan voin.
+
+*Rebekka* (väännellen käsiään). Voi tuota murhaavaa epäluuloa, Rosmer --
+Rosmer!
+
+*Rosmer*. Niin, eikö tämä ole kauheata, mutta minä en voi sitä auttaa,
+minä en koskaan enää pääse epäluulosta. Minä en koskaan voi varmasti
+tietää, oletko minun täydellisesti, puhtaassa rakkaudessa?
+
+*Rebekka*. Mutta eikö sielusi sisimmässä sitte ole mitään, joka
+todistaisi, että minussa on tapahtunut muutos! Ja että muutos on
+tapahtunut sinun, -- ainoastaan sinun kauttasi!
+
+*Rosmer*. Ooh -- ininä en enää usko, että kykenen muuttamaan ihmisiä.
+Minä en usko enää itseeni missään asiassa. Minä en usko itseeni enkä
+sinuun.
+
+*Rebekka*. Kuinka sitte luulet voivasi elää?
+
+*Rosmer*. Niin, sitä en itsekkään ymmärrä. Minä en käsitä sitä. Minä en
+luule että voinkaan. -- Enkä minä tiedä mitään asiaa koko maailmassa,
+jonka hyväksi kannattaisikaan elää.
+
+*Rebekka*. Elämässä, -- siinä on uudistusvoimaa. Luottakaamme siihen.
+Aikanamme siitä kyllä suoriumme.
+
+*Rosmer* (hypähtää levottomana seisomaan). Anna minulle sitte
+luottamukseni takaisin! Luottamukseni *sinuun*, Rebekka! Luottamukseni
+rakkauteesi! Todistuksia! Todistuksia minä tahdon!
+
+*Rebekka*. Todistuksia? Mistä minä voin antaa sinulle todistuksia.
+
+*Rosmer*. Sinun täytyy. (menee lattian poikki.) Minä en kestä tätä
+autiota, -- tätä kauheata tyhjyyttä, -- tätä -- tätä --.
+
+*Rebekka*. (eteisen oveen kolkutetaan kovasti. Rebekka hypähtää
+seisomaan.) Ah, kuuletko?
+
+(Ovi aukenee. *Ulrik Brendel* tulee sisään, hänellä on kiillotettu paita
+päällä, musta takki ja hyvät saappaat, joiden varret ovat vedetyt
+housujen päälle, muuten samassa puvussa kuin edellisellä kerrallakin,
+näyttää ränsistyneeltä.)
+
+*Rosmer*. Tekö siellä olette, herra Brendel.
+
+*Brendel*. Johannes poikani, -- minä sanon sinulle hyvästi.
+
+*Rosmer*. Minne aijotte näin myöhään?
+
+*Brendel*. Alas mäkeä.
+
+*Rosmer*. Kuinka?
+
+*Brendel*. Nyt menen kotipuoleen, kallis oppilaani. Olen alkanut kaivata
+sitä suurta olemattomuutta.
+
+*Rosmer*. Teille on tapahtunut jotain, herra Brendel! Mitä se on?
+
+*Brendel*. Vai huomaat sinä muutoksen? Niin, onhan se luonnollistakin.
+Kun viimeksi johdin askeleeni tähän saliin, -- silloin seisoin edessäsi
+äveriäänä miehenä ja taputtelin tyytyväisenä povitaskuani.
+
+*Rosmer*. Vai niin! Minä en oikein ymmärrä --
+
+*Brendel*. Mutta tällaisena kuin tänä yönä näette minut, olen minä
+hävinnyt kuningas palaneen linnani tuhkakasalla.
+
+*Rosmer*. Jos *minä* voin auttaa teitä jollain --
+
+*Brendel*. Sinä olet saanut säilymään lapsen sydämmesi. Liikeneekö
+sinulta pieni laina minulle?
+
+*Rosmer*. Kyllä, kyllä, hyvin kernaasti.
+
+*Brendel*. Anna sitte minulle yksi ihanne, tahi pari!
+
+*Rosmer*. Mitä te sanotte!
+
+*Brendel*. Pari kulunutta ihannetta; sillä teet hyvän työn. Sillä nyt
+minä olen köyhä, poikaseni. Typityhjä.
+
+*Rebekka*. Ettekö tullut pitäneeksi esitelmäänne?
+
+*Brendel*. En, hurmaava neito. Mitä arvelette! Juuri kun juhlallisesti
+asetun tyhjentämään runsauden sarvea, niin keksin katkeruudekseni, että
+olenkin konkurssitilassa.
+
+*Rebekka*. Entä kaikki teidän kirjoittamattomat teoksenne?
+
+*Brendel*. Viisikolmatta vuotta olen minä istunut, kuin saituri istuu
+lukitun raha-arkkunsa kannella. Eilen, -- kun kimmahutin kannen auki,
+tuodakseni ilmoille aarteeni, niin siellä ei ollutkaan mitään. Ajan
+hammas on kuluttanut sen tomuksi. Koko komeus rauvennut tyhjiin.
+
+*Rosmer*. Mutta oletteko siitä nyt niin ihan varma?
+
+*Brendel*. Ei ole epäilystäkään ystäväni. Presidentti on antanut minulle
+siitä täyden vakuuden.
+
+*Rosmer*. Presidentti?
+
+*Brendel*. No, niin, -- hänen ylhäisyytensä sitte. Ganz nach Belieben.
+
+*Rosmer*. Niin, mutta ketä te tarkoitatte?
+
+*Brendel*. Peder Mortensgårdia tietysti.
+
+*Rosmer*. Mitä!
+
+*Brendel* (salaperäisesti.) Hys, hys! Peder Mortensgård on tulevaisuuden
+päällikkö ja herra. Milloinkaan en ole vielä seisonut mahtavamman miehen
+silmien edessä. Peder Mortensgårdilla on kaikkivaltaisuuden kyky. Hän
+voi tehdä kaikki mitä tahtoo.
+
+*Rosmer*. Oo, elkää uskoko sitä.
+
+*Brendel*. Voi kun voikin, poikani. Peder Mortensgård ei koskaan tahdo
+enempää kuin voi. Peder Mortensgård kykenee elämää elämätänsä ilman
+ihanteita ja siinä, näetkös, -- näetkös siinä juuri on voiton suuri
+salaisuus. Se on kaiken viisauden summa. Sanottu!
+
+*Rosmer*. (puoliääneen.) Nyt huomaan, että menette täältä köyhempänä
+kuin tulitte.
+
+*Brendel*. Bien! Ota siis esimerkkiä vanhasta opettajastasi. Pyhi pois
+kaikki, mitä hän täällä päähäsi penäsi. Elä rakenna huonettasi
+juoksevalle hiekalle. Ja katso eteesi ja koittele, -- ja koettele ennen
+kuin rakennat tälle viehättävälle olennolle, joka täällä sulostuttaa
+elämätäsi.
+
+*Rebekka*. Minuako tarkoitatte?
+
+*Brendel*. Niin, hurmaava merenneito.
+
+*Rebekka*. Miksei minulle voisi rakentaa?
+
+*Brendel* (astuu askeleen lähemmäksi.) Minulle on kerrottu, että
+entisellä oppilaallani on elämän tehtävä vietävä voittoon.
+
+*Rebekka*. No niin --?
+
+*Brendel*. Hän voittaa varmaan. Mutta -- huomatkaa, -- yhdellä
+välttämättömällä ehdolla.
+
+*Rebekka*. Millä ehdolla?
+
+*Brendel* (tarttuu häntä kohteliaasti ranteesen). Että se nainen, joka
+häntä rakastaa, menee iloisena keittiöön ja lyö poikki hienon
+ruusunpunaisen pikkusormensa, -- tästä, -- tästä, keskinivelen kohdalta.
+Toiseksi, että mainittu rakastettava nainen -- myöskin iloisesti --
+leikkaa pois verrattoman siron vasemman korvansa. (Päästää hänen kätensä
+ja kääntyy Rosmeriin.) Hyvästi, voittava Johannekseni!
+
+*Rosmer*. Lähdettekö nyt yön pimeyteen?
+
+*Rosmer*. Yön pimeys on paras. Rauha olkoon teille. (Menee. Hetken
+äänettömyys huoneessa.)
+
+*Rebekka* (hengittää raskaasti). Ooh, kuinka täällä on tukalaa ja
+raskasta! (menee akkunan luo, avaa sen ja jää sen eteen seisomaan.)
+
+*Rosmer* (istuu uunin luona olevaan nojatuoliin). Se lienee sittekin
+parasta, Rebekka. Minä huomaan sen. Sinun on matkustaminen.
+
+*Rebekka*. Niin, minä en tiedä muuta keinoa.
+
+*Rosmer*. Käyttäkäämme siis hyväksemme viimeistä hetkeä. Tule tänne ja
+istu tuohon viereeni.
+
+*Rebekka* (menee ja istuu sohvaan). Mitä tahdot, Rosmer?
+
+*Rosmer*. Ensiksi sanon sinulle sen, ett'ei sinun tarvitse huolehtia
+tulevaisuudestasi.
+
+*Rebekka* (hymyilee). Hm. *Minun* tulevaisuuteni.
+
+*Rosmer*. Minä olen sovittanut asiat kaikkien mahdollisuuksien varalle.
+Jo aikoja sitte. Mitä tahansa tapahtuisikin, niin on sinusta pidetty
+huolta.
+
+*Rebekka*. Sekin vielä, rakas Rosmer.
+
+*Rosmer*. Olisihan sinun pitänyt arvatakin se.
+
+*Rebekka*. Aikoja on siitä kulunut, kun minä viimeksi ajattelin moisia
+asioita.
+
+*Rosmer*. Niin, niin, -- sinä arvelit kai, ett'ei meidän välimme koskaan
+voisi muuttua toisellaiseksi, kuin se oli.
+
+*Rebekka*. Niin, niin luulin.
+
+*Rosmer*. Samoin luulin minäkin. Mutta jos minä kuolisin --.
+
+*Rebekka*. O, Rosmer -- sinä elät kauvemmin kuin minä.
+
+*Rosmer*. Kurja henkeni lienee sentään omassa vallassani, saan kai sille
+tehdä, mitä tahdon.
+
+*Rebekka*. Mitä sillä tarkoitat! Ethän vaan ajattele --.
+
+*Rosmer*. Olisiko se sinusta niin kummallista? Kärsittyäni näin nolon,
+surkean tappion! Minä, jonka piti viedä elämäntyöni voittoon --. Ja nyt
+olen paennut, jättänyt kaikki, -- ennen -- kuin taistelu oli edes oikein
+alkanutkaan.
+
+*Rebekka*. Ala taistelu uudestaan, Rosmer! Koeta vaan, -- niin saat
+nähdä, että voitat. Sinä olet jalostava satojen, -- tuhansien mielet.
+Koeta vaan!
+
+*Rosmer*. Voi, Rebekka -- minäkö, joka en itse luota omaan tehtävääni.
+
+*Rebekka*. Mutta onhan sinun tehtäväsi jo kestänyt koetuksensa. *Yhden*
+ihmisen olet ainakin jalostuttanut. Minut, koko elinijäkseni.
+
+*Rosmer*. Niin, -- kun voisin uskoa sanojasi.
+
+*Rebekka* (vääntelee käsiään). No, mutta, Rosmer, -- etkö tiedä mitään,
+-- etkö mitään, joka saisi sinut uskomaan sitä?
+
+*Rosmer* (säpsähtää, aivan kuin kammosta). Elä tutki sitä tarkemmin! Elä
+tutki, Rebekka! Ei sanaakaan enää!
+
+*Rebekka*. Ei, juuri se asia on tutkittava. Tiedätkö mitään keinoa, joka
+tukahuttaisi epäluulosi? *Minä* en tiedä ainoatakaan.
+
+*Rosmer*. Paras sinulle ett'et tiedä. Paras meille kummallekkin.
+
+*Rebekka*. Ei, ei ei, -- tähän minä en tyydy! Jos tiedät keinon, millä
+voin puhdistaa itseni silmissäsi, vaadin minä oikeutenani, että sanot
+sen.
+
+*Rosmer* (ikäänkuin ehdottomasti, vasten tahtoansa pakotettuna). No,
+olkoon menneeksi! Sanoit, että suuri rakkaus on sinussa. Että mielesi on
+jalostunut minun kauttani. Onko niin? Oletko tehnyt tarkat laskut?
+Koettelemmeko tulostasi? Mitä?
+
+*Rebekka*. Siihen olen valmis.
+
+*Rosmer*. Koska tahansa?
+
+*Rebekka*. Koska tahansa. Mitä pikemmin, sitä parempi.
+
+*Rosmer*. Näytä minulle sitte Rebekka, -- uskallatko, -- minun tähteni,
+-- vielä tänä iltana --. (keskeyttää.) Oi, ei, ei, ei!
+
+*Rebekka*. Kyllä, Rosmer! Kyllä kyllä! Sano se niin saat nähdä.
+
+*Rosmer*. Onko sinulla rohkeutta, -- onko sinulla lujuutta, --
+iloisesti, niin kuin Ulrik Brendel sanoi, -- minun tähteni, nyt tänä
+yönä, -- iloisesti, -- mennä samaa tietä kuin Beate meni?
+
+*Rebekka* (nousee hitaasti sohvalta ja lausuu melkein mykistyneenä).
+Rosmer --!
+
+*Rosmer*. Niin, -- se kysymys ei jätä minua rauhaan -- sinun
+lähdettyäsi. Joka hetki päivästä on se minua kiusaava. Oo -- mielestäni
+näen sinut ilmi-elävänä edessäni. Sinä seisot sululla. Ihan keskellä
+sulkua. Nyt kumarrut käsipuiden yli! Vaivut pyörteesen, alas putousta
+kohden! Ei! Sinä horjut. Et uskallakkaan -- mitä hän uskalsi.
+
+*Rebekka*. Mutta jos minulla olisi rohkeutta siihen? Ja iloinen tahto?
+Mitä sitte?
+
+*Rosmer*. Sittehän minun täytyisi uskoa sinua. Täytyisi minun sitte kai
+saada takaisin uskoni elämäni tehtävään. Uskoa kykyni jalostavan
+ihmismieliä. Uskoa ihmismielten jalostumiseen.
+
+*Rebekka*. (ottaa valkean huivinsa, kietoo sen päänsä ympäri ja sanoo
+maltillisesti). Sinä olet saava takaisin uskosi.
+
+*Rosmer*. Onko sinulla rohkeutta ja tahtoa -- siihen, Rebekka?
+
+*Rebekka*. Sen saat nähdä huomenna, -- tai myöhemmin, jahka saavat minut
+ylös.
+
+*Rosmer* (tarttuu otsaansa). Siinä on kammottava viehätys --!
+
+*Rebekka*. Sillä minä en tahtoisi jäädä veteen. En kauvemmaksi aikaa
+kuin välttämättömästi tarvitsee. Pidettäköön huoli siitä, että ruumiini
+löydetään.
+
+*Rosmer* (hypähtää ylös). Mutta tämähän -- tämähän on hulluutta.
+Matkusta, -- tai jää! Minä uskon sinua tälläkin kertaa pelkän sanasi
+nojalla.
+
+*Rebekka*. Puhetapoja, Rosmer. Pois nyt heikkous ja arkaileminen! Kuinka
+sinä tämän jälkeen voisit uskoa minua pelkkien sanojen nojalla?
+
+*Rosmer*. Mutta minä en tahdo nähdä sinun tappiotasi, Rebekka.
+
+*Rebekka*. Siitä ei tule tappiota.
+
+*Rosmer*. Tulee kyllä. Ei sinulla ole koskaan lujuutta mennä Beaten
+tietä.
+
+*Rebekka*. Etkö luule olevan?
+
+*Rosmer*. En koskaan. Sinä et ole Beaten tapainen. Sinä et ole
+tuskaantuneen näkökannan alainen.
+
+*Rebekka*. Mutta minä olen Rosmersholman näkökannan alainen. -- Nyt
+minun tulee sovittaa, mitä olen rikkonut.
+
+*Rosmer* (katsoo häneen kiinteästi). Onko *se* nyt kantasi!
+
+*Rebekka*. On.
+
+*Rosmer*. Hyvä. Sitte olen minä meidän vapautuneen näkökantamme alainen.
+Ei ole kukaan meidän tuomarimme. Ja siksi saamme itse istua oikeutta.
+
+*Rebekka* (käsittää väärin hänen tarkoituksensa). Sekin vielä. Vielä
+sekin. Minun kuolemani vapauttaa kaikista paraimman sinussa.
+
+*Rosmer*. Ooh, minussa ei ole enään mitään vapauttamista.
+
+*Rebekka*. On kyllä. Mutta minä -- minä olisin tästä lähin aivan kuin
+vesihirviö, vaan estelemässä ja pidättelemässä laivaa, jolla sinä
+riennät eteenpäin. Minun pitää mennä mereen. Tai jäisinkö tänne kitumaan
+ehkäistyä elämää. Miettimään ja suremaan onnea, jonka entisyyteni salpaa
+minulta? Paras on minun päästä pois, Rosmer.
+
+*Rosmer*. Jos sinä menet -- tulen minä kanssasi.
+
+*Rebekka*. (hymyilee melkein huomaamattomasti, katsoo häneen ja sanoo).
+Niin, tule -- tule todistajaksi --
+
+*Rosmer*. Minä tulen sinun kanssasi, minä sanon.
+
+*Rebekka*. Sululle asti, niin. Sen päälle sinä et koskaan rohkene astua.
+
+*Rosmer*. Oletko huomannut sen?
+
+*Rebekka* (raskaasti ja murtuneella äänellä). Olen. -- Se juuri teki
+minun rakkauteni toivottomaksi.
+
+*Rosmer*. Rebekka, -- nyt lasken käteni pääsi päälle. (tekee niin.) Ja
+otan sinut oikeana vaimonani aviopuolisokseni.
+
+*Rebekka* (tarttuu hänen käsiinsä ja kumartaa päänsä hänen rinnoilleen).
+Kiitos, Rosmer. (päästää hänet.) Ja nyt menen minä -- iloisena.
+
+*Rosmer*. Miehen ja vaimon tulee seurata toisiansa.
+
+*Rebekka*. Sululle asti vaan, Rosmer.
+
+*Rosmer*. Sen päälle myöskin. Niin pitkälle kuin sinäkin menet -- tulen
+sinun kanssasi. Sillä nyt minä uskallan.
+
+*Rebekka*. Tiedätkö ihan varmaan, että se tie on sinulle paras?
+
+*Rosmer*. Minä tiedän, että se on ainoa.
+
+*Rebekka*. Mutta jos erehdyt? Jos tämä onkin vaan hairahdus? Joku
+Rosmersholman valkeista hevosista.
+
+*Rosmer*. Voi olla. Sillä niistä me emme pääse tässä talossa.
+
+*Rebekka*. Jää siis, Rosmer!
+
+*Rosmer*. Miehen tulee seurata vaimoansa, samoin kuin vaimon miestään.
+
+*Rebekka*. Niin, sano minulle *se* ensin. Seuraatko sinä minua? Tai
+minäkö seuraan sinua?
+
+*Rosmer*. Sitä emme koskaan saa harkituksi.
+
+*Rebekka*. Minä tahtoisin sentään mielelläni tietää sen.
+
+*Rosmer*. Me seuraamme toinen toistamme. Minä sinua ja sinä minua.
+
+*Rebekka*. Niin minäkin melkein luulen.
+
+*Rosmer*. Sillä nyt me kaksi olemme *yksi*.
+
+*Rebekka*. Niin. Nyt me olemme yksi. Tule! Niin menemme iloisina.
+(menevät käsi kädessä eteisen kautta ja kääntyvät vasemmalle. Ovi jää
+auki.)
+
+(Huone on hetken tyhjä. *Matami Helseth* raottaa oikeanpuolista ovea.)
+
+*Matami Helseth*. Neiti, -- vaunut ovat -- (katsoo ympärilleen.) Ei
+ketään? Yhdessä ulkona tähän aikaan? No, entä -- sen minä sanon --! Hm!
+(menee eteiseen, katselee ympärilleen, tulee takaisin jälleen.) Ei
+penkilläkään. Ei nyt, ei, (menee akkunan luoja katsoo ulos). 'sus
+siunaa! Tuo Valkonen *tuolla* --! Siellähän ne, toden totta, seisovat
+kumpikin sululla! Varjelkoon, niitä syntisiä ihmisparkoja! Eivätkös
+seiso ihan sylitysten! (huutaa kovaa.) Ooh -- kaiteen yli -- kumpikin!
+-- Koskeen. Apua! Apua! (vapisee polvistaan, pitelee tuolista kiinni ja
+saa tuskin sanotuksi:) Ei. Apu on turha. -- Rouva vainaa vei ne.
+
+
+
+
+
+End of the Project Gutenberg EBook of Rosmersholma, by Henrik Ibsen
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ROSMERSHOLMA ***
+
+***** This file should be named 16806-8.txt or 16806-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/6/8/0/16806/
+
+Produced by Matti Järvinen and Tuija Lindholm.
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
